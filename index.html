@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#09090b">
+  <title>Podcasts</title>
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+  <style type="text/tailwindcss">
+    @layer base {
+      html { color-scheme: dark; }
+      body { @apply bg-zinc-950 text-zinc-100 antialiased; }
+      button, a, input, select { @apply focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/70; }
+    }
+
+    @layer components {
+      .card { @apply rounded-2xl border border-white/10 bg-zinc-900/80; }
+      .icon-button { @apply inline-flex size-11 items-center justify-center rounded-full bg-white text-zinc-950 transition hover:bg-zinc-200 disabled:cursor-not-allowed disabled:opacity-40; }
+      .secondary-button { @apply inline-flex size-10 items-center justify-center rounded-full border border-white/15 bg-zinc-900 transition hover:bg-zinc-800; }
+    }
+  </style>
+</head>
+<body class="min-h-screen pb-40">
+  <header class="sticky top-0 z-30 border-b border-white/10 bg-zinc-950/95 backdrop-blur">
+    <div class="mx-auto flex max-w-6xl items-center gap-3 px-4 py-4 sm:px-6">
+      <button id="backButton" class="secondary-button hidden" type="button" aria-label="Back to podcasts">
+        <span aria-hidden="true">←</span>
+      </button>
+      <a href="#" class="text-xl font-bold tracking-tight">Podcasts</a>
+      <div id="updatedAt" class="ml-auto hidden text-xs text-zinc-500 sm:block"></div>
+    </div>
+  </header>
+
+  <main class="mx-auto max-w-6xl px-4 py-6 sm:px-6 sm:py-8">
+    <section id="homeView">
+      <div class="mb-6">
+        <h1 class="text-3xl font-bold tracking-tight sm:text-4xl">Latest episodes</h1>
+        <p class="mt-2 max-w-2xl text-sm leading-6 text-zinc-400 sm:text-base">The newest episode from every podcast in your feed list.</p>
+      </div>
+
+      <label class="relative mb-6 block">
+        <span class="sr-only">Search podcasts and episodes</span>
+        <span class="pointer-events-none absolute inset-y-0 left-4 flex items-center text-zinc-500" aria-hidden="true">⌕</span>
+        <input id="searchInput" type="search" placeholder="Search podcasts or episodes" class="w-full rounded-2xl border border-white/10 bg-zinc-900 py-3.5 pl-11 pr-4 text-base placeholder:text-zinc-500">
+      </label>
+
+      <div id="podcastGrid" class="grid gap-4 md:grid-cols-2"></div>
+      <div id="emptyState" class="card hidden p-8 text-center text-zinc-400">No podcasts or episodes match that search.</div>
+    </section>
+
+    <section id="podcastView" class="hidden"></section>
+  </main>
+
+  <div id="player" class="fixed inset-x-0 bottom-0 z-40 hidden border-t border-white/10 bg-zinc-900/95 shadow-2xl backdrop-blur">
+    <div class="mx-auto max-w-6xl px-4 py-3 sm:px-6">
+      <div class="mb-3 flex min-w-0 items-center gap-3">
+        <div id="playerArtwork" class="flex size-11 shrink-0 items-center justify-center overflow-hidden rounded-lg bg-zinc-800 text-lg font-bold"></div>
+        <div class="min-w-0 flex-1">
+          <div id="playerEpisode" class="truncate text-sm font-semibold"></div>
+          <div id="playerPodcast" class="truncate text-xs text-zinc-400"></div>
+        </div>
+        <button id="closePlayer" type="button" class="rounded-lg p-2 text-zinc-400 hover:bg-white/5 hover:text-white" aria-label="Close player">×</button>
+      </div>
+
+      <div class="mb-3 flex items-center gap-3 text-xs tabular-nums text-zinc-400">
+        <span id="currentTime">0:00</span>
+        <input id="seek" class="h-1 flex-1 cursor-pointer accent-white" type="range" min="0" max="100" value="0" step="0.1" aria-label="Episode position">
+        <span id="duration">0:00</span>
+      </div>
+
+      <div class="flex items-center justify-center gap-5">
+        <button id="rewind" type="button" class="secondary-button text-xs font-semibold" aria-label="Rewind 15 seconds">−15</button>
+        <button id="playPause" type="button" class="icon-button text-lg" aria-label="Play">▶</button>
+        <button id="forward" type="button" class="secondary-button text-xs font-semibold" aria-label="Forward 30 seconds">+30</button>
+        <select id="speed" class="rounded-lg border border-white/15 bg-zinc-900 px-2 py-2 text-sm" aria-label="Playback speed">
+          <option value="1">1×</option>
+          <option value="1.25">1.25×</option>
+          <option value="1.5">1.5×</option>
+          <option value="1.75">1.75×</option>
+          <option value="2">2×</option>
+        </select>
+      </div>
+    </div>
+    <audio id="audio" preload="metadata"></audio>
+  </div>
+
+  <script type="module" src="./assets/app.js"></script>
+</body>
+</html>
