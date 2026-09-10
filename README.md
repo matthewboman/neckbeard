@@ -39,6 +39,8 @@ python3 -m http.server 8000
 
 Open `http://localhost:8000`.
 
+Do not open `index.html` directly with a `file://` URL because the app fetches `data/podcasts.json`.
+
 Tailwind is loaded with the Tailwind v4 browser package, so the static UI does not require a CSS build step.
 
 ## Tests
@@ -69,3 +71,7 @@ The job:
 6. Commits and pushes the JSON only when it changed.
 
 Scheduled GitHub Actions use UTC and can start somewhat later than the exact cron time.
+
+## Playback resume
+
+The player saves the current episode, playback position, and playback speed in the browser's `localStorage`. If you close the tab or browser and later reopen the site on the same browser/device, the player is restored at the saved position. It does not auto-play; press Play to continue. Closing the player with its X button clears the saved playback state.

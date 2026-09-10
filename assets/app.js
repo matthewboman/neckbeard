@@ -1,9 +1,11 @@
 import { escapeHtml, formatDate, formatTime, stripHtml } from './utils.js'
+import { buildPlaybackState, clearPlaybackState, loadPlaybackState, savePlaybackState } from './playback-state.js'
 
 const state = {
   data: null,
   currentEpisode: null,
-  currentPodcast: null
+  currentPodcast: null,
+  lastPlaybackSaveAt: 0
 }
 
 const homeView = document.querySelector('#homeView')
@@ -146,20 +148,55 @@ function setArtwork(podcast) {
     : escapeHtml(podcast.title.slice(0, 1))
 }
 
+function showEpisodeInPlayer(podcast, episode) {
+  state.currentPodcast = podcast
+  state.currentEpisode = episode
+  audio.src = episode.audio
+  playerEpisode.textContent = episode.title
+  playerPodcast.textContent = podcast.title
+  setArtwork(podcast)
+  player.classList.remove('hidden')
+}
+
+function persistPlayback() {
+  const playbackState = buildPlaybackState({
+    podcast: state.currentPodcast,
+    episode: state.currentEpisode,
+    currentTime: audio.currentTime,
+    playbackRate: audio.playbackRate
+  })
+  savePlaybackState(localStorage, playbackState)
+  state.lastPlaybackSaveAt = Date.now()
+}
+
+function restorePlayback() {
+  const saved = loadPlaybackState(localStorage)
+  if (!saved) return
+
+  const currentPodcast = state.data.podcasts.find(podcast => podcast.id === saved.podcast.id)
+  const currentEpisode = currentPodcast?.episodes.find(episode => episode.id === saved.episode.id)
+
+  const podcast = currentPodcast || saved.podcast
+  const episode = currentEpisode || saved.episode
+
+  showEpisodeInPlayer(podcast, episode)
+  speed.value = String(saved.playbackRate || 1)
+  audio.playbackRate = Number(speed.value)
+
+  const resumeAt = Math.max(0, Number(saved.currentTime) || 0)
+  audio.addEventListener('loadedmetadata', () => {
+    if (!Number.isFinite(audio.duration) || audio.duration <= 0) return
+    audio.currentTime = Math.min(resumeAt, Math.max(0, audio.duration - 1))
+  }, { once: true })
+}
+
 function startEpisode(podcast, episode) {
   if (!episode.audio) return
 
   const sameEpisode = state.currentEpisode?.id === episode.id && state.currentPodcast?.id === podcast.id
-  if (!sameEpisode) {
-    state.currentPodcast = podcast
-    state.currentEpisode = episode
-    audio.src = episode.audio
-    playerEpisode.textContent = episode.title
-    playerPodcast.textContent = podcast.title
-    setArtwork(podcast)
-  }
+  if (!sameEpisode) showEpisodeInPlayer(podcast, episode)
 
-  player.classList.remove('hidden')
+  persistPlayback()
   audio.play().catch(() => {})
 }
 
@@ -190,6 +227,7 @@ forward.addEventListener('click', () => {
 
 speed.addEventListener('change', () => {
   audio.playbackRate = Number(speed.value)
+  persistPlayback()
 })
 
 seek.addEventListener('input', () => {
@@ -197,8 +235,15 @@ seek.addEventListener('input', () => {
   audio.currentTime = audio.duration * (Number(seek.value) / 100)
 })
 
+seek.addEventListener('change', persistPlayback)
+
 closePlayer.addEventListener('click', () => {
   audio.pause()
+  clearPlaybackState(localStorage)
+  state.currentPodcast = null
+  state.currentEpisode = null
+  audio.removeAttribute('src')
+  audio.load()
   player.classList.add('hidden')
 })
 
@@ -210,6 +255,7 @@ audio.addEventListener('play', () => {
 audio.addEventListener('pause', () => {
   playPause.textContent = '▶'
   playPause.setAttribute('aria-label', 'Play')
+  persistPlayback()
 })
 
 audio.addEventListener('loadedmetadata', () => {
@@ -221,13 +267,18 @@ audio.addEventListener('timeupdate', () => {
   seek.value = Number.isFinite(audio.duration) && audio.duration > 0
     ? String((audio.currentTime / audio.duration) * 100)
     : '0'
+
+  if (Date.now() - state.lastPlaybackSaveAt >= 5000) persistPlayback()
 })
+
+window.addEventListener('pagehide', persistPlayback)
 
 async function init() {
   const response = await fetch('./data/podcasts.json', { cache: 'no-store' })
   if (!response.ok) throw new Error(`Could not load podcasts.json (${response.status})`)
   state.data = await response.json()
   updatedAt.textContent = state.data.updatedAt ? `Updated ${formatDate(state.data.updatedAt)}` : ''
+  restorePlayback()
   route()
 }
 
