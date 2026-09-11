@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T19:24:53.359Z",
+  "updatedAt": "2026-09-11T14:24:02.214Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "bb391e165e620dfd",
+          "title": "Executive Disorder: Escalation in Iran, Trade War with Canada, Arcade.gov",
+          "description": "The gang discuss new prediction market advertising campaigns, a 9/11 themed attack ad against Abdul El-Sayed, the US striking Iranian oil tankers, Trump’s illegal tariffs against Canada, and the White House’s new online arcade with a “Build the Wall” and deportation video game. \nSources:\n  \nnyc.gov/workerpower \n https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-launches-first-in-the-nation-office-of-worker-powe \n https://www.thecityreporter.nyc/2026/09/07/labor-day-mamdani-tony-perlstein-worker-power-unions/ \n https://www.justice.gov/opa/pr/justice-department-clarifies-duty-states-report-known-illegal-aliens-under-welfare-reform\n\n https://www.justice.gov/olc/media/1459981/dl \n https://www.nytimes.com/2026/09/06/us/politics/nate-hochman-state-dept.html\n\n https://www.documentcloud.org/documents/28606128-irs/\n\n https://x.com/Osinttechnical/status/2097018164492095565?s=20\n https://apnews.com/article/germany-power-grid-sabotage-arrest-0a8cbb381c6b6463d56ffb2456fa7d25\n https://x.com/WhiteHouse/status/2096657477928448250?s=20\n https://www.sportsbusinessjournal.com/Articles/2026/09/08/lebron-james-linking-up-with-polymarket-in-deal/\n https://x.com/Giannis_An34/status/2019885144358678610\n https://variety.com/2026/digital/news/sydney-sweeney-nude-novig-ad-1236855720/\n https://x.com/KSAmofaEN/status/2097239299938832859\n https://x.com/yementvyem/status/2097025261669675036\n https://x.com/CENTCOM/status/2096397091769565468\n https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4591744/centcom-destroys-3-irgc-oil-tankers-after-iran-targets-2-us-navy-warships/\n https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4593050/us-destroys-5-irgc-tankers-after-iran-targets-another-american-warship/\n https://www.reuters.com/business/media-telecom/us-military-turns-off-ad-trackers-devices-amid-middle-east-targeting-reports-2026-09-04/\n https://www.cnn.com/2026/09/05/middleeast/iran-us-tanker-kharg-intl\n https://www.anduril.com/dive-ld\n https://www.usatoday.com/story/money/economy/2026/09/08/us-canada-trade-war-tariffs-products-price/91655579007/\n https://www.theoaklandpress.com/2026/09/09/as-canadas-tariffs-take-effect-trumps-trade-war-complicates-gop-election-pitch/\n https://apnews.com/article/trump-tariff-canada-supreme-court-depression-e5501950e025dbe8df2b7ec662dbe2e4\n https://www.cnn.com/2026/09/07/economy/trump-carney-canada-us-trade-war\n https://www.youtube.com/watch?v=I6xwMIUPHss\n https://www.reuters.com/world/europe/far-right-afd-courts-conservative-support-after-historic-german-state-election-2026-09-07/\n https://www.wsj.com/politics/national-security/huawei-faces-u-s-criminal-trial-weeks-before-trump-xi-meeting-d5e21663\n http://arcade.gov\n https://x.com/WhiteHouse/status/2096764958713274657?s=20\n https://x.com/WhiteHouse/status/2081553785302716662?s=20\n https://x.com/WhiteHouse/status/2073434194257023116?s=20\n https://x.com/WhiteHouse/status/2032115039985881556?s=20\n https://www.nbcnews.com/pop-culture/pop-culture-news/pokemon-rebukes-white-houses-use-ip-social-media-post-rcna262057?li\n https://x.com/WhiteHouse/status/2080079437882622371?s=20\n https://x.com/WhiteHouse/status/2074251976578060495?s=20\n https://x.com/WhiteHouse/status/2074270959423348773?s=20\n https://x.com/ParkerMolloy/status/2095981913559191822?s=20\n https://fortune.com/2026/09/02/food-recalls-fda-americans-avoid-food-categories/\n https://www.cartoonbrew.com/politics/white-house-racist-video-games-266259.html\n https://www.instagram.com/p/Dc2wSSYFLFv/\n https://www.youtube.com/shorts/DNnYdDJL-dY\n https://x.com/RapidResponse47/status/2096659622459240954/photo/1\n https://x.com/CBSNews/status/2094399335748215195?s=20\n https://www.status.news/p/cbs-news-el-sayed-bari-weiss-9-11\n https://x.com/GreatLakes_HQ/status/2097708796231463166?s=20\n https://x.com/Bobby_LaVallley/status/2097341640625025511?s=20\n https://abcnews.com/US/george-pataki-rudy-giuliani-911-families-oppose-mamdanis/story?id=136258067\n https://www.vanityfair.com/story/mamdani-september-11-anniversary\n https://x.com/petersterne/status/2097722275277553968?s=20\n https://sept11documents.cityofnewyork.us/\n https://www.nyc.gov/mayors-office/news/2026/09/25-years-later--mamdani-administration-opens-city-s-9-11-records \n \nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-09-11T04:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/46ff9119-2895-4c0c-89ae-b4c200141ee8/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "3850",
+          "link": "https://omny.fm/shows/it-could-happen-here/executive-disorder-escalation-in-iran-trade-war-with-canada-arcade-gov"
+        },
+        {
           "id": "f8c3a6130a855ed6",
           "title": "The Death of American Hegemony",
           "description": "Mia discusses the long arc of the Pax Americana, its roots in the US Navy, and how Trump’s war with Iran has blown it up.\nSources:\n  \nhttps://www.endnotes.org.uk/issues/issue-2/endnotes-misery-and-debt\n https://www.theodorerooseveltcenter.org/encyclopedia/war-and-military-affairs/alfred-thayer-mahan/\n https://www.yahoo.com/news/politics/articles/trump-promised-economic-d-day-203113113.html\n \nSee omnystudio.com/listener for privacy information.",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/4dfef6fd-ddc3-4de9-bfc7-b4b9001bba13/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "2230",
           "link": "https://omny.fm/shows/it-could-happen-here/2026-09-01-ichh-jason-arday-final"
-        },
-        {
-          "id": "75829789c4dd5f34",
-          "title": "Anarchists and the Great War with Andrew",
-          "description": "Andrew talks with Mia about how anarchists approach fighting in wars through the lens of the anarchist debate on joining WWI.\n  \n Sources:\n Matthew S. Adams, Anarchism and the First World War\n George Woodcock, Peter Kropotkin: From Prince to Rebel\n https://theanarchistlibrary.org/library/various-authors-the-anarchist-international-and-war\n https://theanarchistlibrary.org/library/petr-kropotkin-manifesto-of-the-sixteen\nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-09-01T04:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/949df10f-429f-48b2-8449-b4b800205d81/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "1571",
-          "link": "https://omny.fm/shows/it-could-happen-here/anarchists-and-the-great-war-with-andrew"
         }
       ]
     },
@@ -410,6 +410,15 @@
       "rss": "https://feeds.megaphone.fm/SLT6250292033",
       "episodes": [
         {
+          "id": "b6f94a44f05cfd93",
+          "title": "After Action Report #46",
+          "description": "Meet Tom who went on a very special vacation with his girlfriend. \n\n\n\nPacking checklist: \n\nKink outfits\n\nConsent Form\n\nWaste bag\n\n\n\n\n\nHow did it go? You'll find out. \n\n\n\nSend us your stories, your wonderful stories! \n\nQ@Savage.Love\n\n\n\n\n\nThis episode is brought to you by Dipsea: an app full of hundreds of short, sexy audio stories designed by women for women. Get an extended 30 day free trial plus 25% off an annual subscription when you go to dipseastories.com/savage.",
+          "publishedAt": "2026-09-11T11:00:00.000Z",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT7067639766.mp3",
+          "duration": "1056",
+          "link": ""
+        },
+        {
           "id": "2839bf42f84e104b",
           "title": "Savage Love Episode 1035",
           "description": "A man has been together with his boyfriend for 10 years. The caller works long hard hours and values peace and quiet when he comes home. But his boyfriend works from home all day and pounces on his husband, wanting to chat and interact. Dan was in a similar situation, but don't tell Dan's husband how he dealt with it. \n\nA divorced woman with children has been dating a man. Both are in open relationships, and he wears a wedding ring. Her kids don't yet know about ethical non-monogamy and her family disapproves, making this year's Rosh Hashanah dinner extra spicy.\n\nOur guest is the intrepid comedian Zach Noe Towers who sailed away on the gay ship that got turned away by homophobic country after homophobic country. He and Dan go Deep Gay on the scent of man, and whether uncircumcised dicks slip in easier. A little is on the Micro, and the uncut version is on the Magnum. \n\nAnd, a 35 year-old gay man connected with a guy via dating app, who seemed pretty darn cool. But when he learned the man was in his 60s, he politely rejected him. The guy accused our caller of being ageist. Is he?\n\n\n\n\n\nThis episode is brought to you by Squarespace. They make it easy to build a website or blog. Give it a whirl at ⁠Squarespace.com/Savage⁠ and if you want to buy it, use the code Savage for a 10% off your first purchase.\n\nForia is an all natural health & sexual wellness company with product lines using the power of plant actives & CBD to effectively enhance intimacy, sexual pleasure, daily wellbeing, and relief from discomfort. Right now get 20% off your 1st order by going to ⁠ForiaWellness.com/SAVAGE⁠ or use code SAVAGE at checkout.\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit ⁠VB.Health⁠ when you use the code Savage.\n\n\n\nDan Savage is a sex-advice columnist, podcaster, author, and creator of the It Gets Better Project. From polyamory, to BDSM, gay rights to sexual health and with a dose of progressive politics, Dan Savage has been cultural force for sex positivity since the 1800s.",
@@ -488,15 +497,6 @@
           "publishedAt": "2026-08-13T11:00:00.000Z",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT4912816422.mp3",
           "duration": "2752",
-          "link": ""
-        },
-        {
-          "id": "027977f14bb86bb7",
-          "title": "Savage Love Episode 1031",
-          "description": "A woman in her 60s has a husband who is into feet. She's planning to get a professional foot massage. Can he come along and watch if he promises to hide his boner? \n\nA woman has a boyfriend who provides financial security and perfectly fine sex. But she finds him so very dull. Is a comfortable but boring relationship enough? \n\nOn the Magnum, meet comedian, filmmaker and avowed cuck queen Edy Modica. She and Dan talk about her brilliant performance on Jury Duty, and in her personal life, how she eroticizes jealousy. Then, they take a call from a woman whose boyfriend wants her to put whipped cream up her ass and squeeze it out all over him. So there's that too. \n\nAnd, a femme person is developing a hot, kinky, fulfilling relationship with...a chat bot. She found \"him\" on an app, and it's turning her on so hard! Is this gonna be ok? \n\n\n\n\n\n\n\nMaybe! (Probably not.)\n\n206-302-2064\n\nQ@Savage.Love\n\n\n\nEdy Modica's debut special, I'm Just Like You (And It Sucks) On VEEPS now: https://veeps.com/edymodicaOn YouTube Sept 17 https://www.youtube.com/watch?v=yMhAV7XrSKM\n\n\n\nThis episode is brought to you by Squarespace. They make it easy to build a website or blog. Give it a whirl at Squarespace.com/Savage and if you want to buy it, use the code Savage for a 10% off your first purchase.\n\nForia is an all natural health & sexual wellness company with product lines using the power of plant actives & CBD to effectively enhance intimacy, sexual pleasure, daily wellbeing, and relief from discomfort. Right now get 20% off your 1st order by going to ForiaWellness.com/SAVAGE or use code SAVAGE at checkout.\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit VB.Health when you use the code Savage.\n\nDan Savage is a sex-advice columnist, podcaster, author, and creator of the It Gets Better Project. From bondage to bisexuality, cuckolding to crossdressing and with a dose of progressive politics, Dan Savage is a cultural force for sex positivity, when we most need it.",
-          "publishedAt": "2026-08-11T11:00:00.000Z",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT8386692962.mp3",
-          "duration": "3117",
           "link": ""
         }
       ]
