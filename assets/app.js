@@ -1,11 +1,15 @@
 import { escapeHtml, formatDate, formatTime, stripHtml } from './utils.js'
 import { buildPlaybackState, clearPlaybackState, loadPlaybackState, savePlaybackState } from './playback-state.js'
+import { setMediaSessionMetadata, setMediaSessionPosition } from './media-session.js'
 
 const state = {
   data: null,
   currentEpisode: null,
   currentPodcast: null,
-  lastPlaybackSaveAt: 0
+  lastPlaybackSaveAt: 0,
+  playbackIntent: false,
+  recoveryTimer: null,
+  recoveryAttempts: 0
 }
 
 const homeView = document.querySelector('#homeView')
@@ -151,11 +155,14 @@ function setArtwork(podcast) {
 function showEpisodeInPlayer(podcast, episode) {
   state.currentPodcast = podcast
   state.currentEpisode = episode
-  audio.src = episode.audio
+
+  if (audio.src !== episode.audio) audio.src = episode.audio
   playerEpisode.textContent = episode.title
   playerPodcast.textContent = podcast.title
   setArtwork(podcast)
   player.classList.remove('hidden')
+
+  setMediaSessionMetadata(navigator.mediaSession, window.MediaMetadata, podcast, episode)
 }
 
 function persistPlayback() {
@@ -190,6 +197,16 @@ function restorePlayback() {
   }, { once: true })
 }
 
+function playAudio() {
+  state.playbackIntent = true
+  audio.play().catch(() => {})
+}
+
+function pauseAudio() {
+  state.playbackIntent = false
+  audio.pause()
+}
+
 function startEpisode(podcast, episode) {
   if (!episode.audio) return
 
@@ -197,7 +214,34 @@ function startEpisode(podcast, episode) {
   if (!sameEpisode) showEpisodeInPlayer(podcast, episode)
 
   persistPlayback()
-  audio.play().catch(() => {})
+  playAudio()
+}
+
+function recoverPlayback() {
+  if (!state.playbackIntent || !state.currentEpisode?.audio) return
+  if (state.recoveryTimer || state.recoveryAttempts >= 3) return
+
+  const resumeAt = Number.isFinite(audio.currentTime) ? audio.currentTime : 0
+
+  state.recoveryTimer = window.setTimeout(() => {
+    state.recoveryTimer = null
+    if (!state.playbackIntent) return
+
+    state.recoveryAttempts += 1
+    audio.load()
+
+    const resume = () => {
+      if (Number.isFinite(audio.duration) && audio.duration > 0) {
+        audio.currentTime = Math.min(resumeAt, Math.max(0, audio.duration - 1))
+      } else if (resumeAt > 0) {
+        audio.currentTime = resumeAt
+      }
+      playAudio()
+    }
+
+    if (audio.readyState >= 1) resume()
+    else audio.addEventListener('loadedmetadata', resume, { once: true })
+  }, 1500)
 }
 
 document.addEventListener('click', event => {
@@ -212,8 +256,8 @@ backButton.addEventListener('click', () => { location.hash = '' })
 window.addEventListener('hashchange', route)
 
 playPause.addEventListener('click', () => {
-  if (audio.paused) audio.play().catch(() => {})
-  else audio.pause()
+  if (audio.paused) playAudio()
+  else pauseAudio()
 })
 
 rewind.addEventListener('click', () => {
@@ -238,6 +282,7 @@ seek.addEventListener('input', () => {
 seek.addEventListener('change', persistPlayback)
 
 closePlayer.addEventListener('click', () => {
+  state.playbackIntent = false
   audio.pause()
   clearPlaybackState(localStorage)
   state.currentPodcast = null
@@ -248,6 +293,8 @@ closePlayer.addEventListener('click', () => {
 })
 
 audio.addEventListener('play', () => {
+  state.playbackIntent = true
+  state.recoveryAttempts = 0
   playPause.textContent = '❚❚'
   playPause.setAttribute('aria-label', 'Pause')
 })
@@ -260,6 +307,7 @@ audio.addEventListener('pause', () => {
 
 audio.addEventListener('loadedmetadata', () => {
   duration.textContent = formatTime(audio.duration)
+  setMediaSessionPosition(navigator.mediaSession, audio)
 })
 
 audio.addEventListener('timeupdate', () => {
@@ -269,9 +317,52 @@ audio.addEventListener('timeupdate', () => {
     : '0'
 
   if (Date.now() - state.lastPlaybackSaveAt >= 5000) persistPlayback()
+  setMediaSessionPosition(navigator.mediaSession, audio)
+})
+
+audio.addEventListener('stalled', recoverPlayback)
+audio.addEventListener('error', recoverPlayback)
+audio.addEventListener('ended', () => {
+  state.playbackIntent = false
+  persistPlayback()
 })
 
 window.addEventListener('pagehide', persistPlayback)
+document.addEventListener('visibilitychange', persistPlayback)
+
+if (navigator.mediaSession) {
+  const setMediaAction = (action, handler) => {
+    try {
+      navigator.mediaSession.setActionHandler(action, handler)
+    } catch {
+      // Ignore actions unsupported by this WebKit version.
+    }
+  }
+
+  setMediaAction('play', playAudio)
+  setMediaAction('pause', pauseAudio)
+  setMediaAction('seekbackward', details => {
+    const offset = details.seekOffset || 15
+    audio.currentTime = Math.max(0, audio.currentTime - offset)
+    persistPlayback()
+  })
+  setMediaAction('seekforward', details => {
+    const offset = details.seekOffset || 30
+    if (Number.isFinite(audio.duration)) {
+      audio.currentTime = Math.min(audio.duration, audio.currentTime + offset)
+    } else {
+      audio.currentTime += offset
+    }
+    persistPlayback()
+  })
+  setMediaAction('seekto', details => {
+    if (!Number.isFinite(details.seekTime)) return
+    audio.currentTime = Number.isFinite(audio.duration)
+      ? Math.min(audio.duration, Math.max(0, details.seekTime))
+      : Math.max(0, details.seekTime)
+    persistPlayback()
+  })
+}
 
 async function init() {
   const response = await fetch('./data/podcasts.json', { cache: 'no-store' })
