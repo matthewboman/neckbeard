@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T16:21:27.582Z",
+  "updatedAt": "2026-09-15T14:58:13.198Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -9,6 +9,15 @@
       "link": "https://www.patreon.com/chapotraphouse",
       "rss": "https://feeds.soundcloud.com/users/soundcloud:users:211911700/sounds.rss",
       "episodes": [
+        {
+          "id": "8e38b5a2eb0169d5",
+          "title": "1071 - Ballroom Blitz feat. Jacob Bacharach (9/14/26)",
+          "description": "Chapo vet Jacob Bacharach is back to talk about the apocalyptic rhetoric coming from AI companies. Are the threats of an imminent disaster real, or is it just desperate panhandling? We then turn to the big New York Magazine piece on Trump’s ballroom project and analyze his strangest bit for immortality yet.\n\nCheck out Jacob’s work at The New Republic: https://newrepublic.com/authors/jacob-bacharach \n\nAnd join us on Fri, Oct 16 at the ErF Gallery for a live screening of Chunks followed by a live talkback featuring Will, Hesse & Podcast About List, tickets here: https://www.erf.nyc/events/chapo-trap-house-screening",
+          "publishedAt": "2026-09-15T03:55:35.000Z",
+          "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2400817494-chapo-trap-house-1071-ballroom-blitz-feat-jacob.mp3",
+          "duration": "01:09:02",
+          "link": "https://soundcloud.com/chapo-trap-house/1071-ballroom-blitz-feat-jacob"
+        },
         {
           "id": "712a9d529bec0568",
           "title": "1069 - Vetterman’s Day (9/8/26)",
@@ -89,15 +98,6 @@
           "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2373302561-chapo-trap-house-unlocked-1056-prophets.mp3",
           "duration": "01:11:28",
           "link": "https://soundcloud.com/chapo-trap-house/unlocked-1056-prophets"
-        },
-        {
-          "id": "161e9f355ce40f12",
-          "title": "1057 - Every Hour I Need You feat. Pendejo Time (7/28/26)",
-          "description": "Jake & Thomas join us to explore some recent Rogan Lore, look at the eschatological facets of Ted Lasso, and contemplate the interiority of some of our acquaintences. Then, our various failures in Iran, our Troops on T, and our bumbling military in general.\n\nJake’s promo for flood & food relief in Kerr County, Texas: https://rebuildkerr.org/\n\nCHUNKS now available for streaming purchase at www.patreon.com/chunkstv\nChapo & Friends Live at New York’s Society for Ethical Culture on Friday November 6th.\nTickets are going fast, get yours now! https://link.dice.fm/zaf99528079e \n\nAnd see Jake on Aug 14 in Orlando: https://www.alexsundergroundcomedy.com/event-details/jake-rhodes?fbclid=PARlRTSATDOIBwZG9mAmV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp1h2teRUwDGGngWIxx75wF9nO-kjVrAJzXqahezosR-kvYdnifBFFeSP5T6O_aem__1_cFrY01k64f6UoZ58Cvg",
-          "publishedAt": "2026-07-28T14:10:25.000Z",
-          "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2369415089-chapo-trap-house-1057-every-hour-i-need-you.mp3",
-          "duration": "01:21:21",
-          "link": "https://soundcloud.com/chapo-trap-house/1057-every-hour-i-need-you"
         }
       ]
     },
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "c2df404fb166853f",
+          "title": "Should AOC talk to MAHA?",
+          "description": "Garrison talks with Dr. Kaveh Hoda about the potential risks and benefits of doing outreach to people within the MAHA movement, the partisan makeup of MAHA, and why AOC is privately talking with MAHA influencers. \nSources:\nhttps://www.politico.com/news/2026/06/28/poll-maha-health-fractures-kennedy-00972253\nhttps://www.kff.org/public-opinion/maha-health-concerns-resonate-broadly-but-lag-behind-health-care-costs-even-for-maha-voters/\nhttps://www.kff.org/public-opinion/kff-health-tracking-poll-maha-and-the-midterms/ \nhttps://www.politico.com/newsletters/playbook/2026/09/05/inside-aocs-maha-outreach-01066409\nhttps://www.youtube.com/live/h6fe9CaVZCI\nhttps://www.youtube.com/watch?v=FRgeXPsihXI\n\nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-09-15T04:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/9d98dda0-c76b-4493-833b-b4c6001c1ec5/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "4037",
+          "link": "https://omny.fm/shows/it-could-happen-here/should-aoc-talk-to-maha"
+        },
+        {
           "id": "b0a03cb61c99ef5a",
           "title": "What's the Roadless Rule and Who Wants To Scrap It?",
           "description": "James and journalist Jason Dove Mark explain the roadless rule, national forests, and the Trump administration's attempts to strip protections from tens of thousands of acres of public land.\n  https://www.regulations.gov/document/FS-2025-0001-223869 \nhttps://www.onxmaps.com/onx-access-initiatives/roadless-rule \nhttps://morethanjustparks.com/threatened-public-lands-map/ \nSee omnystudio.com/listener for privacy information.",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f2b95a3b-24fb-446d-bf98-b49f00dc3cc3/dd551da1-7459-4ab6-9539-b4bd01734b07/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "3632",
           "link": "https://omny.fm/shows/natural-causes/did-donald-trump-ban-buffalo"
-        },
-        {
-          "id": "521e3ec2af57caeb",
-          "title": "CZM Reverse Book Club: Talking \"Star Trek: Deep Space Nine\" with Bridget, Hazel, and All of You",
-          "description": "To close out Black August, Margaret sits down with Bridget Todd and Hazel Acacia to talk about one of the most iconic Trek episodes ever made (S6E13: Far Beyond the Stars of Deep Space Nine)- and you're invited\nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-09-06T04:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/1c97981c-e816-43cb-854b-b4bd001ccee5/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "2004",
-          "link": "https://omny.fm/shows/it-could-happen-here/czm-book-club-star-trek-deep-space-nine-far-beyond-the-distant-stars-part-one-of-two"
         }
       ]
     },
@@ -410,6 +410,15 @@
       "rss": "https://feeds.megaphone.fm/SLT6250292033",
       "episodes": [
         {
+          "id": "361c5a37854a11ea",
+          "title": "Savage Love Episode 1036",
+          "description": "Bummer! A man had just met with a male-female couple who wanted him to take part in a kinky three-way. But when he confessed that he sometimes has trouble coming, they cancelled. Can he train himself to blow a load? Need he?\n\nSpeaking of loads, a woman credits her beautiful, supple skin to the facial treatments her husband obligingly administers. Can this be true? Any dermatologists care to weigh in? \n\nOn the Magnum, Dan chats with filmmaker, actor and fetish content creator Julian Shaw. He wrote and directed the thriller Use Me, co-directs the documentary Acting Hard, and is the subject of Cam Boy, a documentary currently in production. He was the face of Australia's gay marriage fight, and had to \"come out'\" as straight. He and Dan cover a lot of ground in this convo about foot fetishes, the benefits and perils of sex work, the ethics of dating guys on the DL, and how to avoid stomach aches. \n\nFinally, a gay man in Italy asks if wearing a jockstrap tells the world that he is a bottom. \n\n\n\nQ@Savage.Love \n\n206-302-2064\n\n\n\n This episode is brought to you by Helix Sleep. Right now, Helix is offering 27% off site wide exclusively for Lovecast listeners. Go to HelixSleep.com/Savage. With Helix, better sleep starts now. \n\nThis episode is brought to you by Mack Weldon: timeless, innovative menswear to help you move throughthe day with confidence. Get 20% off your first order of $125 or more, with promo code SAVAGE at MackWeldon.com\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit VB.Health when you use the code Savage.",
+          "publishedAt": "2026-09-15T11:00:00.000Z",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT5621026182.mp3",
+          "duration": "2749",
+          "link": ""
+        },
+        {
           "id": "b6f94a44f05cfd93",
           "title": "After Action Report #46",
           "description": "Meet Tom who went on a very special vacation with his girlfriend. \n\n\n\nPacking checklist: \n\nKink outfits\n\nConsent Form\n\nWaste bag\n\n\n\n\n\nHow did it go? You'll find out. \n\n\n\nSend us your stories, your wonderful stories! \n\nQ@Savage.Love\n\n\n\n\n\nThis episode is brought to you by Dipsea: an app full of hundreds of short, sexy audio stories designed by women for women. Get an extended 30 day free trial plus 25% off an annual subscription when you go to dipseastories.com/savage. \n\n\n\nThis episode is brought to you by Lean- a weight loss supplement that works by lowering blood sugar and reducing appetite.If you have 10 or more pounds to lose, get started with 20% off and free rush shipping. Visit TakeLean.com and enter SAVAGE for your discount.",
@@ -488,15 +497,6 @@
           "publishedAt": "2026-08-14T11:00:00.000Z",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT8114924323.mp3",
           "duration": "1242",
-          "link": ""
-        },
-        {
-          "id": "9291406693d38542",
-          "title": "Micro Extra! Sex & Politics #46",
-          "description": "Sex & Politics #46\n\nCan we really change?\n\n\n\nWelcome to Sex & Politics!For this bonus episode, Dan chatted with Benoit Denizet-Lewis, an associate professor at Emerson College, a longtime contributing writer for The New York Times Magazine, and the author, most recently, of “You’ve Changed: The Promise and Price of Self-Transformation.” He and Dan talked about the various ways people can change- how prisoners who have the possibility of parole can improve themselves and prove they’ve done so. They talk about the ex-gay movement, specifically Michael Glatze, who went from gay activist to anti-gay activist. And they answered a call from a man whose wife’s weight loss has completely altered their sex life.\n\nQ@Savage.Love206-302-2064\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit VB.Health when you use the code Savage.",
-          "publishedAt": "2026-08-13T11:00:00.000Z",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT4912816422.mp3",
-          "duration": "2752",
           "link": ""
         }
       ]
