@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T14:58:13.198Z",
+  "updatedAt": "2026-09-16T14:56:55.768Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "1d6f3f41e5b80997",
+          "title": "Debating the American Role in the Middle East",
+          "description": "In this episode Dana El Kurd talks about the debate in DC on what the role of the US has been in the Middle East, and what it should be. She also talks about what’s missing from these discussions. \n  \n Sources:\n https://www.cfr.org/articles/the-u-s-led-middle-east-order-is-over-the-mecca-agreement-proves-it\n https://www.foreignaffairs.com/united-states/end-american-middle-east-iran-marc-lynch\n http://foreignaffairs.com/middle-east/new-old-middle-east-gause\n https://www.fpri.org/article/2023/12/the-re-emergence-of-the-palestine-question-in-world-politics/\n https://www.theguardian.com/commentisfree/2026/jul/29/us-decline-world-order-replacement\nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-09-16T04:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/1da54b88-a2dd-4d74-86c0-b4c70014eb97/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "1774",
+          "link": "https://omny.fm/shows/it-could-happen-here/debating-the-american-role-in-the-middle-east"
+        },
+        {
           "id": "c2df404fb166853f",
           "title": "Should AOC talk to MAHA?",
           "description": "Garrison talks with Dr. Kaveh Hoda about the potential risks and benefits of doing outreach to people within the MAHA movement, the partisan makeup of MAHA, and why AOC is privately talking with MAHA influencers. \nSources:\nhttps://www.politico.com/news/2026/06/28/poll-maha-health-fractures-kennedy-00972253\nhttps://www.kff.org/public-opinion/maha-health-concerns-resonate-broadly-but-lag-behind-health-care-costs-even-for-maha-voters/\nhttps://www.kff.org/public-opinion/kff-health-tracking-poll-maha-and-the-midterms/ \nhttps://www.politico.com/newsletters/playbook/2026/09/05/inside-aocs-maha-outreach-01066409\nhttps://www.youtube.com/live/h6fe9CaVZCI\nhttps://www.youtube.com/watch?v=FRgeXPsihXI\n\nSee omnystudio.com/listener for privacy information.",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/08d4e484-c71a-4e1a-8f80-b4be01313f0d/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "2860",
           "link": "https://omny.fm/shows/it-could-happen-here/counterrevolution-in-egypt"
-        },
-        {
-          "id": "36e1adfecca62a53",
-          "title": "Did Donald Trump Ban Buffalo?",
-          "description": "James is joined by Molly to discuss how the Bureau of Land Management is quietly changing its approach to public land management and what it means for approximately 900 bison in Central Montana.\n (originally run on It Could Happen Here in May 2026)\n Sources: \nhttps://apps.irs.gov/pub/epostcard/cor/810541893_202412_990_2025073023621659.pdf \n https://gov.mt.gov/_docs/governor/AmericanPrairieProposedDecisionJanuary162026.pdf \n https://public-inspection.federalregister.gov/2025-17537.pdf \n https://www.mtpr.org/montana-news/2026-01-21/blm-cancels-bison-grazing-permits-for-montana-nature-reserve\n https://news.mt.gov/Governors-Office/Governor_Gianforte_Appeals_Judges_APR_Bison_Grazing_Decision#:~:text=Following%20the%20judge's%20order%2C%20DNRC,appeal%20may%20be%20found%20here. \n https://t.co/HUAyMUnOVi \n https://www.greatfallstribune.com/story/news/local/2015/06/18/business-leaders-provide-green-behind-conservation-effort/28960843/ \n https://www.blm.gov/press-release/blm-revokes-american-prairie-bison-grazing-permit\n https://www.citizen.org/wp-content/uploads/estatetaxfinal.pdf \n https://www.federalregister.gov/documents/2026/05/12/2026-09386/rescission-of-conservation-and-landscape-health-rule  \n https://www.blm.gov/about/laws-and-regulations/conservation-and-landscape-health-rule \n https://largetribes.org/2026/02/affirmative-action-for-cattle-tribes-challenge-feds-plan-to-revoke-bison-grazing-leases-on-public-land-media-share/\nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-09-07T12:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f2b95a3b-24fb-446d-bf98-b49f00dc3cc3/dd551da1-7459-4ab6-9539-b4bd01734b07/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "3632",
-          "link": "https://omny.fm/shows/natural-causes/did-donald-trump-ban-buffalo"
         }
       ]
     },
