@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T14:13:06.516Z",
+  "updatedAt": "2026-09-21T16:27:47.866Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -210,6 +210,24 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "16d0849b0de0662c",
+          "title": "The Wall and the Wilderness ",
+          "description": "James talks about the ecological disaster that is the border wall and interviews Dr. Christina Aiello about the Peninsular Bighorn ram that was killed by razor wire in the Jacumba mountains.\n Sources:\n https://www.usaspending.gov/search?hash=29de9d51905bd175a701b04c24176b46 \nhttps://www-jstor-org.sdmesa.idm.oclc.org/stable/3636811?seq=5 \nhttps://www.fec.gov/data/receipts/individual-contributions/?contributor_employer=Atkore \nhttps://tucson.com/news/local/border/article_a11265b0-17c3-5bed-b50a-72e5d17e1369.html \nhttps://www.blm.gov/visit/jacumba-wilderness \nhttps://www.usaspending.gov/search?hash=29de9d51905bd175a701b04c24176b46 \nhttps://www.federalregister.gov/documents/2025/04/08/2025-05992/determination-pursuant-to-section-102-of-the-illegal-immigration-reform-and-immigrant-responsibility \nhttps://www.enr.com/articles/54215-us-settles-border-wall-suit-against-contractor-fisher-sand-gravel \nhttps://www.atkore.com/about-us \nhttps://desertreport.org/a-border-wall-in-the-jacumba-wilderness-area/ \nhttps://gizmodo.com/trumps-border-wall-torn-apart-by-arizona-monsoon-rains-1847535174 \nhttps://www.usaspending.gov/award/CONT_AWD_70B01C25F00001112_7014_70B01C23D00000010_7014 \nhttps://www.sec.gov/Archives/edgar/data/1666138/000166613826000010/atkr-20260429.htm \nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-09-21T12:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f2b95a3b-24fb-446d-bf98-b49f00dc3cc3/89200528-39b6-4f4c-b35e-b4cb017d9545/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "1733",
+          "link": "https://omny.fm/shows/natural-causes/the-wall-and-the-wilderness"
+        },
+        {
+          "id": "a80c82dc4a7fd0c6",
+          "title": "West Bank Takeover",
+          "description": "In this episode Dana El Kurd talks about how the settlers and the Israeli state are working hand in hand to ethnically cleanse Palestinians from the West Bank, and how we should understand the relationship between the two actors.   \n  \n Sources:\n https://jewishcurrents.org/it-feels-like-a-death-sentence\n https://www.972mag.com/armed-settler-hikes-west-bank/\n https://www.nytimes.com/2026/09/06/opinion/israel-west-bank-settlers-violence.html\n https://www.aljazeera.com/news/2026/8/29/israeli-settlers-surround-palestinian-home-in-occupied-west-banks-qusra\n https://www.972mag.com/bilin-israeli-land-seizure-settler-road/\nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-09-21T04:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/76cfc63b-1648-40fe-9825-b4c901234fb9/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "942",
+          "link": "https://omny.fm/shows/it-could-happen-here/west-bank-takeover"
+        },
+        {
           "id": "8d93b971d2bbe725",
           "title": "CZM Book Club: Ocotillo, by Madeline ffitch",
           "description": "Margaret reads you a surreal story about the surreal Southwest, written by one of her favorite authors\nSee omnystudio.com/listener for privacy information.",
@@ -280,24 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/eed38365-e717-4a78-afc1-b4c4003bf7da/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "2172",
           "link": "https://omny.fm/shows/it-could-happen-here/sanctions-terror-and-the-internet"
-        },
-        {
-          "id": "b754f5de2b4980b8",
-          "title": "CZM Book Club: Reverse Book Club: Talking \"Star Trek: Deep Space Nine\" with Bridget, Hazel and All of You",
-          "description": "To close out Black August, Margaret sits down with Bridget Todd and Hazel Acacia to finish talking about one of the most iconic Trek episodes ever made (S6E13: Far Beyond the Stars of Deep Space Nine)- and you're invited\nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-09-13T04:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/50e16807-fa39-4a86-969d-b4c400370e18/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "1821",
-          "link": "https://omny.fm/shows/it-could-happen-here/czm-book-club-reverse-book-club-talking-star-trek-deep-space-nine-with-bridget-hazel-and-all-of-you"
-        },
-        {
-          "id": "735c4777768942bc",
-          "title": "It Could Happen Here Weekly 249",
-          "description": "All of this week's episodes of It Could Happen Here put together in one large file:\n  \nCounterrevolution in Egypt\n  \nWhat Happened with Milo Yiannopoulos?\n  \nThe Death of American Hegemony\n Executive Disorder: Escalation in Iran, Trade War with Canada, Arcade.gov\n  \nYou can now listen to all Cool Zone Media shows, 100% ad-free through the Cooler Zone Media subscription, available exclusively on Apple Podcasts. So, open your Apple Podcasts app, search for “Cooler Zone Media” and subscribe today!\n  \n Sources/Links:\n Counterrevolution in Egypt\n  \nHossam’s substack - https://barracks.substack.com/\n Hossam’s book - https://www.versobooks.com/products/3225-counterrevolution-in-egypt?srsltid=AfmBOoo0NJfxdpH2uIJsXqXLfdSs10LtMgK9hCiKx7TeLHQO4OzTWF-L\n  \nWhat Happened with Milo Yiannopoulos?\n  \nhttps://x.com/DHSgov/status/2093428821835796688?s=20\n https://x.com/LauraLoomer/status/2093387128717951297?s=20\n https://x.com/LauraLoomer/status/2093491920001749378?s=20\n https://www.youtube.com/watch?v=q5pSX84h9K8\n https://www.buzzfeednews.com/article/rosiegray/at-gays-for-trump-party-the-former-fringe-celebrates-trumps \n https://hyperallergic.com/milo-yiannopoulos-manuscript-art/\n http://www.independent.co.uk/news/world/americas/milo-yiannopoulos-deport-milo-twitter-new-sponsor-peadophilia-podcast-altright-a7600641.html\n https://news.berkeley.edu/2017/02/01/yiannopoulos-event-canceled/\n https://x.com/realDonaldTrump/status/827112633224544256?s=20\n https://www.independent.co.uk/news/world/americas/us-politics/milo-yiannopoulos-ex-gay-b1815296.html\n https://x.com/LauraLoomer/status/2033500725008081185?s=20\n https://x.com/LauraLoomer/status/2046016856184717814?s=20 \n https://www.thebulwark.com/p/maga-celebrating-milo-yiannopoulos-deportation\n https://www.youtube.com/watch?v=oPcfkSWQjOk\n  \nThe Death of American Hegemony\n  \nhttps://www.endnotes.org.uk/issues/issue-2/endnotes-misery-and-debt\n https://www.theodorerooseveltcenter.org/encyclopedia/war-and-military-affairs/alfred-thayer-mahan/\n https://www.yahoo.com/news/politics/articles/trump-promised-economic-d-day-203113113.html\n  \nExecutive Disorder: Escalation in Iran, Trade War with Canada, Arcade.gov\n  \nnyc.gov/workerpower\n https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-launches-first-in-the-nation-office-of-worker-powe\n https://www.thecityreporter.nyc/2026/09/07/labor-day-mamdani-tony-perlstein-worker-power-unions/\n https://www.justice.gov/opa/pr/justice-department-clarifies-duty-states-report-known-illegal-aliens-under-welfare-reform\n https://www.justice.gov/olc/media/1459981/dl\n https://www.nytimes.com/2026/09/06/us/politics/nate-hochman-state-dept.html\n https://www.documentcloud.org/documents/28606128-irs/\n https://x.com/Osinttechnical/status/2097018164492095565?s=20\n https://apnews.com/article/germany-power-grid-sabotage-arrest-0a8cbb381c6b6463d56ffb2456fa7d25\n https://x.com/WhiteHouse/status/2096657477928448250?s=20\n https://www.sportsbusinessjournal.com/Articles/2026/09/08/lebron-james-linking-up-with-polymarket-in-deal/\n https://x.com/Giannis_An34/status/2019885144358678610\n https://variety.com/2026/digital/news/sydney-sweeney-nude-novig-ad-1236855720/\n https://x.com/KSAmofaEN/status/2097239299938832859\n https://x.com/yementvyem/status/2097025261669675036\n https://x.com/CENTCOM/status/2096397091769565468\n https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4591744/centcom-destroys-3-irgc-oil-tankers-after-iran-targets-2-us-navy-warships/\n https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4593050/us-destroys-5-irgc-tankers-after-iran-targets-another-american-warship/\n https://www.reuters.com/business/media-telecom/us-military-turns-off-ad-trackers-devices-amid-middle-east-targeting-reports-2026-09-04/\n https://www.cnn.com/2026/09/05/middleeast/iran-us-tanker-kharg-intl\n https://www.anduril.com/dive-ld\n https://www.usatoday.com/story/money/economy/2026/09/08/us-canada-trade-war-tariffs-products-price/91655579007/\n https://www.theoaklandpress.com/2026/09/09/as-canadas-tariffs-take-effect-trumps-trade-war-complicates-gop-election-pitch/\n https://apnews.com/article/trump-tariff-canada-supreme-court-depression-e5501950e025dbe8df2b7ec662dbe2e4\n https://www.cnn.com/2026/09/07/economy/trump-carney-canada-us-trade-war\n https://www.youtube.com/watch?v=I6xwMIUPHss\n https://www.reuters.com/world/europe/far-right-afd-courts-conservative-support-after-historic-german-state-election-2026-09-07/\n https://www.wsj.com/politics/national-security/huawei-faces-u-s-criminal-trial-weeks-before-trump-xi-meeting-d5e21663\n http://arcade.gov\n https://x.com/WhiteHouse/status/2096764958713274657?s=20\n https://x.com/WhiteHouse/status/2081553785302716662?s=20\n https://x.com/WhiteHouse/status/2073434194257023116?s=20\n https://x.com/WhiteHouse/status/2032115039985881556?s=20\n https://www.nbcnews.com/pop-culture/pop-culture-news/pokemon-rebukes-white-houses-use-ip-social-media-post-rcna262057?li\n https://x.com/WhiteHouse/status/2080079437882622371?s=20\n https://x.com/WhiteHouse/status/2074251976578060495?s=20\n https://x.com/WhiteHouse/status/2074270959423348773?s=20\n https://x.com/ParkerMolloy/status/2095981913559191822?s=20\n https://fortune.com/2026/09/02/food-recalls-fda-americans-avoid-food-categories/\n https://www.cartoonbrew.com/politics/white-house-racist-video-games-266259.html\n https://www.instagram.com/p/Dc2wSSYFLFv/\n https://www.youtube.com/shorts/DNnYdDJL-dY\n https://x.com/RapidResponse47/status/2096659622459240954/photo/1\n https://x.com/CBSNews/status/2094399335748215195?s=20\n https://www.status.news/p/cbs-news-el-sayed-bari-weiss-9-11\n https://x.com/GreatLakes_HQ/status/2097708796231463166?s=20\n https://x.com/Bobby_LaVallley/status/2097341640625025511?s=20\n https://abcnews.com/US/george-pataki-rudy-giuliani-911-families-oppose-mamdanis/story?id=136258067\n https://www.vanityfair.com/story/mamdani-september-11-anniversary\n https://x.com/petersterne/status/2097722275277553968?s=20\n https://sept11documents.cityofnewyork.us/\n https://www.nyc.gov/mayors-office/news/2026/09/25-years-later--mamdani-administration-opens-city-s-9-11-records \n \nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-09-12T04:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/a063c23f-9c2f-46f9-baac-b4c2004bae13/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "10826",
-          "link": "https://omny.fm/shows/it-could-happen-here/it-could-happen-here-weekly-249"
         }
       ]
     },
@@ -309,6 +309,15 @@
       "link": "http://maintenancephase.com",
       "rss": "https://rss.buzzsprout.com/1411126.rss",
       "episodes": [
+        {
+          "id": "7ea86d46b85164ca",
+          "title": "RFK Jr.'s Buckwild Belief That HIV Doesn't Cause AIDS",
+          "description": "The rise, fall and rise of the most nonsensical conspiracy theory we've ever heard.\nThanks to Gregg Gonsalves for helping us fact-check this episode! \nSupport us:\n\nHear bonus episodes on Patreon\nWatch Aubrey's documentary\nBuy Aubrey's book\nListen to Mike's other podcast\nGet Maintenance Phase T-shirts, stickers and more\n\n\nLinks!\n\nDenying AIDS: Conspiracy Theories and Pseudoscience in a Post-COVID World\nImpure Science: AIDS, Activism, and the Politics of Knowledge\nThe Duesberg Phenomenon\nAIDS Denialism Beliefs among People Living with HIV/AIDS\nHIV Denial in the Internet Era\nHIV Denial in the COVID Era\nHow COVID conspiracy theories led to an alarming resurgence in AIDS denialism\nThe Man Who Thought AIDS Was All In The Mind\nAIDS \"Dissident\" Seeks Redemption\nTruth and Heresy About AIDS\nDefending the boundaries of science\nJustice After AIDS Denialism\nAIDS Denialism vs. Science\nThe Unbeliever\nEstimating the lost benefits of ARV use in South Africa\nConspiracy beliefs about HIV/AIDS\nAre HIV/AIDS Conspiracy Beliefs a Barrier to HIV Prevention Among African Americans?\nHIV causes AIDS: Koch's postulates fulfilled\nAIDS And The Scientific Governance Of Medicine In Post-Apartheid South Africa\nThe Denialists\nHas Duesberg a right of reply?\n\nThanks to Doctor Dreamchip for our lovely theme song!\nSupport the show",
+          "publishedAt": "2026-09-21T09:00:00.000Z",
+          "audio": "https://www.buzzsprout.com/1411126/episodes/19833558-rfk-jr-s-buckwild-belief-that-hiv-doesn-t-cause-aids.mp3",
+          "duration": "4804",
+          "link": ""
+        },
         {
           "id": "3e42d08da50aad1a",
           "title": "Why Don't We Have a Surgeon General?",
@@ -388,15 +397,6 @@
           "publishedAt": "2025-08-26T09:00:00.000Z",
           "audio": "https://www.buzzsprout.com/1411126/episodes/17731905-seed-oils.mp3",
           "duration": "4724",
-          "link": ""
-        },
-        {
-          "id": "7d63fc41fec44c8d",
-          "title": "Herbalife",
-          "description": "We’re talking about our first diet MLM and IT’S A REAL DOOZY!\nSupport us:\n\nHear bonus episodes on Patreon\nWatch Aubrey's documentary\nBuy Aubrey's book\nListen to Mike's other podcast\nGet Maintenance Phase T-shirts, stickers and more\n\nLinks!\n\nHerbalife: Weighty Profits and Government Probes \nHerbalife Exec's Death Prompts Bizarre Fallout\nAutopsy on Herbalife founder finds death caused by accidental overdose \nThe Uncertain Start of a Remarkable Life\nNobel Prize Winner Didn't Disclose Herbalife Contract \nLatinos crucial to Herbalife's financial health\nLatino Group Demands Herbalife Probe\nThe Big Short War \nThe Siege of Herbalife\nAfter Big Bet, Hedge Fund Pulls the Levers of Power\nHerbalife Will Restructure and Pay $200 Million to Settle FTC Charges \nAn inside look at the $200 million FTC settlement \nU.S. says Herbalife to pay $123.1 million to resolve China bribery case \nHerbalife announces new CEO to lead the L.A. nutrition company\n\nClips!\n\nMark Hughes' origin story\nSenate committee hearing \nCelebrity endorsement\nFormer Herbalife Distributors Speak Out\n\nThanks to Doctor Dreamchip for our lovely theme song!\n\n\n\nSupport the show",
-          "publishedAt": "2025-07-10T09:00:00.000Z",
-          "audio": "https://www.buzzsprout.com/1411126/episodes/17481282-herbalife.mp3",
-          "duration": "3416",
           "link": ""
         }
       ]
@@ -510,6 +510,15 @@
       "rss": "https://feeds.simplecast.com/Fa0PP4fl",
       "episodes": [
         {
+          "id": "b80b6756089959f7",
+          "title": "#199 - Are You Garbage?",
+          "description": "Dear friends of the show Kevin Ryan and H. Foley from Are You Garbage? return to the pod to discuss their new special American Garbage (out now on YouTube), Foley living in Ian Fidance's basement, the status of everyone's Ozempic journey, scoring sketchy GLP-1's, acting on Tires, Wawa, egg bites, their divergent life trajectories, and much more. Kevin, Foley and Stav help callers including a guy who wants tips on kicking out his deadbeat friend who he let crash with him, and a plumber wondering if he should take a job at a data center.\nWatch Are You Garbage's new special American Garbage: https://www.youtube.com/watch?v=77zGwlLffWk\nSee the Are You Garbage? boys live and follow them on social media:\nhttps://areyougarbage.com/pages/live-shows\nwww.youtube.com/@AreYouGarbage\nhttps://www.instagram.com/areyougarbage/\nhttps://www.tiktok.com/@areyougarbage  \nhttps://twitter.com/areyougarbage\nThanks to our sponsors!!\nVisible - https://www.visible.com/ SWITCH NOW!\nTwisted Tea - https://www.twistedtea.com/locations Keep It Twisted!!\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Stav's new special Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n🎟️ See Stavvy live!! 🛥️💕!!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+          "publishedAt": "2026-09-21T10:00:00.000Z",
+          "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/a49abf53-f4a8-4852-86c0-158929c67eae/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=a49abf53-f4a8-4852-86c0-158929c67eae&feed=Fa0PP4fl",
+          "duration": "01:34:42",
+          "link": "https://siriusxm.com"
+        },
+        {
           "id": "a0e618f1c7c562a6",
           "title": "Bonus #198 - Derek Gaines and Pockets Graham [PATREON PREVIEW]",
           "description": "Patreon preview. Unlock full episodes at https://www.patreon.com/stavvysworld\nDerek Gaines and Pockets Graham join the pod to discuss Derek's new special Goodlum (Tubi), why Tubi is awesome, how they got the great Bill Duke to lend his voice to Derek's special, humanity vs. nature, drums vs. flats, RoboCop, Pam Grier, Derek’s birth on an Air Force base, Pockets’s mom working as social worker after overcoming crack addiction, working in below-the-line film production, Tom Cruise, Michael Mann, superhero fatigue, and much more.\nWatch Derek Gaines's new special Goodlum on Tubi: https://tubitv.com/movies/100058482/derek-gaines-goodlum\nFollow Derek Gaines on social media:\nhttps://punchup.live/derekgaines\nhttps://www.instagram.com/thegreatboy\nhttps://twitter.com/derek1gaines\nFollow Pockets Graham on social media:\nhttps://www.instagram.com/impockets\nhttps://x.com/ImPockets\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Stav's new special Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n🎟️ See Stavvy live!! 🛥️💕!!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
@@ -588,15 +597,6 @@
           "publishedAt": "2026-08-20T10:00:00.000Z",
           "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/f9ac82a7-9854-49b2-9044-4998f997576c/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=f9ac82a7-9854-49b2-9044-4998f997576c&feed=Fa0PP4fl",
           "duration": "00:08:54",
-          "link": "https://siriusxm.com"
-        },
-        {
-          "id": "936f223e8ce42a2b",
-          "title": "#194 - Dominic Sessa",
-          "description": "Dominic Sessa joins the pod for a special culinary themed ep to discuss his new movie TONY (A24, in theaters nationwide this Friday, August 21), calculate how much lobster Stav ate on set, talk about working with director Matt Johnson, lament how much cooler it is to be a musician than an actor, promise to hire Stav as his coach if he’s ever cast in a fat role, recount his prep school schemes, and much more. Dominic and Stav help callers including a guy whose girlfriend is so far out of his league that strangers comment on it in public, and a guy wondering if he should tell his girlfriend that him and one of his best bros used to fool around.\nSee Dominic Sessa’s new movie TONY (A24) in theaters nationwide this Friday, August 21!\nFollow Dominic Sessa on social media:\nhttps://www.instagram.com/dominic.sessa/\nThanks to our sponsors!\nVisible - https://www.visible.com/ SWITCH NOW!  \n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎟️ See Stavvy live on the Dreamboat Tour 🛥️💕!!! https://stavvy.biz/ for tickets\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-          "publishedAt": "2026-08-17T10:00:00.000Z",
-          "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/f6aca187-55a7-4ca3-ba0e-af2b055c78ed/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=f6aca187-55a7-4ca3-ba0e-af2b055c78ed&feed=Fa0PP4fl",
-          "duration": "01:29:42",
           "link": "https://siriusxm.com"
         }
       ]
