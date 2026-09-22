@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T16:27:47.866Z",
+  "updatedAt": "2026-09-22T14:49:59.217Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -9,6 +9,15 @@
       "link": "https://www.patreon.com/chapotraphouse",
       "rss": "https://feeds.soundcloud.com/users/soundcloud:users:211911700/sounds.rss",
       "episodes": [
+        {
+          "id": "e0ebf1448fdc92bb",
+          "title": "1073 - Unsafe, Illegal, and Common feat. Kylie Cheung (9/21/26)",
+          "description": "1073 - Unsafe, Illegal, and Common feat. Kylie Cheung (9/21/26) by Chapo Trap House",
+          "publishedAt": "2026-09-22T05:21:53.000Z",
+          "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2405199693-chapo-trap-house-1073-unsafe-illegal-and-common.mp3",
+          "duration": "01:14:08",
+          "link": "https://soundcloud.com/chapo-trap-house/1073-unsafe-illegal-and-common"
+        },
         {
           "id": "8e38b5a2eb0169d5",
           "title": "1071 - Ballroom Blitz feat. Jacob Bacharach (9/14/26)",
@@ -89,15 +98,6 @@
           "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2374571471-chapo-trap-house-1059-spreadsheet-vultures-feat.mp3",
           "duration": "01:18:56",
           "link": "https://soundcloud.com/chapo-trap-house/1059-spreadsheet-vultures-feat"
-        },
-        {
-          "id": "3e27ee26fa55550c",
-          "title": "UNLOCKED: 1056 - Prophets Unveiled feat. Devin Thomas O’Shea (7/23/26)",
-          "description": "NOW UNLOCKED! Devin Thomas O’Shea returns to discuss his book on St. Louis’ notorious Veiled Prophet society. We look at St. Louis history as a microcosm of America, the interwoven history of labor & racial suppression, Parade Politics, the public mystification of white supremacy, and how modern secret societies forget to have a little fun with it.\n\nFind Devin’s book The Veiled Prophet here and wherever you buy books: https://www.haymarketbooks.org/books/2770-the-veiled-prophet",
-          "publishedAt": "2026-08-01T16:29:34.000Z",
-          "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2373302561-chapo-trap-house-unlocked-1056-prophets.mp3",
-          "duration": "01:11:28",
-          "link": "https://soundcloud.com/chapo-trap-house/unlocked-1056-prophets"
         }
       ]
     },
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "f0a1704076aa3aab",
+          "title": "The AI Regulation Debate ",
+          "description": "Garrison outlines various proposals for a regulatory “slowdown” of frontier AI models, Trump’s push against regulation, the risk of regulatory capture, legislation for public ownership of AI companies and control of this technology, and the organizing limits of AI-denialism.\nSources:\n  \nhttps://x.com/hilbertspaess/status/2097476196791709843\n\n https://x.com/sama/status/2098811563415150910?s=20\n https://www.nvidia.com/en-us/glossary/frontier-models/\n\n https://www.crowdstrike.com/en-us/cybersecurity-101/artificial-intelligence/frontier-ai/ \n https://darioamodei.com/post/we-must-pace-the-frontier\n https://www.anthropic.com/constitution\n\n https://bsky.app/profile/bishonentype.bsky.social/post/3mvg527c3k22n\n\n https://truthsocial.com/@realDonaldTrump/posts/117269745153543631\n\n https://x.com/RapidResponse47/status/2099597928142688610?s=20 \n https://x.com/RapidResponse47/status/2099648450069512426?s=20 \n https://x.com/atrupar/status/2099132465612828964?s=20\n https://x.com/cspan/status/2099878657174941991?s=20\n https://x.com/benitoz/status/2099572926865715548?s=20\n\n https://x.com/DavidSacks/status/2098973625252708460?s=20\n\n https://x.com/Jason/status/2098817101628600383?s=20\n\n https://x.com/daniel_koss/status/2099751931400847840?s=20\n\n https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html\n\n https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html \n https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/ \n https://abdulforsenate.com/2026/06/first-do-no-harm-ai-under-democracy/\n https://geesemag.com/articles/stop-the-ai-arms-race\n https://x.com/linamkhan/status/2099204390548639960?s=20\n\n https://www.kirosforco.com/priorities-2 \n https://reports.verasight.io/r/june-2026-ai-survey#key-takeaways \n https://www.sanders.senate.gov/press-releases/news-sanders-introduces-legislation-to-create-7-trillion-ai-sovereign-wealth-fund/ \n https://council.nyc.gov/press/2026/09/16/3240/ \n \nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-09-22T04:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/05a645f1-f9e2-48d7-886e-b4cc01596cf8/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "1765",
+          "link": "https://omny.fm/shows/it-could-happen-here/the-ai-regulation-debate"
+        },
+        {
           "id": "16d0849b0de0662c",
           "title": "The Wall and the Wilderness ",
           "description": "James talks about the ecological disaster that is the border wall and interviews Dr. Christina Aiello about the Peninsular Bighorn ram that was killed by razor wire in the Jacumba mountains.\n Sources:\n https://www.usaspending.gov/search?hash=29de9d51905bd175a701b04c24176b46 \nhttps://www-jstor-org.sdmesa.idm.oclc.org/stable/3636811?seq=5 \nhttps://www.fec.gov/data/receipts/individual-contributions/?contributor_employer=Atkore \nhttps://tucson.com/news/local/border/article_a11265b0-17c3-5bed-b50a-72e5d17e1369.html \nhttps://www.blm.gov/visit/jacumba-wilderness \nhttps://www.usaspending.gov/search?hash=29de9d51905bd175a701b04c24176b46 \nhttps://www.federalregister.gov/documents/2025/04/08/2025-05992/determination-pursuant-to-section-102-of-the-illegal-immigration-reform-and-immigrant-responsibility \nhttps://www.enr.com/articles/54215-us-settles-border-wall-suit-against-contractor-fisher-sand-gravel \nhttps://www.atkore.com/about-us \nhttps://desertreport.org/a-border-wall-in-the-jacumba-wilderness-area/ \nhttps://gizmodo.com/trumps-border-wall-torn-apart-by-arizona-monsoon-rains-1847535174 \nhttps://www.usaspending.gov/award/CONT_AWD_70B01C25F00001112_7014_70B01C23D00000010_7014 \nhttps://www.sec.gov/Archives/edgar/data/1666138/000166613826000010/atkr-20260429.htm \nSee omnystudio.com/listener for privacy information.",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f2b95a3b-24fb-446d-bf98-b49f00dc3cc3/0b1820ea-d699-4368-b916-b4c2016f18e3/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "1727",
           "link": "https://omny.fm/shows/natural-causes/whats-the-roadless-rule-and-who-wants-to-scrap-it"
-        },
-        {
-          "id": "d23c2795700c1028",
-          "title": "Sanctions, Terror, and the Internet ",
-          "description": "Margaret joins James to discuss a new round of sanctions against, among others, Autistici/Inventati and the internet infrastructure services they provided. \n\nSources:\nhttps://www.inventati.org/campaign/press\n https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/ \n https://home.treasury.gov/news/press-releases/sb0616/ \n https://davidgraeber.org/articles/the-new-anarchists/ \n  \nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-09-14T04:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/eed38365-e717-4a78-afc1-b4c4003bf7da/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "2172",
-          "link": "https://omny.fm/shows/it-could-happen-here/sanctions-terror-and-the-internet"
         }
       ]
     },
@@ -410,6 +410,15 @@
       "rss": "https://feeds.megaphone.fm/SLT6250292033",
       "episodes": [
         {
+          "id": "ed53762f0d431a56",
+          "title": "Savage Love Episode 1037",
+          "description": "Grapefruiting! It's a new sex act involving fruit! Can *any* word be verbed? Apparently! \n\n\n\nA woman wonders how anyone can successfully fake an orgasm, when the physical contractions should be noticeably felt.\n\n\n\nOn the Magnum, Dan brings on a guest to definitively answer the question you all have: How long must you wait to masturbate after you've had a heart attack? Dr. Eugene Fan is a cardiologist with nothing but good news for you horndogs. As long as your heart is beating, you can beat off. He and Dan discuss a couple of heart health issues with the charming and reassuring Dr. Fan. \n\n\n\nAnd, is piss an acquired taste? Because this woman just doesn't like it. \n\n\n\n\n\nQ@Savage.Love              206-302-2064 (You can text us a voice memo too.)\n\n\n\nThis episode is brought to you by Squarespace. They make it easy to build a website or blog. Give it a whirl at Squarespace.com/Savage and if you want to buy it, use the code Savage for a 10% off your first purchase.\n\nThis episode is brought to you by Arya- an intimacy membership with a personal intimacy concierge to help you and your partner bring true excitement back into your sex life. Right now, Arya is offering listeners $10 off your first month at GetArya.com/Savage\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit VB.Health when you use the code Savage.\n\n\n\n\n\nDan Savage is a sex-advice columnist, podcaster, author, and creator of the It Gets Better Project. From bondage to bisexuality, cuckolding to crossdressing and with a dose of progressive politics, Dan Savage is a cultural force for sex positivity, when we most need it.",
+          "publishedAt": "2026-09-22T11:00:00.000Z",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT9194923913.mp3",
+          "duration": "2970",
+          "link": ""
+        },
+        {
           "id": "061f57531cf1e4bb",
           "title": "After Action Report #47",
           "description": "No words exchanged. He lying in a hotel bed. She enters and just watches. It was their first and only date.\n\nRachel’s story proves that scheduled sex most certainly CAN be hot.\n\nHear her story, get turned on.\n\nIf YOU have a delicious tale to tell, write it down and send it in to Q@Savage.Love.\n\n\n\n\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit ⁠VB.Health⁠ when you use the code Savage.\n\nThis episode is brought to you by Lean- a weight loss supplement that works by lowering blood sugar and reducing appetite.If you have 10 or more pounds to lose, get started with 20% off and free rush shipping. Visit ⁠TakeLean.com⁠ and enter SAVAGE for your discount.",
@@ -451,7 +460,7 @@
           "description": "Cat started a sex toy company, so she had to come out as kinky to friends and family. What she didn’t expect was the stampede of her mother’s boomer friends asking for product…\n\nDo you have a story of something you tried that was like, so embarrassing??!!Let us hear it: Q@Savage.Love\n\n\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit ⁠VB.Health⁠ when you use the code Savage.",
           "publishedAt": "2026-09-04T11:00:00.000Z",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT2791158252.mp3",
-          "duration": "999",
+          "duration": "984",
           "link": ""
         },
         {
@@ -488,15 +497,6 @@
           "publishedAt": "2026-08-21T11:00:00.000Z",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT1531574905.mp3",
           "duration": "1050",
-          "link": ""
-        },
-        {
-          "id": "a28f1fe15bcb2f87",
-          "title": "Savage Lovecast Episode 1032",
-          "description": "As this is a wholesome, family-focused show, we bookend the episode with parenting questions. First, a woman's 5 year-old nephew wants to wear a padlock around his neck. He saw this on a stranger in a grocery store and thought it looked cool. Should they let him?\n\nAnd last, when your five year old asks \"What is sex?\" What should you say? \n\nOur guest is the incomparable Jane Don't!  The break out star of Season 18 of Ru Paul's drag race is here to talk about her upcoming tour, her Miss Congeniality role on Drag Race, growing up gay in a small town, and her abiding love for drag. She and Dan dish and do a deep dive on Drag Race. If you're a fan of the show, you're going to want to listen. A little is in the Micro and the whole thing is on the Magnum. \n\nAnd, a woman has been dating her boyfriend for a year now, and he still never comes when he's with her. Dan spells out his technique to get him there. \n\n\n\nQ@Savage.Love\n\n206-302-2064\n\n\n\n This episode is brought to you by Helix Sleep. Right now, Helix is offering 20% off site wide! Go to ⁠HelixSleep.com/Savage⁠. With Helix, better sleep starts now. \n\nThis episode is brought to you by Mack Weldon: timeless, innovative menswear to help you move throughthe day with confidence. Get 20% off your first order of $125 or more, with promo code SAVAGE at ⁠MackWeldon.com⁠\n\nBeducated brings pleasure-based sex education right to your bedroom. Kick off your best sex life with Beducated’s awesome, five-minute quiz at ⁠https://beduc.at/pd2634-savage⁠",
-          "publishedAt": "2026-08-18T11:00:00.000Z",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT2250209292.mp3",
-          "duration": "3562",
           "link": ""
         }
       ]
