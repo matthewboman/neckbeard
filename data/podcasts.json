@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T14:49:59.217Z",
+  "updatedAt": "2026-09-23T14:59:45.629Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "56145aa21780c421",
+          "title": "Diversity With Andrew",
+          "description": "James is joined by Andrew to discuss diversity and its value as a concept, not a corporate buzzword.\n  \n Sources:\n  \nIn Light of Our Differences \n  \n       by David Harmon\n  \nThe Difference: How the Power of Diversity Creates Better Groups, Firms, Schools, and Societies\n  \n       by Scott E. Page\nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-09-23T04:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/3079fb94-92d2-418d-a9c4-b4cd015afe15/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "2630",
+          "link": "https://omny.fm/shows/it-could-happen-here/diversity-with-andrew"
+        },
+        {
           "id": "f0a1704076aa3aab",
           "title": "The AI Regulation Debate ",
           "description": "Garrison outlines various proposals for a regulatory “slowdown” of frontier AI models, Trump’s push against regulation, the risk of regulatory capture, legislation for public ownership of AI companies and control of this technology, and the organizing limits of AI-denialism.\nSources:\n  \nhttps://x.com/hilbertspaess/status/2097476196791709843\n\n https://x.com/sama/status/2098811563415150910?s=20\n https://www.nvidia.com/en-us/glossary/frontier-models/\n\n https://www.crowdstrike.com/en-us/cybersecurity-101/artificial-intelligence/frontier-ai/ \n https://darioamodei.com/post/we-must-pace-the-frontier\n https://www.anthropic.com/constitution\n\n https://bsky.app/profile/bishonentype.bsky.social/post/3mvg527c3k22n\n\n https://truthsocial.com/@realDonaldTrump/posts/117269745153543631\n\n https://x.com/RapidResponse47/status/2099597928142688610?s=20 \n https://x.com/RapidResponse47/status/2099648450069512426?s=20 \n https://x.com/atrupar/status/2099132465612828964?s=20\n https://x.com/cspan/status/2099878657174941991?s=20\n https://x.com/benitoz/status/2099572926865715548?s=20\n\n https://x.com/DavidSacks/status/2098973625252708460?s=20\n\n https://x.com/Jason/status/2098817101628600383?s=20\n\n https://x.com/daniel_koss/status/2099751931400847840?s=20\n\n https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html\n\n https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html \n https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/ \n https://abdulforsenate.com/2026/06/first-do-no-harm-ai-under-democracy/\n https://geesemag.com/articles/stop-the-ai-arms-race\n https://x.com/linamkhan/status/2099204390548639960?s=20\n\n https://www.kirosforco.com/priorities-2 \n https://reports.verasight.io/r/june-2026-ai-survey#key-takeaways \n https://www.sanders.senate.gov/press-releases/news-sanders-introduces-legislation-to-create-7-trillion-ai-sovereign-wealth-fund/ \n https://council.nyc.gov/press/2026/09/16/3240/ \n \nSee omnystudio.com/listener for privacy information.",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/9d98dda0-c76b-4493-833b-b4c6001c1ec5/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "4037",
           "link": "https://omny.fm/shows/it-could-happen-here/should-aoc-talk-to-maha"
-        },
-        {
-          "id": "b0a03cb61c99ef5a",
-          "title": "What's the Roadless Rule and Who Wants To Scrap It?",
-          "description": "James and journalist Jason Dove Mark explain the roadless rule, national forests, and the Trump administration's attempts to strip protections from tens of thousands of acres of public land.\n  https://www.regulations.gov/document/FS-2025-0001-223869 \nhttps://www.onxmaps.com/onx-access-initiatives/roadless-rule \nhttps://morethanjustparks.com/threatened-public-lands-map/ \nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-09-14T12:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f2b95a3b-24fb-446d-bf98-b49f00dc3cc3/0b1820ea-d699-4368-b916-b4c2016f18e3/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "1727",
-          "link": "https://omny.fm/shows/natural-causes/whats-the-roadless-rule-and-who-wants-to-scrap-it"
         }
       ]
     },
