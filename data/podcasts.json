@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T14:59:45.629Z",
+  "updatedAt": "2026-09-24T15:02:26.096Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "830cd2f3e8871de0",
+          "title": "Gas Prices and Oil Wars",
+          "description": "Mia looks at how recent shifts in gas prices tell the story of a series of global wars and American empire.\n \nSources:\n  \nhttps://www.npr.org/2026/09/18/nx-s1-5973810/houthi-attacks-saudi-oil-world-markets\n https://www.wsj.com/business/energy-oil/oil-executives-say-the-great-fuel-crisis-is-here-b6b32030\n https://www.washingtonpost.com/world/2026/09/19/attacks-choke-off-saudi-oil-kingdom-confronts-limits-trumps-friendship/\n https://finance.yahoo.com/markets/article/oil-hovers-near-100-as-analysts-warn-trump-diesel-export-ban-would-tighten-global-supply-130359301.html\n https://www.wsj.com/world/middle-east/what-is-saudi-arabias-east-west-pipeline-and-why-is-it-rocking-oil-markets-3e9823a3?mod=article_inline\n https://www.wsj.com/business/energy-oil/oil-prices-mixed-as-traders-weigh-u-s-iran-talks-saudi-pipeline-progress-3b33f75c\n https://www.wsj.com/business/energy-oil/trumps-oil-allies-see-nightmare-scenario-of-diesel-export-ban-becoming-reality-16973ae2\n https://www.wsj.com/business/energy-oil/trump-weighs-diesel-export-ban-as-fuel-prices-soar-6d1a3d2e\n https://www.reuters.com/legal/litigation/us-energy-secretary-wright-says-diesel-export-ban-would-not-work-2026-09-23/\n https://www.bbc.com/news/articles/cj207y30wp0lo\n https://www.wsj.com/business/energy-oil/trump-wants-big-oil-to-build-more-refineries-thats-a-tough-sell-54666292?mod=article_inline\n https://www.ft.com/content/05887f92-c777-48ab-8efa-9a39e7e18a9f?syn-25a6b1a6=1\n https://www.wsj.com/business/energy-oil/the-relentless-crypto-billionaire-who-moved-to-venezuela-in-pursuit-of-oil-a4f0f219?\n https://www.wsj.com/business/energy-oil/inside-trumps-plan-to-give-the-pentagon-a-stake-in-venezuelas-oil-riches-f054cdc2?mod=article_inline\n https://finance.yahoo.com/energy/articles/chevron-ceo-thinks-world-spare-154027206.html\n \nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-09-24T04:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/79b856bb-2281-433c-a460-b4cf0023fe3b/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "1502",
+          "link": "https://omny.fm/shows/it-could-happen-here/2026-09-23-ichh-oil-wars-final"
+        },
+        {
           "id": "56145aa21780c421",
           "title": "Diversity With Andrew",
           "description": "James is joined by Andrew to discuss diversity and its value as a concept, not a corporate buzzword.\n  \n Sources:\n  \nIn Light of Our Differences \n  \n       by David Harmon\n  \nThe Difference: How the Power of Diversity Creates Better Groups, Firms, Schools, and Societies\n  \n       by Scott E. Page\nSee omnystudio.com/listener for privacy information.",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/1da54b88-a2dd-4d74-86c0-b4c70014eb97/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "1774",
           "link": "https://omny.fm/shows/it-could-happen-here/debating-the-american-role-in-the-middle-east"
-        },
-        {
-          "id": "c2df404fb166853f",
-          "title": "Should AOC talk to MAHA?",
-          "description": "Garrison talks with Dr. Kaveh Hoda about the potential risks and benefits of doing outreach to people within the MAHA movement, the partisan makeup of MAHA, and why AOC is privately talking with MAHA influencers. \nSources:\nhttps://www.politico.com/news/2026/06/28/poll-maha-health-fractures-kennedy-00972253\nhttps://www.kff.org/public-opinion/maha-health-concerns-resonate-broadly-but-lag-behind-health-care-costs-even-for-maha-voters/\nhttps://www.kff.org/public-opinion/kff-health-tracking-poll-maha-and-the-midterms/ \nhttps://www.politico.com/newsletters/playbook/2026/09/05/inside-aocs-maha-outreach-01066409\nhttps://www.youtube.com/live/h6fe9CaVZCI\nhttps://www.youtube.com/watch?v=FRgeXPsihXI\n\nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-09-15T04:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/9d98dda0-c76b-4493-833b-b4c6001c1ec5/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "4037",
-          "link": "https://omny.fm/shows/it-could-happen-here/should-aoc-talk-to-maha"
         }
       ]
     },
@@ -510,6 +510,15 @@
       "rss": "https://feeds.simplecast.com/Fa0PP4fl",
       "episodes": [
         {
+          "id": "d2fa25e2f3d9003e",
+          "title": "Bonus #199 - McDade's Maniacs Vol. 14 w/ Noah Savage [PATREON PREVIEW]",
+          "description": "Patreon preview. Unlock full episode at https://www.patreon.com/stavvysworld\nThe Coach of the Crazy JP McDade calls his latest maniac — the D1 demon Noah Savage — off the bench and into the game to discuss the boys’ golf excursions, Noah’s experience playing D1 basketball at Princeton, turning down beautiful Swiss women when he played overseas, juicing his basketball highlight reels with artfully edited missed shots, the gay humor divide between Black and white players in the locker room, Princeton townies turned cops, and much more. Noah, JP and Stav help callers including a guy who’s offended that his old buddies never told him that their old friend turned out to be a murderer and died himself, and a caller with a searing question about threesome etiquette.\nFollow Noah Savage on social media:\nhttps://noahsavage.com/\nhttps://www.youtube.com/@NoahSavageYoutube\nhttps://www.instagram.com/noahsavagecomic/\nFollow JP McDade on social media:\nhttps://twitter.com/jp_mcdade\nhttps://www.instagram.com/mcdadebaby\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Stav's new special Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n🎟️ See Stavvy live!! 🛥️💕!!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+          "publishedAt": "2026-09-24T10:00:00.000Z",
+          "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/98095a93-8d60-4e60-8ffc-bd7042ef1589/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=98095a93-8d60-4e60-8ffc-bd7042ef1589&feed=Fa0PP4fl",
+          "duration": "00:07:39",
+          "link": "https://siriusxm.com"
+        },
+        {
           "id": "b80b6756089959f7",
           "title": "#199 - Are You Garbage?",
           "description": "Dear friends of the show Kevin Ryan and H. Foley from Are You Garbage? return to the pod to discuss their new special American Garbage (out now on YouTube), Foley living in Ian Fidance's basement, the status of everyone's Ozempic journey, scoring sketchy GLP-1's, acting on Tires, Wawa, egg bites, their divergent life trajectories, and much more. Kevin, Foley and Stav help callers including a guy who wants tips on kicking out his deadbeat friend who he let crash with him, and a plumber wondering if he should take a job at a data center.\nWatch Are You Garbage's new special American Garbage: https://www.youtube.com/watch?v=77zGwlLffWk\nSee the Are You Garbage? boys live and follow them on social media:\nhttps://areyougarbage.com/pages/live-shows\nwww.youtube.com/@AreYouGarbage\nhttps://www.instagram.com/areyougarbage/\nhttps://www.tiktok.com/@areyougarbage  \nhttps://twitter.com/areyougarbage\nThanks to our sponsors!!\nVisible - https://www.visible.com/ SWITCH NOW!\nTwisted Tea - https://www.twistedtea.com/locations Keep It Twisted!!\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Stav's new special Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n🎟️ See Stavvy live!! 🛥️💕!!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
@@ -588,15 +597,6 @@
           "publishedAt": "2026-08-24T10:00:00.000Z",
           "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/bfa5b95d-a60f-4449-bfbf-38d73d5f8a38/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=bfa5b95d-a60f-4449-bfbf-38d73d5f8a38&feed=Fa0PP4fl",
           "duration": "01:39:55",
-          "link": "https://siriusxm.com"
-        },
-        {
-          "id": "10eed60ceb86cfb2",
-          "title": "Bonus #194 - Live Call Show Vol. 44 [PATREON PREVIEW]",
-          "description": "Patreon preview. Unlock full episode at https://www.patreon.com/c/stavvysworld\n \nStavvy's back talking directly to the fans!! Stav and Eldy play catch-up and offer advice to the beautiful members of the Patreon, including a woman's wondering if she should steal a vintage adult family heirloom from her mom, a guy with daddy issues wondering if he should keep banging his landlord after a messy hookup, and an update from a past caller who was seeking guys with small dingdongs.\n \n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n \n📺 Watch season 3 of Tires on Netflix: https://www.netflix.com/title/81758875\n \n🎬 Watch Tony in theaters!! Get your tickets: https://app.a24films.com/ticketing/tony/533\n \n🎟️ See Stavvy live!!! https://stavvy.biz/ for tickets\n \n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-          "publishedAt": "2026-08-20T10:00:00.000Z",
-          "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/f9ac82a7-9854-49b2-9044-4998f997576c/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=f9ac82a7-9854-49b2-9044-4998f997576c&feed=Fa0PP4fl",
-          "duration": "00:08:54",
           "link": "https://siriusxm.com"
         }
       ]
