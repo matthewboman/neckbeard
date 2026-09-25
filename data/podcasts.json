@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T15:02:26.096Z",
+  "updatedAt": "2026-09-25T15:13:55.680Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "19a2934af3ff0006",
+          "title": "Executive Disorder: Trump Bans the “Free Press,” Palestinian National Council Elections, ICE Shooting, Canadian Neoliberalism",
+          "description": "The gang discuss Trump’s speech at the UN, the Paramount-Warner Brothers merger,\nanother ICE shooting in Texas, how Mark Carney’s Bill C-39 threatens Indigenous rights and labor, a new election plan in Palestine, UK lifeboat protests, and Trump banning news outlets from the White House. \nSources:\n  \nhttps://x.com/SecWar/status/2102382410600182000?s=20\n https://x.com/ThomasBordeaux7/status/2102427909881294913?s=20\n\n https://www.cbsnews.com/news/trump-administration-white-south-africans-refugees-afrikaners/\n\n https://www.whitehouse.gov/presidential-actions/2026/09/supporting-americas-ranchers/\n https://bsky.app/profile/ayoub.bsky.social/post/3mw4nwosork2f\n https://www.dailyecho.co.uk/news/26570976.hundreds-turn-face-police-gosport-migrant-boat-fears---live/ \n https://www.youtube.com/watch?v=gwXS24qsEEM \n https://www.npr.org/2026/09/23/g-s1-144623/trump-affordable-care-act \n https://www.propublica.org/article/fbi-susan-collins-navatek-campaign-donations-investigation \n https://www.justice.gov/opa/pr/justice-department-concludes-federal-ban-handgun-sales-18-20-year-olds-unconstitutional-and \n https://www.bbc.com/news/articles/c6rm903e22lgo \n https://youtu.be/uNsQUNUvN0k?si=aFIiSAzCoJuAR1oZ \n https://www.dhs.gov/news/2026/09/22/correct-record-dhs-debunks-false-narratives-about-shooting-illegal-alien-austin \n https://www.instagram.com/p/Ddhn2cnItyi/ \n https://www.kvue.com/article/news/local/attorney-man-shot-ice-north-austin-news-conference-monday/269-9976441c-cedb-486f-85fa-05459daf4a20 \n https://welcome.rescue.org/sites/default/files/2026-04/ENG_CBP%20One%20Parole%20Update%20%26%20FAQ_March2026.pdf \n https://www.instagram.com/attorneygoldfinch/\n https://storage.courtlistener.com/recap/gov.uscourts.dcd.296754/gov.uscourts.dcd.296754.1.0_1.pdf \n https://www.cnn.com/2026/09/18/media/trump-claims-ban-cnn-msnow-politico-white-house \n https://x.com/CBSNewsPress/status/2102035354689671560?s=20 \n https://variety.com/2026/tv/news/tv-networks-suspend-white-house-pool-protest-trump-cnn-ban-1236871070/  \n https://variety.com/2026/film/news/fcc-approves-49-5-foreign-ownership-paramount-warner-bros-1236866217/\n\n https://deadline.com/2026/09/paramount-leaving-california-merger-lawsuit-1237105417/ \n https://apnews.com/article/warner-bros-paramount-skydance-merger-settlement-1aaa7c471d8ba286ccfad92b18bc1ecf?utm_source=copy&utm_medium=share \n https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-settlement-warner-brosparamount-litigation \n https://oag.ca.gov/system/files/attachments/press-docs/2026-09-21-244-exhibits-re-243-joint-motion-enter-consent-decree-and.pdf\n https://www.theguardian.com/world/2026/sep/17/trump-calls-eu-offer-to-canada-associate-membership-laughable-threatens-tariffs \n https://archive.vn/NJc5J#selection-3749.107-3749.143 \n https://www.cbc.ca/news/politics/canada-britain-military-expeditionary-force-nato-9.7347144 \n https://www.reuters.com/world/canada-applies-join-uk-led-military-coalition-says-carneys-office-2026-09-16/ \n https://www.reuters.com/world/americas/canadas-carney-calls-stronger-ties-with-france-face-new-global-threats-2026-09-20/ \n https://www.baltimoresun.com/2026/09/21/trump-us-canada-europe/ \n https://apnews.com/article/europe-canada-carney-associate-member-3fdb111dd4d23d88b3de88c274c52711 \n https://www.thestar.com/politics/federal/carney-government-tables-sweeping-bill-to-overhaul-environmental-and-labour-rules/article_3b03e2d3-0dce-4842-ade1-96b3d76dcd97.html \n https://apnews.com/article/europe-commission-state-union-leyen-speech-address-888f1d0c061ffb2accefc19cdbf39ffc \n https://thenarwhal.ca/canada-bill-c-39-environmental-assessments/ \n https://apnews.com/article/canada-europe-trump-tariffs-4078e9549ff9caa5ded08f7dd2f99065 \n \nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-09-25T04:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/5d7b090e-f796-431f-b969-b4d0001ad814/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "4321",
+          "link": "https://omny.fm/shows/it-could-happen-here/executive-disorder-trump-bans-the-free-press-palestinian-national-council-elections-ice-shooting-canadian-neoliberalism"
+        },
+        {
           "id": "830cd2f3e8871de0",
           "title": "Gas Prices and Oil Wars",
           "description": "Mia looks at how recent shifts in gas prices tell the story of a series of global wars and American empire.\n \nSources:\n  \nhttps://www.npr.org/2026/09/18/nx-s1-5973810/houthi-attacks-saudi-oil-world-markets\n https://www.wsj.com/business/energy-oil/oil-executives-say-the-great-fuel-crisis-is-here-b6b32030\n https://www.washingtonpost.com/world/2026/09/19/attacks-choke-off-saudi-oil-kingdom-confronts-limits-trumps-friendship/\n https://finance.yahoo.com/markets/article/oil-hovers-near-100-as-analysts-warn-trump-diesel-export-ban-would-tighten-global-supply-130359301.html\n https://www.wsj.com/world/middle-east/what-is-saudi-arabias-east-west-pipeline-and-why-is-it-rocking-oil-markets-3e9823a3?mod=article_inline\n https://www.wsj.com/business/energy-oil/oil-prices-mixed-as-traders-weigh-u-s-iran-talks-saudi-pipeline-progress-3b33f75c\n https://www.wsj.com/business/energy-oil/trumps-oil-allies-see-nightmare-scenario-of-diesel-export-ban-becoming-reality-16973ae2\n https://www.wsj.com/business/energy-oil/trump-weighs-diesel-export-ban-as-fuel-prices-soar-6d1a3d2e\n https://www.reuters.com/legal/litigation/us-energy-secretary-wright-says-diesel-export-ban-would-not-work-2026-09-23/\n https://www.bbc.com/news/articles/cj207y30wp0lo\n https://www.wsj.com/business/energy-oil/trump-wants-big-oil-to-build-more-refineries-thats-a-tough-sell-54666292?mod=article_inline\n https://www.ft.com/content/05887f92-c777-48ab-8efa-9a39e7e18a9f?syn-25a6b1a6=1\n https://www.wsj.com/business/energy-oil/the-relentless-crypto-billionaire-who-moved-to-venezuela-in-pursuit-of-oil-a4f0f219?\n https://www.wsj.com/business/energy-oil/inside-trumps-plan-to-give-the-pentagon-a-stake-in-venezuelas-oil-riches-f054cdc2?mod=article_inline\n https://finance.yahoo.com/energy/articles/chevron-ceo-thinks-world-spare-154027206.html\n \nSee omnystudio.com/listener for privacy information.",
@@ -260,7 +269,7 @@
           "description": "Margaret reads you a surreal story about the surreal Southwest, written by one of her favorite authors\nSee omnystudio.com/listener for privacy information.",
           "publishedAt": "2026-09-20T04:00:00.000Z",
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/42d32f66-c742-4523-b1d0-b4cb00344ea7/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "2575",
+          "duration": "2627",
           "link": "https://omny.fm/shows/it-could-happen-here/czm-book-club-ocotillo-by-madeline-ffitch"
         },
         {
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/0092014e-b10a-444c-ac6e-b4c8003159dd/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "1018",
           "link": "https://omny.fm/shows/it-could-happen-here/2026-09-16-ichh-uprising-final"
-        },
-        {
-          "id": "1d6f3f41e5b80997",
-          "title": "Debating the American Role in the Middle East",
-          "description": "In this episode Dana El Kurd talks about the debate in DC on what the role of the US has been in the Middle East, and what it should be. She also talks about what’s missing from these discussions. \n  \n Sources:\n https://www.cfr.org/articles/the-u-s-led-middle-east-order-is-over-the-mecca-agreement-proves-it\n https://www.foreignaffairs.com/united-states/end-american-middle-east-iran-marc-lynch\n http://foreignaffairs.com/middle-east/new-old-middle-east-gause\n https://www.fpri.org/article/2023/12/the-re-emergence-of-the-palestine-question-in-world-politics/\n https://www.theguardian.com/commentisfree/2026/jul/29/us-decline-world-order-replacement\nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-09-16T04:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/1da54b88-a2dd-4d74-86c0-b4c70014eb97/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "1774",
-          "link": "https://omny.fm/shows/it-could-happen-here/debating-the-american-role-in-the-middle-east"
         }
       ]
     },
@@ -410,6 +410,15 @@
       "rss": "https://feeds.megaphone.fm/SLT6250292033",
       "episodes": [
         {
+          "id": "4d9b317ce734b9bd",
+          "title": "After Action Report #48",
+          "description": "Just how polite are Canadians?\n\n Meet Owen, a Canuck whose good manners went above and beyond when he visited the red light district in Amsterdam.\n\nName a lake after this guy!\n\nTell us your story, right away!Send it to Q@Savage.Love\n\n\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit VB.Health when you use the code Savage.",
+          "publishedAt": "2026-09-25T11:00:00.000Z",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT6279169977.mp3",
+          "duration": "953",
+          "link": ""
+        },
+        {
           "id": "ed53762f0d431a56",
           "title": "Savage Love Episode 1037",
           "description": "Grapefruiting! It's a new sex act involving fruit! Can *any* word be verbed? Apparently! \n\n\n\nA woman wonders how anyone can successfully fake an orgasm, when the physical contractions should be noticeably felt.\n\n\n\nOn the Magnum, Dan brings on a guest to definitively answer the question you all have: How long must you wait to masturbate after you've had a heart attack? Dr. Eugene Fan is a cardiologist with nothing but good news for you horndogs. As long as your heart is beating, you can beat off. He and Dan discuss a couple of heart health issues with the charming and reassuring Dr. Fan. \n\n\n\nAnd, is piss an acquired taste? Because this woman just doesn't like it. \n\n\n\n\n\nQ@Savage.Love              206-302-2064 (You can text us a voice memo too.)\n\n\n\nThis episode is brought to you by Squarespace. They make it easy to build a website or blog. Give it a whirl at Squarespace.com/Savage and if you want to buy it, use the code Savage for a 10% off your first purchase.\n\nThis episode is brought to you by Arya- an intimacy membership with a personal intimacy concierge to help you and your partner bring true excitement back into your sex life. Right now, Arya is offering listeners $10 off your first month at GetArya.com/Savage\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit VB.Health when you use the code Savage.\n\n\n\n\n\nDan Savage is a sex-advice columnist, podcaster, author, and creator of the It Gets Better Project. From bondage to bisexuality, cuckolding to crossdressing and with a dose of progressive politics, Dan Savage is a cultural force for sex positivity, when we most need it.",
@@ -488,15 +497,6 @@
           "publishedAt": "2026-08-25T11:00:00.000Z",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT7705274934.mp3",
           "duration": "3116",
-          "link": ""
-        },
-        {
-          "id": "a3190b1bcf149e8a",
-          "title": "After Action Report #43",
-          "description": "After 22 years of marriage, well, it was just time.\n\nHear Trix’s story  about writing, filming and performing in her “queer adoring gang bang” story. \n\nAnd how she feels about the possibility of her kids stumbling across it one day.\n\n\n\nHow have YOU kept your marriage fresh? Tell us a story at Q@Savage.Love\n\n\n\n\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit VB.Health when you use the code Savage.",
-          "publishedAt": "2026-08-21T11:00:00.000Z",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT1531574905.mp3",
-          "duration": "1050",
           "link": ""
         }
       ]
