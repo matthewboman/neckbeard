@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T16:29:49.772Z",
+  "updatedAt": "2026-09-30T16:23:44.492Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "6585b3cde90368f3",
+          "title": "Were Macklemore’s First Amendment Rights Violated?",
+          "description": "Kevin Foster speaks with Mo Meltzer-Cohen, a law professor at CUNY School of Law, about Macklemore being booted from the Ed Sheeran tour and the First Amendment implications. \n  \n Sources:\n  \nhttps://www.instagram.com/reels/Dc_bH4_N1FN/\n https://www.rollingstone.com/music/music-news/macklemore-dropped-ed-sheeran-tour-robert-kraft-statement-1235626352/\n https://www.middleeasteye.net/news/ed-sheerans-shows-stadium-owned-pro-israel-robert-kraft-cancelled\n https://www.instagram.com/p/DdRdsy0m2HK/?img_index=4\n https://www.rollingstone.com/music/music-news/macklemore-dropped-ed-sheeran-tour-pro-palestine-statements-1235625967/\n https://www.rollingstone.com/music/music-news/macklemore-statement-dropped-ed-sheeran-tour-1235626135/\n https://www.youtube.com/shorts/ngmblAp7y_I\n https://www.lucasoilstadium.com/tours-stadium-info/background-history/\n https://blankfamilyofbusinesses.com/company/amb-sports-entertainment/\n https://raymondjamesstadium.com/tampasportsauthority\n https://www.tampasportsauthority.com/tsa-about\n https://www.setlist.fm/setlist/ye/2026/raymond-james-stadium-tampa-fl-33745801.html\n https://www.texastribune.org/2026/09/24/ut-texas-austin-palestine-protest-ruling/\n \nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-09-30T04:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/a0b73792-24b1-416a-bb07-b4d40172c06a/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "1968",
+          "link": "https://omny.fm/shows/it-could-happen-here/were-macklemore-s-first-amendment-rights-violated"
+        },
+        {
           "id": "4f4f3867c2344f23",
           "title": "After Ceuta",
           "description": "In this episode Dana El Kurd talks with Harsha Walia about the anti immigrant backlash that has emerged in the aftermath of the migrant crossing incident in the Spanish enclave of Ceuta. Harsha breaks down what happened, how parts of the right and left have responded, and why we need to center migrant rights in our struggle against fascism.\n  \n Sources:\n Spain: Liberals Cede Ground to Far Right on Ceuta Border Crossings\n Why is Spain in Africa? – Canadian Dimension\n Morocco’s US-Backed Occupation of Western Sahara It Could Happen Here | iHeart\nSee omnystudio.com/listener for privacy information.",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/05a645f1-f9e2-48d7-886e-b4cc01596cf8/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "1765",
           "link": "https://omny.fm/shows/it-could-happen-here/the-ai-regulation-debate"
-        },
-        {
-          "id": "16d0849b0de0662c",
-          "title": "The Wall and the Wilderness ",
-          "description": "James talks about the ecological disaster that is the border wall and interviews Dr. Christina Aiello about the Peninsular Bighorn ram that was killed by razor wire in the Jacumba mountains.\n Sources:\n https://www.usaspending.gov/search?hash=29de9d51905bd175a701b04c24176b46 \nhttps://www-jstor-org.sdmesa.idm.oclc.org/stable/3636811?seq=5 \nhttps://www.fec.gov/data/receipts/individual-contributions/?contributor_employer=Atkore \nhttps://tucson.com/news/local/border/article_a11265b0-17c3-5bed-b50a-72e5d17e1369.html \nhttps://www.blm.gov/visit/jacumba-wilderness \nhttps://www.usaspending.gov/search?hash=29de9d51905bd175a701b04c24176b46 \nhttps://www.federalregister.gov/documents/2025/04/08/2025-05992/determination-pursuant-to-section-102-of-the-illegal-immigration-reform-and-immigrant-responsibility \nhttps://www.enr.com/articles/54215-us-settles-border-wall-suit-against-contractor-fisher-sand-gravel \nhttps://www.atkore.com/about-us \nhttps://desertreport.org/a-border-wall-in-the-jacumba-wilderness-area/ \nhttps://gizmodo.com/trumps-border-wall-torn-apart-by-arizona-monsoon-rains-1847535174 \nhttps://www.usaspending.gov/award/CONT_AWD_70B01C25F00001112_7014_70B01C23D00000010_7014 \nhttps://www.sec.gov/Archives/edgar/data/1666138/000166613826000010/atkr-20260429.htm \nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-09-21T12:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f2b95a3b-24fb-446d-bf98-b49f00dc3cc3/89200528-39b6-4f4c-b35e-b4cb017d9545/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "1733",
-          "link": "https://omny.fm/shows/natural-causes/the-wall-and-the-wilderness"
         }
       ]
     },
