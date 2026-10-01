@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T16:23:44.492Z",
+  "updatedAt": "2026-10-01T17:01:00.399Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "7f12b1e2b7ef6a69",
+          "title": "What Happened in the Labor Movement Last Month?",
+          "description": "In this episode, labor reporter Kim Kelly breaks down September's biggest and baddest labor stories, from an historic union election for caregivers to union-busting at AutoZone.\n Sources:\n https://labornotes.org/2026/09/video-game-workers-win-first-contract-microsoft-owned-blizzard\n https://www.health.ny.gov/health_care/medicaid/program/longterm/cdpap/\n https://truthout.org/articles/nurses-across-us-demand-hospitals-cut-ties-with-palantir-citing-ice-and-gaza/?source=email-sept-2026-newsletter&utm_source=newsletter&utm_medium=email&link_id=34&can_id=5cd4cd77783c61743857a7efb7930b4a&email_referrer=email_3426373___subject_3887973&email_subject=september-2026-newsletter&\n https://www.nationalnursesunited.org/press/statement-on-israeli-bombings-of-medical-supply-warehouses\n https://jacobin.com/2026/09/walmart-logistics-canada-union-contract\n https://labornotes.org/2024/10/walmart-warehouse-workers-win-first-union-canada\n https://documentedny.com/2026/09/23/union-avoidance-cesar-alarcon-golden-krust/\n https://www.yahoo.com/news/us/articles/us-truck-drivers-allegedly-going-205300430.html\n https://www.dairyherd.com/news/oct-1-trucker-strike-what-happens-when-diesel-prices-force-milk-haulers-road\n https://thechiefleader.com/stories/worker-firing-the-latest-chapter-in-autozone-s-unsuccessful-union-busting-campaign,57714?\n https://www.theguardian.com/us-news/2026/sep/18/autozone-new-york-union \n https://aflcio.org/2026/9/29/service-solidarity-spotlight-autozone-workers-vote-join-uaw-first-nationwide-chain\n https://x.com/BootsRiley/status/2081402455938761143?s=20\n https://www.gofundme.com/f/support-nate-and-the-autozone-union?attribution_id=sl:47223fd6-2040-4a68-bfc1-88bcb64cc61e&lang=en_US&ts=1790511644&utm_campaign=fp_sharesheet&utm_content=amp30-control&utm_medium=customer&utm_source=copy_link\n https://law.justia.com/cases/federal/appellate-courts/F3/83/422/586049/\nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-10-01T04:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/fde030f9-e8a9-4cbd-ac1e-b4d60007ef61/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "1663",
+          "link": "https://omny.fm/shows/it-could-happen-here/what-happened-in-the-labor-movement-last-month"
+        },
+        {
           "id": "6585b3cde90368f3",
           "title": "Were Macklemore’s First Amendment Rights Violated?",
           "description": "Kevin Foster speaks with Mo Meltzer-Cohen, a law professor at CUNY School of Law, about Macklemore being booted from the Ed Sheeran tour and the First Amendment implications. \n  \n Sources:\n  \nhttps://www.instagram.com/reels/Dc_bH4_N1FN/\n https://www.rollingstone.com/music/music-news/macklemore-dropped-ed-sheeran-tour-robert-kraft-statement-1235626352/\n https://www.middleeasteye.net/news/ed-sheerans-shows-stadium-owned-pro-israel-robert-kraft-cancelled\n https://www.instagram.com/p/DdRdsy0m2HK/?img_index=4\n https://www.rollingstone.com/music/music-news/macklemore-dropped-ed-sheeran-tour-pro-palestine-statements-1235625967/\n https://www.rollingstone.com/music/music-news/macklemore-statement-dropped-ed-sheeran-tour-1235626135/\n https://www.youtube.com/shorts/ngmblAp7y_I\n https://www.lucasoilstadium.com/tours-stadium-info/background-history/\n https://blankfamilyofbusinesses.com/company/amb-sports-entertainment/\n https://raymondjamesstadium.com/tampasportsauthority\n https://www.tampasportsauthority.com/tsa-about\n https://www.setlist.fm/setlist/ye/2026/raymond-james-stadium-tampa-fl-33745801.html\n https://www.texastribune.org/2026/09/24/ut-texas-austin-palestine-protest-ruling/\n \nSee omnystudio.com/listener for privacy information.",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/3079fb94-92d2-418d-a9c4-b4cd015afe15/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "2630",
           "link": "https://omny.fm/shows/it-could-happen-here/diversity-with-andrew"
-        },
-        {
-          "id": "f0a1704076aa3aab",
-          "title": "The AI Regulation Debate ",
-          "description": "Garrison outlines various proposals for a regulatory “slowdown” of frontier AI models, Trump’s push against regulation, the risk of regulatory capture, legislation for public ownership of AI companies and control of this technology, and the organizing limits of AI-denialism.\nSources:\n  \nhttps://x.com/hilbertspaess/status/2097476196791709843\n\n https://x.com/sama/status/2098811563415150910?s=20\n https://www.nvidia.com/en-us/glossary/frontier-models/\n\n https://www.crowdstrike.com/en-us/cybersecurity-101/artificial-intelligence/frontier-ai/ \n https://darioamodei.com/post/we-must-pace-the-frontier\n https://www.anthropic.com/constitution\n\n https://bsky.app/profile/bishonentype.bsky.social/post/3mvg527c3k22n\n\n https://truthsocial.com/@realDonaldTrump/posts/117269745153543631\n\n https://x.com/RapidResponse47/status/2099597928142688610?s=20 \n https://x.com/RapidResponse47/status/2099648450069512426?s=20 \n https://x.com/atrupar/status/2099132465612828964?s=20\n https://x.com/cspan/status/2099878657174941991?s=20\n https://x.com/benitoz/status/2099572926865715548?s=20\n\n https://x.com/DavidSacks/status/2098973625252708460?s=20\n\n https://x.com/Jason/status/2098817101628600383?s=20\n\n https://x.com/daniel_koss/status/2099751931400847840?s=20\n\n https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html\n\n https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html \n https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/ \n https://abdulforsenate.com/2026/06/first-do-no-harm-ai-under-democracy/\n https://geesemag.com/articles/stop-the-ai-arms-race\n https://x.com/linamkhan/status/2099204390548639960?s=20\n\n https://www.kirosforco.com/priorities-2 \n https://reports.verasight.io/r/june-2026-ai-survey#key-takeaways \n https://www.sanders.senate.gov/press-releases/news-sanders-introduces-legislation-to-create-7-trillion-ai-sovereign-wealth-fund/ \n https://council.nyc.gov/press/2026/09/16/3240/ \n \nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-09-22T04:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/05a645f1-f9e2-48d7-886e-b4cc01596cf8/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "1765",
-          "link": "https://omny.fm/shows/it-could-happen-here/the-ai-regulation-debate"
         }
       ]
     },
@@ -510,6 +510,15 @@
       "rss": "https://feeds.simplecast.com/Fa0PP4fl",
       "episodes": [
         {
+          "id": "00d0e9a9a764a704",
+          "title": "Bonus #200 - Alex Pavone [PATREON PREVIEW]",
+          "description": "Patreon preview. Unlock full episode at https://www.patreon.com/stavvysworld\nDear friend of the pod Alex Pavone returns to discuss expecting a child, lactating at a young age, his weird nipples, his dad's late-in-life tattoos, disciplining kids, culture moving slower in Canada, and much more. Alex and Stav help callers including a woman who wants her boyfriend to start gambling more again, and a guy whose roommate's girlfriend is trying to get them to watch a street cat she rescued for seven months.\nFollow Alex Pavone on social media:\nhttps://www.instagram.com/mralexpavone/\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Stav's new special Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n🎟️ See Stavvy live!! 🛥️💕!!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+          "publishedAt": "2026-10-01T10:00:00.000Z",
+          "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/8852f6bb-b6fb-40fe-a250-464738275dc5/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=8852f6bb-b6fb-40fe-a250-464738275dc5&feed=Fa0PP4fl",
+          "duration": "00:06:23",
+          "link": "https://siriusxm.com"
+        },
+        {
           "id": "dfc860656265f783",
           "title": "#200 - Kam Patterson",
           "description": "Kam Patterson joins the pod to discuss growing up in Orlando, how it's hard to be a thug when you live near Disney, putting his grandma on blast at her 60th birthday, policing the star player on the basketball team for not practicing hard enough, how Al Pacino is still popping off and having kids old AF, and much more. Kam and Stav help callers including a guy who's wondering if he should tell his girlfriend he hooked up with an old friend of hers in the past, and a Black man who loves Greek food but whose favorite restaurant is racist.\nSee Kam Patterson live and follow him on social media:\nhttps://kampatterson.com/\nhttps://x.com/Guapedupkam\nhttps://www.instagram.com/kamsoofunny/\nhttps://www.youtube.com/@Kamsoofunny  \nhttps://www.tiktok.com/@kamsoofunny1\nThanks to our sponsors!!\nVisible - https://www.visible.com/ SWITCH NOW!\nTwisted Tea - https://www.twistedtea.com/locations Keep It Twisted!!\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Stav's new special Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n🎟️ See Stavvy live!! 🛥️💕!!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
@@ -588,15 +597,6 @@
           "publishedAt": "2026-08-31T10:00:00.000Z",
           "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/978f9356-d1ff-4cf7-a7c5-06d3a1a8d497/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=978f9356-d1ff-4cf7-a7c5-06d3a1a8d497&feed=Fa0PP4fl",
           "duration": "01:59:28",
-          "link": "https://siriusxm.com"
-        },
-        {
-          "id": "f3bc334e23f98c50",
-          "title": "Bonus #195 - Party God [PATREON PREVIEW]",
-          "description": "Patreon preview. Unlock full episode at https://www.patreon.com/stavvysworld\n \nDevon Young and Elle Parker, hosts of the Party God podcast, join the pod to discuss how they split up their party-crashing duties, seeing guys cower at a well-endowed adult film's star rizz at a party, Devon's Grapes of Wrath-like upbringing in Georgia, Elle's standup comic mom, and much more. Devon, Elle and Stav help callers including an Australian guy whose deadbeat dad is using him for access to club parties with goth baddies, and a guy who's hooking up with his ex-girlfriend but stuck in HJ purgatory.\n \nCheck out the Party God podcast:\n \nhttps://www.youtube.com/@PartyGodPod  \nhttps://www.instagram.com/partygodpod/\nhttps://www.tiktok.com/@partygodpod  \n \nFollow Devon Young on social media:\n \nhttps://www.instagram.com/cuteanon__/\n \nFollow Elle Parker on social media:\n \nhttps://www.instagram.com/ellevegas/\n \n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n \n🎤 Watch Stav's new special Uncle Stav on Netflix (Sept. 8): https://www.netflix.com/title/82055929\n \n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n \n🎟️ See Stavvy live!! 🛥️💕!!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-          "publishedAt": "2026-08-27T10:00:00.000Z",
-          "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/9866558e-e848-4ccc-81dd-28aa02d06a4c/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=9866558e-e848-4ccc-81dd-28aa02d06a4c&feed=Fa0PP4fl",
-          "duration": "00:08:26",
           "link": "https://siriusxm.com"
         }
       ]
