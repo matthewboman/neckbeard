@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T17:01:00.399Z",
+  "updatedAt": "2026-10-02T16:15:24.004Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "68fdb6f439a4decc",
+          "title": "Executive Disorder: DHS Voter Roll Purge, Cornell and Title IX, Hungary’s Anti-Corruption Crusade",
+          "description": "We discuss taxpayer funded pro-Trump ads, the Supreme Court approving a widely inaccurate verification system to purge voter registration, the Chi Phi Snapchat gang assault at Cornell, Trump reinstating the 2020 version of Title IX, how Prime Minister Peter Magyar is cracking down on Orban’s corruption, and the upcoming election in Brazil. \nSources:\n  \nhttps://www.camp-oshad.org/ \n http://America.gov\n\n https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/\n\n https://x.com/WhiteHouse/status/2105292669303791687\n https://www.documentcloud.org/documents/28680584-effective-altruism-opposition-research-file/ \n https://x.com/DoWCTO/status/2099536442594582922?s=20 \n https://x.com/DoWCTO/status/2100311000993997135?s=20 \n https://theintercept.com/2026/09/21/john-fetterman-fundraising-republican-gop/ \n https://time.com/article/2026/09/29/john-fetterman-democrat-turns-to-republicans-for-campaign-cash/\n https://www.huffpost.com/entry/palantir-top-supporter-cbc-foundation-annual-conference_n_6ab44468e4b05097ab6cd6c7\n https://www.politico.com/news/2026/09/27/trump-administration-taxpayer-funds-2024-campaign-ad-01094567?utm_source=dlvr.it&utm_medium=twitter\n https://www.facebook.com/cnnpolitics/videos/during-a-cnn-debate-california-gop-gubernatorial-candidate-chad-bianco-said-he-i/1532884141888808/ \n https://www.ksl.com/article/51628353/california-sheriff-unlawfully-seized-over-650000-ballots-and-must-return-them-state-supreme-court-rules \n https://www.nytimes.com/2026/09/24/us/politics/nevada-voters-homeland-security-trump.html\n\n https://www.supremecourt.gov/opinions/25pdf/26a308_pok0.pdf \n https://www.propublica.org/article/save-voter-citizenship-tool-mistakes-confusion \n https://www.threads.com/@thegreatgatsbry/post/Dd6YGpzkane?xmt=AQGzqaZ-H3abT0EW2lfRTONANK8dwciIx844aGm48QTIrQ \n https://www.lawcommentary.com/articles/lsu-football-player-rape-title-ix-suspension \n https://www.dw.com/en/magyar-hungary-fight-orban-corruption-system-return-democracy/a-77726207 \n https://www.msn.com/en-au/news/other/with-two-orb%C3%A1n-era-ministers-detained-magyars-operation-purge-takes-shape/ar-AA2ddhtr \n https://www.chathamhouse.org/2026/09/brazils-presidential-election-more-just-another-polarized-contest\n https://www.yahoo.com/news/politics/articles/trump-section-301-forced-labor-165346448.html \n https://www.nytimes.com/2026/09/30/business/trump-tariffs-court-challenge.html \n https://www.ttnews.com/articles/us-delays-tariffs-plan-china \n https://www.msn.com/en-us/news/other/g20-trade-ministers-open-talks-under-strain-of-trump-tariffs/ar-AA2dhyJI \n https://www.iheart.com/podcast/105-it-could-happen-here-30717896/episode/the-economics-of-the-tariff-regime-301846881/ \n https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html \n https://www.nbcnews.com/news/us-news/federal-reserve-renovation-watchdog-report-rcna600656 \n \nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-10-02T04:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/3b942b4e-0e56-4311-ba19-b4d7002dc8f1/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "4621",
+          "link": "https://omny.fm/shows/it-could-happen-here/executive-disorder-dhs-voter-roll-purge-cornell-and-title-ix-hungary-s-anti-corruption-crusade"
+        },
+        {
           "id": "7f12b1e2b7ef6a69",
           "title": "What Happened in the Labor Movement Last Month?",
           "description": "In this episode, labor reporter Kim Kelly breaks down September's biggest and baddest labor stories, from an historic union election for caregivers to union-busting at AutoZone.\n Sources:\n https://labornotes.org/2026/09/video-game-workers-win-first-contract-microsoft-owned-blizzard\n https://www.health.ny.gov/health_care/medicaid/program/longterm/cdpap/\n https://truthout.org/articles/nurses-across-us-demand-hospitals-cut-ties-with-palantir-citing-ice-and-gaza/?source=email-sept-2026-newsletter&utm_source=newsletter&utm_medium=email&link_id=34&can_id=5cd4cd77783c61743857a7efb7930b4a&email_referrer=email_3426373___subject_3887973&email_subject=september-2026-newsletter&\n https://www.nationalnursesunited.org/press/statement-on-israeli-bombings-of-medical-supply-warehouses\n https://jacobin.com/2026/09/walmart-logistics-canada-union-contract\n https://labornotes.org/2024/10/walmart-warehouse-workers-win-first-union-canada\n https://documentedny.com/2026/09/23/union-avoidance-cesar-alarcon-golden-krust/\n https://www.yahoo.com/news/us/articles/us-truck-drivers-allegedly-going-205300430.html\n https://www.dairyherd.com/news/oct-1-trucker-strike-what-happens-when-diesel-prices-force-milk-haulers-road\n https://thechiefleader.com/stories/worker-firing-the-latest-chapter-in-autozone-s-unsuccessful-union-busting-campaign,57714?\n https://www.theguardian.com/us-news/2026/sep/18/autozone-new-york-union \n https://aflcio.org/2026/9/29/service-solidarity-spotlight-autozone-workers-vote-join-uaw-first-nationwide-chain\n https://x.com/BootsRiley/status/2081402455938761143?s=20\n https://www.gofundme.com/f/support-nate-and-the-autozone-union?attribution_id=sl:47223fd6-2040-4a68-bfc1-88bcb64cc61e&lang=en_US&ts=1790511644&utm_campaign=fp_sharesheet&utm_content=amp30-control&utm_medium=customer&utm_source=copy_link\n https://law.justia.com/cases/federal/appellate-courts/F3/83/422/586049/\nSee omnystudio.com/listener for privacy information.",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/79b856bb-2281-433c-a460-b4cf0023fe3b/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "1502",
           "link": "https://omny.fm/shows/it-could-happen-here/2026-09-23-ichh-oil-wars-final"
-        },
-        {
-          "id": "56145aa21780c421",
-          "title": "Diversity With Andrew",
-          "description": "James is joined by Andrew to discuss diversity and its value as a concept, not a corporate buzzword.\n  \n Sources:\n  \nIn Light of Our Differences \n  \n       by David Harmon\n  \nThe Difference: How the Power of Diversity Creates Better Groups, Firms, Schools, and Societies\n  \n       by Scott E. Page\nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-09-23T04:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/3079fb94-92d2-418d-a9c4-b4cd015afe15/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "2630",
-          "link": "https://omny.fm/shows/it-could-happen-here/diversity-with-andrew"
         }
       ]
     },
@@ -410,6 +410,15 @@
       "rss": "https://feeds.megaphone.fm/SLT6250292033",
       "episodes": [
         {
+          "id": "f2bdcbbdeeb6bc49",
+          "title": "After Action Report #49",
+          "description": "What's in the duffel bag? \n\n\n\nOn her vacation to Bali, she hooked up with a hot, rich dude with a glass house in the jungle. \n\nBut, what tricks did he have up his sleeve? \n\n\n\nAfter a bad experience at home, Julia had a re-discovery of her best sexual self. \n\n\n\n\n\nHave a listen. \n\n\n\nAnd then send us your story! \n\nQ@Savage.Love\n\n\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit VB.Health when you use the code Savage.",
+          "publishedAt": "2026-10-02T11:00:00.000Z",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT3648894357.mp3",
+          "duration": "1238",
+          "link": ""
+        },
+        {
           "id": "7bdb308296d1ce11",
           "title": "Savage Love Episode 1038",
           "description": "We begin the show...drunkenly. A lit lady enjoys the sensation of touching ears. Room temperature, or slightly chilled. Not too cold. But \"ear porn?\" Is that a thing? \n\nA lucky fella won a three-month free entry to his local bathhouse. Whatever should he do when he's in there?\n\nOur guest this week is Allen Sulkin, creator of the new podcast \"Gerbil.\" He and Dan analyze the persistence of the insane sex myth that you've probably heard about. Do people still believe it? They go into the dark motivations that allowed such a preposterous rumor to live on and on. Gerbil is out now, and you should drop everything to listen to it. \n\nAnd, should a woman demand her fiancé continue the painful, expensive tattoo removal from a previous marriage? \n\n\n\n\n\nPeople. Make good choices. \n\nCall or text your questions to: 206-302-2064\n\nOr send to Q@Savage.Love\n\n\n\nThis episode is brought to you by the Toler Financial Group. For money advice that thinks outside the closet, schedule a judgement free consultation with the team at Toler Financial Group today at ⁠tolerfinancialgroup.com/savage⁠\n\nThis episode is brought to you by Forkful – Seed oil free, chef cooked meals, delivered to your door. Go to ⁠ForkfulMeals.com/Savage⁠ and use code SAVAGE to get 50% OFF your first order.\n\nToday’s show is sponsored by AseeksB: free, text-first app for personal ads. Kink and ENM friendly, no swiping. Search what other people are looking for, or post what you seek and choose who sees it. ⁠aseeksb.com/savage.⁠",
@@ -488,15 +497,6 @@
           "publishedAt": "2026-09-01T11:00:00.000Z",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT9265135418.mp3",
           "duration": "3230",
-          "link": ""
-        },
-        {
-          "id": "094c892aa7191fb7",
-          "title": "After Action Report #44",
-          "description": "Hey Everybody! Meet Jay- a pan, poly furry who, along with 15 other queer furries, met up for a \"kink tasting, orgy event.\"\n\n\n\nWhat goes on at kink cabin? We won't say here, but please know that an inflatable horse costume was involved.\n\nAlso, Dan brings a much needed Marxist interrogation to the story.\n\nIf you have a tale to share, write it up and send it in to Q@Savage.Love",
-          "publishedAt": "2026-08-28T11:00:00.000Z",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT9837821829.mp3",
-          "duration": "1118",
           "link": ""
         }
       ]
