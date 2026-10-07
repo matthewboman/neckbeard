@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T16:46:44.166Z",
+  "updatedAt": "2026-10-07T17:24:42.816Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "ca3d4da7c14dabc8",
+          "title": "How the ‘Delivery Protection Act’ Takes on Amazon ",
+          "description": "Garrison talks with Matt and Olivia from the NYC-DSA Labor Working Group about how Amazon uses subcontractors to exploit “last mile” delivery drivers and how a new bill could hold Amazon accountable and strengthen workers' ability to organize. \n \nSources:\n  \nhttps://act.socialists.nyc/dpa-letter\n https://actionnetwork.org/events/rally-to-pass-the-delivery-protection-act-3 \n https://www.instagram.com/nycdsa/ \n https://www.instagram.com/nycdsalabor/ \n https://www.nyc.gov/site/dca/workers/workersrights/Delivery-Workers.page \n https://www.nyc.gov/mayors-office/news/2026/08/mayor-mamdani-backs--delivery-protection-act--to-rein-in-amazon- \n https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-wins-record--131-5-million-from-doordash-for-deliv \n https://www.bloomberg.com/news/features/2026-06-02/amazon-trump-settlement-win-showed-just-how-tough-delivery-drivers-have-it \n https://hearinghearings.nyc/hearings/committee-on-consumer-and-worker-protection-requiring-the-licensing-of-last-mile-facilities/ \n https://teamster.org/2026/08/amazon-teamsters-and-allies-picket-city-hall-for-the-delivery-protection-act/ \n https://teamster.org/2025/09/amazon-teamsters-rally-after-attack-on-workers-in-queens/ \n https://teamster.org/2026/08/teamsters-allies-release-report-on-amazon-violations-of-new-york-warn-act/ \n https://teamster.org/wp-content/uploads/2024/01/10424UPSNATIONALMASTERFINAL.pdf \n https://comptroller.nyc.gov/reports/fast-shipping-slow-justice-traffic-worker-and-climate-hazards-in-last-mile-delivery/ \n https://www.staffingindustry.com/news/global-daily-news/nycs-delivery-protection-act-would-make-last-mile-delivery-workers-employees \n https://www.wsj.com/business/new-jersey-sues-amazon-alleging-delivery-network-illegally-suppresses-wages-f6d6faa7 \n https://www.aboutamazon.com/news/policy-news-views/amazon-testimony-delivery-protection-act-new-york-city \n https://www.forbes.com/sites/pamdanziger/2026/08/15/delivery-protection-act-pits-nyc-mayor-mamdani-and-the-teamsters-against-amazon/ \n https://nysfocus.com/2026/07/23/amazon-new-york-last-mile-delivery-bill\n \nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-10-07T04:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/20b15900-880d-4a5f-9b50-b4dc003d00af/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "2736",
+          "link": "https://omny.fm/shows/it-could-happen-here/how-the-delivery-protection-act-takes-on-amazon"
+        },
+        {
           "id": "b34216fbc24573d7",
           "title": "How To Print Your Own Money: The Case for Local Currencies",
           "description": "Guest host Zaron Burnett investigates the curious question: Can we print our own money? The short answer is: yes, yes we can. To consider the more nuanced aspects of that question, Burnett spoke with Peter LaRochelle from the Schumacher Center for a New Economics. LaRochelle administers a local currency called BerkShares, which is available in the tourist-friendly Berkshire region of western Massachusetts. The alternative currency was created 20 years ago and serves as a successful model for how to create your own local currency. LaRochelle spoke to the various challenges and benefits as well as the financial freedom a community enjoys once you start printing your own money.\n \nSources/Links: \n  \nBerkShares Program https://berkshares.org/\n Bob Dunning's Newsletter:  https://www.thewaryone.com/\n https://centerforneweconomics.org/people/peter-larochelle/\n https://centerforneweconomics.org\n https://centerforneweconomics.org/publications/local-currencies-in-the-21st-century-understanding-money-building-local-economies-renewing-community/\n\n https://www.sciencedirect.com/topics/economics-econometrics-and-finance/alternativecurrency\n https://www.collaborativefinance.org/mutual-credit/local-currency/\n https://sustainableandjust.org/initiatives/our-economy/alternative-economies/alternative-currencies/\n https://www.theselc.org/california-community-currencies-act\n https://reasonstobecheerful.world/towns-invent-community-currencies/\n https://www.paulglover.org/hours.html\n https://www.paulglover.org/hourcurrency.html\n https://www.paulglover.org/atwood.html\n https://localwiki.org/davis/Davis_Dollars\n https://www.opb.org/artsandlife/series/history/myrtlewood-money-north-bend-oregon-great-depression/\n https://www.davisenterprise.com/users/profile/bob%20dunning/\n \nSee omnystudio.com/listener for privacy information.",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/fd569ea4-35aa-4440-951e-b4d301863f0c/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "1622",
           "link": "https://omny.fm/shows/it-could-happen-here/after-ceuta"
-        },
-        {
-          "id": "2b7080746db643c1",
-          "title": "The Coming Flood",
-          "description": "In Part Two of our series on The Wall and the Wilderness, James talks about the cultural and ecological damage done by the border wall and continues his interview with Dr. Christina Aiello about the Peninsular Bighorn ram that was killed by razor wire in the Jacumba mountains.\n Sources:\n https://www.usaspending.gov/search?hash=29de9d51905bd175a701b04c24176b46  \nhttps://www-jstor-org.sdmesa.idm.oclc.org/stable/3636811?seq=5 \nhttps://www.fec.gov/data/receipts/individual-contributions/?contributor_employer=Atkore \nhttps://tucson.com/news/local/border/article_a11265b0-17c3-5bed-b50a-72e5d17e1369.html \nhttps://www.blm.gov/visit/jacumba-wilderness \nhttps://www.usaspending.gov/search?hash=29de9d51905bd175a701b04c24176b46 \nhttps://www.federalregister.gov/documents/2025/04/08/2025-05992/determination-pursuant-to-section-102-of-the-illegal-immigration-reform-and-immigrant-responsibility \nhttps://www.enr.com/articles/54215-us-settles-border-wall-suit-against-contractor-fisher-sand-gravel \nhttps://www.atkore.com/about-us \nhttps://desertreport.org/a-border-wall-in-the-jacumba-wilderness-area/ \nhttps://gizmodo.com/trumps-border-wall-torn-apart-by-arizona-monsoon-rains-1847535174 \nhttps://www.usaspending.gov/award/CONT_AWD_70B01C25F00001112_7014_70B01C23D00000010_7014 \nhttps://www.sec.gov/Archives/edgar/data/1666138/000166613826000010/atkr-20260429.htm\n  \nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-09-28T12:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f2b95a3b-24fb-446d-bf98-b49f00dc3cc3/14566a8b-91ee-4b5a-9f3f-b4d20171be34/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "1703",
-          "link": "https://omny.fm/shows/natural-causes/the-wall-and-the-wilderness-part-2"
         }
       ]
     },
