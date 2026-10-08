@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T17:24:42.816Z",
+  "updatedAt": "2026-10-08T17:23:11.166Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "056f93875172f573",
+          "title": "Attacking Palestinian Health",
+          "description": "In this episode Dana El Kurd talks with Yara Asi, Palestinian scholar, author, and public health researcher studying how conflict, structural violence, and political systems shape health and human security. Yara describes the attacks on Palestinian health in Gaza and the West Bank, and the Israeli policies and objectives driving these attacks.\n  \n Sources:\n  \nhttps://arabcenterdc.org/resource/sexual-violence-as-a-tool-of-domination-and-displacement-in-palestine/\n https://arabcenterdc.org/resource/israeli-settler-violence-a-strategy-to-displace-palestinians-from-their-land/\n https://arabcenterdc.org/resource/israels-restrictions-on-medical-evacuations-from-gaza-and-the-west-bank/\n https://arabcenterdc.org/resource/another-step-in-the-weaponization-of-aid-israel-bans-humanitarian-agencies-in-gaza/\n https://www.hudassalon.movie/\n \nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-10-08T04:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/f5bae7d5-905f-4a2c-866f-b4dd00234339/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "2660",
+          "link": "https://omny.fm/shows/it-could-happen-here/attacking-palestinian-health"
+        },
+        {
           "id": "ca3d4da7c14dabc8",
           "title": "How the ‘Delivery Protection Act’ Takes on Amazon ",
           "description": "Garrison talks with Matt and Olivia from the NYC-DSA Labor Working Group about how Amazon uses subcontractors to exploit “last mile” delivery drivers and how a new bill could hold Amazon accountable and strengthen workers' ability to organize. \n \nSources:\n  \nhttps://act.socialists.nyc/dpa-letter\n https://actionnetwork.org/events/rally-to-pass-the-delivery-protection-act-3 \n https://www.instagram.com/nycdsa/ \n https://www.instagram.com/nycdsalabor/ \n https://www.nyc.gov/site/dca/workers/workersrights/Delivery-Workers.page \n https://www.nyc.gov/mayors-office/news/2026/08/mayor-mamdani-backs--delivery-protection-act--to-rein-in-amazon- \n https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-wins-record--131-5-million-from-doordash-for-deliv \n https://www.bloomberg.com/news/features/2026-06-02/amazon-trump-settlement-win-showed-just-how-tough-delivery-drivers-have-it \n https://hearinghearings.nyc/hearings/committee-on-consumer-and-worker-protection-requiring-the-licensing-of-last-mile-facilities/ \n https://teamster.org/2026/08/amazon-teamsters-and-allies-picket-city-hall-for-the-delivery-protection-act/ \n https://teamster.org/2025/09/amazon-teamsters-rally-after-attack-on-workers-in-queens/ \n https://teamster.org/2026/08/teamsters-allies-release-report-on-amazon-violations-of-new-york-warn-act/ \n https://teamster.org/wp-content/uploads/2024/01/10424UPSNATIONALMASTERFINAL.pdf \n https://comptroller.nyc.gov/reports/fast-shipping-slow-justice-traffic-worker-and-climate-hazards-in-last-mile-delivery/ \n https://www.staffingindustry.com/news/global-daily-news/nycs-delivery-protection-act-would-make-last-mile-delivery-workers-employees \n https://www.wsj.com/business/new-jersey-sues-amazon-alleging-delivery-network-illegally-suppresses-wages-f6d6faa7 \n https://www.aboutamazon.com/news/policy-news-views/amazon-testimony-delivery-protection-act-new-york-city \n https://www.forbes.com/sites/pamdanziger/2026/08/15/delivery-protection-act-pits-nyc-mayor-mamdani-and-the-teamsters-against-amazon/ \n https://nysfocus.com/2026/07/23/amazon-new-york-last-mile-delivery-bill\n \nSee omnystudio.com/listener for privacy information.",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/a0b73792-24b1-416a-bb07-b4d40172c06a/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "1968",
           "link": "https://omny.fm/shows/it-could-happen-here/were-macklemore-s-first-amendment-rights-violated"
-        },
-        {
-          "id": "4f4f3867c2344f23",
-          "title": "After Ceuta",
-          "description": "In this episode Dana El Kurd talks with Harsha Walia about the anti immigrant backlash that has emerged in the aftermath of the migrant crossing incident in the Spanish enclave of Ceuta. Harsha breaks down what happened, how parts of the right and left have responded, and why we need to center migrant rights in our struggle against fascism.\n  \n Sources:\n Spain: Liberals Cede Ground to Far Right on Ceuta Border Crossings\n Why is Spain in Africa? – Canadian Dimension\n Morocco’s US-Backed Occupation of Western Sahara It Could Happen Here | iHeart\nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-09-29T04:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/fd569ea4-35aa-4440-951e-b4d301863f0c/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "1622",
-          "link": "https://omny.fm/shows/it-could-happen-here/after-ceuta"
         }
       ]
     },
@@ -510,6 +510,15 @@
       "rss": "https://feeds.simplecast.com/Fa0PP4fl",
       "episodes": [
         {
+          "id": "b1b00a3d550994e6",
+          "title": "Bonus #201 - Live Call Show Vol. 45 [PATREON PREVIEW]",
+          "description": "Patreon preview. Unlock full episode at https://www.patreon.com/stavvysworld\nStav is back talking directly to the fans!! Stavvy and Eldy catch up on Eldis becoming a dad, Stav's travels promoting his special, and help beautiful callers on Discord including a woman who caught her husband's cousin committing adultery in her bed while dogsitting, a woman whose partner's relative attends the same poly parties as them, and a man whose friends/coworkers are salty that he hooked up with a girl they don't like.\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n🎟️ See Stavvy live!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+          "publishedAt": "2026-10-08T10:00:00.000Z",
+          "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/f9add367-d90f-433b-9559-1a45e3767a1d/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=f9add367-d90f-433b-9559-1a45e3767a1d&feed=Fa0PP4fl",
+          "duration": "00:22:19",
+          "link": "https://siriusxm.com"
+        },
+        {
           "id": "04110226c916e125",
           "title": "#201 - John Wilson",
           "description": "John Wilson joins the pod to discuss his new movie The History of Concrete, hatmogging Stav, his Long Island emo phase, his early canon of Hi8 Johnsterpieces, discovering the self-healing properties of ancient Roman concrete, working for a PI, his warning to James Cameron, and much more. John and Stav help callers including a woman whose deadbeat mom is dating and living with her next door neighbor after the caller had to kick her out, and a man wondering if he should try to fulfill his ultimate nerd fantasy by making a move on a hot voice actress at an anime convention.\nWatch John Wilson’s new movie The History of Concrete in theaters now!\nFollow John Wilson on social media:\nhttps://www.johnsmovies.com/\nhttps://www.instagram.com/peepingjohn/\nThanks to our sponsors!!\nVisible - https://www.visible.com/ SWITCH NOW!\nTwisted Tea - https://www.twistedtea.com/locations Keep It Twisted!!\nRidge - Get 10% Off Ridge with code STAVVY at https://www.Ridge.com/STAVVY\nChubbies - Your new wardrobe awaits! Get $20 off Chubbies with the code stavvy at https://www.chubbiesshorts.com/stavvy\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n🎟️ See Stavvy live!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
@@ -588,15 +597,6 @@
           "publishedAt": "2026-09-07T10:00:00.000Z",
           "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/7deee4c4-c2f5-436b-a736-8013e36775dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=7deee4c4-c2f5-436b-a736-8013e36775dd&feed=Fa0PP4fl",
           "duration": "01:48:28",
-          "link": "https://siriusxm.com"
-        },
-        {
-          "id": "aa195d65c76496b5",
-          "title": "Bonus #196 - Alex Dragicevich and Dan Perlman [PATREON PREVIEW]",
-          "description": "Patreon preview. Unlock full episode at https://www.patreon.com/stavvysworld\nAlex Dragicevich and Dan Perlman join the pod to discuss the blooming operations at the new Stavvy Baby Enterprises HQ, Alex clawing his way out of McDade's Maniacs and onto a regular Patreon episode, teaching students who use AI in the classroom, the rare instance where you don't get preferential treatment as a student athlete, getting dragged by legendary coach Bobby Knight on live broadcast, and much more. Alex, Dan and Stav help callers including a massage therapist who's afraid she fumbled the bag with a lucrative client by not disclosing a travel fee, and a woman who's wondering if she should hook up with a hot guy from a dating app who revealed that he's in a relationship.\nSee Alex Dragicevich live and follow him on social media:\nhttps://linktr.ee/alexdrag\nSee Dan Perlman live and follow him on social media:\nhttps://punchup.live/dan-perlman/tour\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Stav's new special Uncle Stav on Netflix (Sept. 8): https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n🎟️ See Stavvy live!! 🛥️💕!!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-          "publishedAt": "2026-09-03T10:00:00.000Z",
-          "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/ecc89a16-d478-46d1-9754-fc8ea1c28a56/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=ecc89a16-d478-46d1-9754-fc8ea1c28a56&feed=Fa0PP4fl",
-          "duration": "00:07:33",
           "link": "https://siriusxm.com"
         }
       ]
