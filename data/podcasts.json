@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T17:23:11.166Z",
+  "updatedAt": "2026-10-09T16:58:28.760Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "e679e7aaf4abf06c",
+          "title": "Executive Disorder: French Student Protests, Flavio Bolsonaro, ‘Third Country’ Deportations",
+          "description": "The gang discuss a tree-sit on the border, massive student protests in France, a Supreme Court ruling on rendition, the Brazilian election, a Russian researcher who was accidentally exposed to the pneumonic plague, and the death of former House Speaker and pedophile Dennis Hastert.\n Sources:\n  \nhttps://austinkocher.substack.com/p/julian-curo-churata-is-the-37th-person \n https://www.biologicaldiversity.org/programs/government-affairs/pdfs/ORDER%20GRANTING%2034%20Motion%20for%20Preliminary%20Injunction%20Signed%20by%20Judge%20Kathleen%20Cardone.pdf\n https://acampada26s.net/\n https://www.wfla.com/news/florida/crocodile-dies-of-lead-poisoning-first-time-in-florida-fwc/\n https://x.com/UK_MTO/status/2107444098806546566?s=20 \n https://x.com/vvanwilgenburg/status/2107171768121311518?s=20 \n https://apnews.com/article/warner-bros-skydance-ellison-studio-hollywood-5f4326c083ca2fc084ff399c1b8aa035?utm_source=copy&utm_medium=share\n https://www.supremecourt.gov/orders/courtorders/092926zr2_1a7d.pdf \n https://www.thecityreporter.nyc/2026/10/05/third-country-deportations-ice-dhs-26-federal-plaza-west-africa/ \n https://www.thirdcountrydeportationwatch.org/eswatini \n https://www.camp-oshad.org/\n https://crimethinc.com/2026/10/06/french-youth-fight-against-a-bleak-future \n https://www.aljazeera.com/news/2026/10/2/protests-shutter-hundreds-of-french-schools-as-violence-flares?utm_source=bluesky&utm_medium=social&utm_campaign=socialPulse \n https://www.aljazeera.com/news/2026/9/30/french-public-workers-strike-over-pay-as-student-protests-turn-violent \n https://www.lemonde.fr/idees/article/2026/10/06/vincent-tiberj-politiste-la-reaction-du-gouvernement-a-la-mobilisation-lyceenne-en-dit-beaucoup-sur-la-facon-dont-une-partie-des-medias-et-des-politiques-considerent-la-jeunesse_6788833_3232.html\n https://www.usnews.com/news/politics/articles/2026-10-05/former-us-house-speaker-dennis-hastert-dies-cbs-news-reports\n https://www.yahoo.com/news/us/articles/fox-news-runs-memoriam-serial-233040454.html\n https://apnews.com/article/dennis-hastert-dead-obituary-4a04ca4b4c0741a38f4b4a7e0f2bc78c\n https://www.yahoo.com/news/us/articles/fox-news-runs-memoriam-serial-233040454.html\n https://www.usnews.com/news/politics/articles/2026-10-05/former-us-house-speaker-dennis-hastert-dies-cbs-news-reports\n https://www.reuters.com/world/americas/brazil-ex-president-bolsonaro-wins-big-without-his-name-ballot-2026-10-06/\n https://archive.is/6j85h\n https://archive.is/DqaJi\n https://www.cnn.com/2026/10/04/world/video/worker-at-russian-plague-lab-dies-of-unknown-infection\n \nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-10-09T04:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/7ee24533-5e87-40f6-802d-b4de0031ac6b/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "4272",
+          "link": "https://omny.fm/shows/it-could-happen-here/executive-disorder-french-student-protests-flavio-bolsonaro-third-country-deportations"
+        },
+        {
           "id": "056f93875172f573",
           "title": "Attacking Palestinian Health",
           "description": "In this episode Dana El Kurd talks with Yara Asi, Palestinian scholar, author, and public health researcher studying how conflict, structural violence, and political systems shape health and human security. Yara describes the attacks on Palestinian health in Gaza and the West Bank, and the Israeli policies and objectives driving these attacks.\n  \n Sources:\n  \nhttps://arabcenterdc.org/resource/sexual-violence-as-a-tool-of-domination-and-displacement-in-palestine/\n https://arabcenterdc.org/resource/israeli-settler-violence-a-strategy-to-displace-palestinians-from-their-land/\n https://arabcenterdc.org/resource/israels-restrictions-on-medical-evacuations-from-gaza-and-the-west-bank/\n https://arabcenterdc.org/resource/another-step-in-the-weaponization-of-aid-israel-bans-humanitarian-agencies-in-gaza/\n https://www.hudassalon.movie/\n \nSee omnystudio.com/listener for privacy information.",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/fde030f9-e8a9-4cbd-ac1e-b4d60007ef61/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "1663",
           "link": "https://omny.fm/shows/it-could-happen-here/what-happened-in-the-labor-movement-last-month"
-        },
-        {
-          "id": "6585b3cde90368f3",
-          "title": "Were Macklemore’s First Amendment Rights Violated?",
-          "description": "Kevin Foster speaks with Mo Meltzer-Cohen, a law professor at CUNY School of Law, about Macklemore being booted from the Ed Sheeran tour and the First Amendment implications. \n  \n Sources:\n  \nhttps://www.instagram.com/reels/Dc_bH4_N1FN/\n https://www.rollingstone.com/music/music-news/macklemore-dropped-ed-sheeran-tour-robert-kraft-statement-1235626352/\n https://www.middleeasteye.net/news/ed-sheerans-shows-stadium-owned-pro-israel-robert-kraft-cancelled\n https://www.instagram.com/p/DdRdsy0m2HK/?img_index=4\n https://www.rollingstone.com/music/music-news/macklemore-dropped-ed-sheeran-tour-pro-palestine-statements-1235625967/\n https://www.rollingstone.com/music/music-news/macklemore-statement-dropped-ed-sheeran-tour-1235626135/\n https://www.youtube.com/shorts/ngmblAp7y_I\n https://www.lucasoilstadium.com/tours-stadium-info/background-history/\n https://blankfamilyofbusinesses.com/company/amb-sports-entertainment/\n https://raymondjamesstadium.com/tampasportsauthority\n https://www.tampasportsauthority.com/tsa-about\n https://www.setlist.fm/setlist/ye/2026/raymond-james-stadium-tampa-fl-33745801.html\n https://www.texastribune.org/2026/09/24/ut-texas-austin-palestine-protest-ruling/\n \nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-09-30T04:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/a0b73792-24b1-416a-bb07-b4d40172c06a/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "1968",
-          "link": "https://omny.fm/shows/it-could-happen-here/were-macklemore-s-first-amendment-rights-violated"
         }
       ]
     },
@@ -410,6 +410,15 @@
       "rss": "https://feeds.megaphone.fm/SLT6250292033",
       "episodes": [
         {
+          "id": "98380a6f4ecf19e3",
+          "title": "After Action Report #50",
+          "description": "Imogen was a seasoned Burning Man pro. But she’d never done a threeway with whippets there before…\n\nHear all about her dusty experience.\n\nWhat have YOU done lately? Hmmmm?Write up your experience (good or bad) and send it to Q@Savage.Love.\n\n\n\nThis episode is brought to you by Dipsea: an app full of hundreds of short, sexy audio stories designed by women for women. Get an extended 30 day free trial plus 25% off an annual subscription when you go to dipseastories.com/savage.",
+          "publishedAt": "2026-10-09T11:00:00.000Z",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT5868029890.mp3",
+          "duration": "970",
+          "link": ""
+        },
+        {
           "id": "669f2f2c2f8a0e9a",
           "title": "Savage Love Episode 1039",
           "description": "A gay man in his 60s is perplexed about foot fetishes, and what is so damn sexy about his feet. \n\nA man is frustrated by the concept of \"false positives\" when he tests for herpes. What on earth is going on here? Dan brings on the delightful and calming Dr. Ina Park to explain the whole testing situation. \n\nOn the Magnum, it's a bisexuality brawl with sex therapist Claire Perelman! Dan and Claire talk about the bisexual's plight in dating, and how to overcome the stigma. \n\nAnd a gay man and his boyfriend are moving in together. The boyfriend owns his apartment and asks the caller to pitch in toward a vacation fund in lieu of paying rent. Is this equitable? \n\n\n\n\n\n\n\n\n\nYour question:\n\nCall or text to: 206-302-2064\n\nRecord and send to: Q@Savage.Love\n\n\n\nThis episode is brought to you by Squarespace. They make it easy to build a website or blog. Give it a whirl at ⁠Squarespace.com/Savage⁠ and if you want to buy it, use the code Savage for a 10% off your first purchase.\n\n This episode is brought to you by Helix Sleep. Right now, Helix is offering 27% off site wide exclusively for Lovecast listeners. Go to ⁠HelixSleep.com/Savage⁠. With Helix, better sleep starts now. \n\nThis episode is brought to you by Quince, high quality essential clothing, at radically low prices. Refresh your everyday with luxury you’ll actually use. Head to ⁠Quince.com/SAVAGE⁠ for free shipping on your order and 365-day returns.",
@@ -488,15 +497,6 @@
           "publishedAt": "2026-09-08T11:00:00.000Z",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT2850861900.mp3",
           "duration": "3423",
-          "link": ""
-        },
-        {
-          "id": "68c747dfb0585759",
-          "title": "After Action Report #45",
-          "description": "Cat started a sex toy company, so she had to come out as kinky to friends and family. What she didn’t expect was the stampede of her mother’s boomer friends asking for product…\n\nDo you have a story of something you tried that was like, so embarrassing??!!Let us hear it: Q@Savage.Love\n\n\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit ⁠VB.Health⁠ when you use the code Savage.",
-          "publishedAt": "2026-09-04T11:00:00.000Z",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT2791158252.mp3",
-          "duration": "984",
           "link": ""
         }
       ]
