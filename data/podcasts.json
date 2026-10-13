@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T19:47:17.411Z",
+  "updatedAt": "2026-10-13T17:34:23.272Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -9,6 +9,15 @@
       "link": "https://www.patreon.com/chapotraphouse",
       "rss": "https://feeds.soundcloud.com/users/soundcloud:users:211911700/sounds.rss",
       "episodes": [
+        {
+          "id": "a632e46a061f8f4e",
+          "title": "1079 - The Smiley Face Killers feat. Katherine Krueger (10/12/26)",
+          "description": "Katherine is back to talk about animals with Will and Felix again, including the bizarre story of a Chicago billionaire paying for a rat infestation. We then return to the ongoing fractures in Mamdani’s base, as a recent ICE shooting makes his decision to keep Jessica Tisch even harder to defend. Lastly, we discuss the recent raid on Ilhan Omar’s house, plus the absolute dumbest dirty trick in right-wing history.\n\nPitch Katherine pieces for The Intercept at katherine.krueger@theintercept.com \n\nJoin us on Fri, Oct 16 at the ErF Gallery for a live screening of Chunks followed by a live talkback featuring Will, Hesse & Podcast About List, tickets here: https://www.erf.nyc/events/chapo-trap-house-screening",
+          "publishedAt": "2026-10-13T04:09:02.000Z",
+          "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2418045549-chapo-trap-house-1079-the-smiley-face-killers.mp3",
+          "duration": "01:37:30",
+          "link": "https://soundcloud.com/chapo-trap-house/1079-the-smiley-face-killers"
+        },
         {
           "id": "5a77470e996ce91b",
           "title": "1077 - doormat mother! feat. Alex Nichols (10/5/26)",
@@ -89,15 +98,6 @@
           "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2384034213-chapo-trap-house-the-players-club-season-2.mp3",
           "duration": "04:05:28",
           "link": "https://soundcloud.com/chapo-trap-house/the-players-club-season-2"
-        },
-        {
-          "id": "670752dfde6dd240",
-          "title": "1063 - Blue Collar Symphony feat. Bryan Quinby & Chris James (8/17/26)",
-          "description": "The titular Guys are back! We continue our coverage of the deteriorating conditions on the USS Abraham Lincoln before checking in on two women in politics: Nancy Mace and Natalie Harp. We then do a deep dive into the world of mafia-turncoat-influencers, former made men in the Five Families who now run YouTube channels to talk about food, gay people in the mafia, and how you should spend your money.\n\nIf you’re in Canada, check out the CHUNKS live screening on Sept 1. with Amber Frost, Nate Fisher, and the Important Cinema Club: https://paradiseonbloor.com/movies/chunks-toronto-premiere\nAnd in Charlottetown, PEI on Sept 4th and 5th: https://tivolicinema.com/production/chunks/ \n\nChapo & Friends Live at New York’s Society for Ethical Culture on Friday November 6th is SOLD OUT! TOO BAD!\n\nCHUNKS now available for streaming purchase at www.patreon.com/chunkstv",
-          "publishedAt": "2026-08-18T04:38:52.000Z",
-          "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2383596651-chapo-trap-house-1063-blue-collar-symphony-feat.mp3",
-          "duration": "01:41:37",
-          "link": "https://soundcloud.com/chapo-trap-house/1063-blue-collar-symphony-feat"
         }
       ]
     },
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "464dc9560cd06092",
+          "title": "The French Student Uprising",
+          "description": "Mia talks with Faiza, a political analyst and feminist theorist in France about the French high school student protests and breaking out of our complacency.\nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-10-13T04:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/17274f24-5c9f-4135-a31e-b4e1018b0a0a/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "2996",
+          "link": "https://omny.fm/shows/it-could-happen-here/the-french-student-uprising"
+        },
+        {
           "id": "3838f98492a02ce1",
           "title": "Nomadcast takeover for Indigenous Peoples' Day ",
           "description": "For Indigenous People's Day James intorduces an episode of the Nomadcast interviewing Mato Wayuhi. NomadCast is hosted by Caleb “Moose” (White Mountain Apache Descendant) and Cheyanne (White Mountain Apache Enrolled) Endfield from the White Mountain Apache Reservation where the couple went to school, met, had children and now work and create. NomadCast is a show interested in exploring the best of Indian Country. Caleb Suggested listeners who enjoyed this episode might also enjoy: \nLilly Gladstone\nOne of Indian countries brightest stars. Proof we can sit comfortably at any table. \nDoctor’s Orders Solo episode\nWhy not believe in myself a bit? \nTiio Horn Episode\nIn person event at Indigenous Pop Culture Expo in Oklahoma. Very fun episode where I made the deer lady laugh. \nAlice Qannik Glenn Third Wheel Blues Episode\nFun conversation that flows between topics.\nSee omnystudio.com/listener for privacy information.",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f2b95a3b-24fb-446d-bf98-b49f00dc3cc3/ff4cc416-4e0d-4fbe-8298-b4d70163ffe4/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "1348",
           "link": "https://omny.fm/shows/natural-causes/cracking-the-case-on-egg-corruption"
-        },
-        {
-          "id": "f55f6bb77bba007f",
-          "title": "The Decline and Fall of the International Workers Movement",
-          "description": "From the battle for democracy in the workplace to the division of the class itself, Mia examines how workers lost the world\n \nSources:\n https://www.endnotes.org.uk/issues/issue-4/endnotes-a-history-of-separation-preface\n https://libcom.org/article/utopia-rules-technology-stupidity-and-secret-joys-bureaucracy-david-graeber\n https://theanarchistlibrary.org/library/maurice-brinton-the-bolsheviks-and-workers-control\n https://www.marxists.org/archive/lenin/works/1918/mar/x03.htm\n https://theanarchistlibrary.org/library/david-graeber-bullshit-jobs\n https://www.marxists.org/portugues/hughes/1946/mes/90.htm\nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-10-05T04:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/5fbf7f1d-c8d7-468d-a435-b4d90158f517/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "1821",
-          "link": "https://omny.fm/shows/it-could-happen-here/the-decline-and-fall-of-the-international-workers-movement"
         }
       ]
     },
@@ -410,6 +410,15 @@
       "rss": "https://feeds.megaphone.fm/SLT6250292033",
       "episodes": [
         {
+          "id": "b7642226cbf9429a",
+          "title": "Savage Love Episode 1040",
+          "description": "A divorced father of adult children understood himself to be bisexual later in life. He digs men in an aromantic, casual sex kind of way. Is he obligated to tell his family? Does his connections with men fall under private sex life or public identity? \n\n\n\nA woman went to a sex party and met a hot female bouncer who throws out misbehaving guests. The caller wants to ask her to be her dom. Should she? How? \n\n\n\nOn the Magnum, Dan and sex researcher Niki Davis-Fainbloom do a deep dive on fetishes. What's the difference between kinks and fetishes? What causes people to get into them- is it cultural or biological? Is the destigmatization of kink making it less hot? Listen in. \n\n\n\nAnd, a straight man matched with the woman who works at his local dry cleaners. He thinks she might be trouble- texting him from the bar at 1:30, maybe driving drunk. Should he avoid her or get a little hanky-panky from a hot, messy lady?\n\n\n\n\n\nCall us, text us, don't be afraid. \n\n206-302-2064\n\nOr record your question and send it to Q@Savage.Love\n\nOr just click ⁠HERE⁠.\n\n\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit ⁠VB.Health⁠ when you use the code Savage.\n\nForia is an all natural health & sexual wellness company with product lines using the power of plant actives & CBD to effectively enhance intimacy, sexual pleasure, daily wellbeing, and relief from discomfort. Right now get 20% off your 1st order by going to ⁠ForiaWellness.com/SAVAGE⁠ or use code SAVAGE at checkout.\n\nBeducated brings pleasure-based sex education right to your bedroom. Kick off your best sex life with Beducated’s awesome, five-minute quiz at ⁠https://beducate.me/savage ⁠",
+          "publishedAt": "2026-10-13T11:00:00.000Z",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT6855640390.mp3",
+          "duration": "3334",
+          "link": ""
+        },
+        {
           "id": "98380a6f4ecf19e3",
           "title": "After Action Report #50",
           "description": "Imogen was a seasoned Burning Man pro. But she’d never done a threeway with whippets there before…\n\nHear all about her dusty experience.\n\nWhat have YOU done lately? Hmmmm?Write up your experience (good or bad) and send it to Q@Savage.Love.\n\n\n\nThis episode is brought to you by Dipsea: an app full of hundreds of short, sexy audio stories designed by women for women. Get an extended 30 day free trial plus 25% off an annual subscription when you go to dipseastories.com/savage.",
@@ -488,15 +497,6 @@
           "publishedAt": "2026-09-11T18:22:00.000Z",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT7067639766.mp3",
           "duration": "1156",
-          "link": ""
-        },
-        {
-          "id": "2839bf42f84e104b",
-          "title": "Savage Love Episode 1035",
-          "description": "A man has been together with his boyfriend for 10 years. The caller works long hard hours and values peace and quiet when he comes home. But his boyfriend works from home all day and pounces on his husband, wanting to chat and interact. Dan was in a similar situation, but don't tell Dan's husband how he dealt with it. \n\nA divorced woman with children has been dating a man. Both are in open relationships, and he wears a wedding ring. Her kids don't yet know about ethical non-monogamy and her family disapproves, making this year's Rosh Hashanah dinner extra spicy.\n\nOur guest is the intrepid comedian Zach Noe Towers who sailed away on the gay ship that got turned away by homophobic country after homophobic country. He and Dan go Deep Gay on the scent of man, and whether uncircumcised dicks slip in easier. A little is on the Micro, and the uncut version is on the Magnum. \n\nAnd, a 35 year-old gay man connected with a guy via dating app, who seemed pretty darn cool. But when he learned the man was in his 60s, he politely rejected him. The guy accused our caller of being ageist. Is he?\n\n\n\n\n\nThis episode is brought to you by Squarespace. They make it easy to build a website or blog. Give it a whirl at ⁠Squarespace.com/Savage⁠ and if you want to buy it, use the code Savage for a 10% off your first purchase.\n\nForia is an all natural health & sexual wellness company with product lines using the power of plant actives & CBD to effectively enhance intimacy, sexual pleasure, daily wellbeing, and relief from discomfort. Right now get 20% off your 1st order by going to ⁠ForiaWellness.com/SAVAGE⁠ or use code SAVAGE at checkout.\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit ⁠VB.Health⁠ when you use the code Savage.\n\n\n\nDan Savage is a sex-advice columnist, podcaster, author, and creator of the It Gets Better Project. From polyamory, to BDSM, gay rights to sexual health and with a dose of progressive politics, Dan Savage has been cultural force for sex positivity since the 1800s.",
-          "publishedAt": "2026-09-08T11:00:00.000Z",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT2850861900.mp3",
-          "duration": "3423",
           "link": ""
         }
       ]
