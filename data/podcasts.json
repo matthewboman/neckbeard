@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T17:34:23.272Z",
+  "updatedAt": "2026-10-14T15:05:46.385Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "57e23f38a60bc72a",
+          "title": "Breadfruit!",
+          "description": "Carlos talks about how breadfruit is being used as a tool of emergency preparedness and\nto fight hunger crises around the world.\n Sources:\n  \nhttps://es.mongabay.com/2023/08/arbol-del-pan-conservacion-crisis-climatica/\n https://www.wired.com/story/breadfruit-caribbean-pacific-climate-change-super-food/\n https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000062\n https://www.smithsonianmag.com/smart-news/is-breadfruit-the-climate-change-proof-foo\nd-of-the-future-180980665/\n https://thestoryexchange.org/shes-brought-a-climate-resilient-superfood-to-the-worlds-att\nention/\n https://ntbg.org/breadfruit/about-breadfruit/\n https://www.civilbeat.org/2026/09/supply-and-demand-concerns-breadfruit/\n https://www.civilbeat.org/2026/09/ulu-on-the-up-hawaii-breadfruit-production-keeps-boo\nming/\n https://www.civilbeat.org/2026/09/supply-and-demand-concerns-breadfruit/\n https://www.9millones.com/story/como-los-puertorriquenos-disenan-su-recuperacion-just\na-colectivamente\n https://www.telegraph.co.uk/news/2025/06/18/climate-change-impact-on-food-everyone-\ngiving-up-breakfast/\n https://news.northwestern.edu/stories/2022/08/climate-resilient-breadfruit-might-be-the-f\nood-of-the-future\n https://www.plateapr.com/que-hacer/origen-festival-de-la-pana-humacao\n https://www.eater.com/23664880/what-is-breadfruit-hawaii-how-to-cook\n https://edition.cnn.com/2025/11/12/climate/3-degrees-warming-reports-iea-united-nations\n  https://bittmanproject.com/breadfruit-is-delicious-and-versatile-but-it-shouldnt-have-to-sa\nve-the-world/\n https://www3.ctahr.hawaii.edu/oc/freepubs/pdf/FN-68.pdf\n https://estadisticas.pr/Agricultura\nhttps://ishs.org/ishs-article/1128_8/\n Breadfruit: Three Global Journeys of a Bountiful Tree by Russell Fielding\n Recetario de Pana Edición 2014 by Asociación Recreativa y Educativa Comunal del Bo.\nMariana, Inc (ARECMA), edited by Luz A. Vega Rodríguez\n https://treesthatfeed.org/programs/planting-trees/\n https://treesthatfeed.org/programs/school-feeding-programs/\n https://treesthatfeed.org/wp-content/uploads/2026/04/AR_2026_.3.6MB.pdf\n \nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-10-14T04:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/b58fec54-a059-4883-b6af-b4e3000aa759/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "2284",
+          "link": "https://omny.fm/shows/it-could-happen-here/breadfruit"
+        },
+        {
           "id": "464dc9560cd06092",
           "title": "The French Student Uprising",
           "description": "Mia talks with Faiza, a political analyst and feminist theorist in France about the French high school student protests and breaking out of our complacency.\nSee omnystudio.com/listener for privacy information.",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/428644e9-2e19-4e89-bbdc-b4da01358537/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "2498",
           "link": "https://omny.fm/shows/it-could-happen-here/it-could-happen-here-how-to-print-your-own-money-the-case-for-local-currencies"
-        },
-        {
-          "id": "02ce12b985862a8c",
-          "title": "Cracking the Case on Egg Corruption",
-          "description": "James looks into the DOJ investigation into egg price fixing and what it can tell us about the way our food system treats animals and people.\n Sources:\n https://www.justice.gov/atr/media/1450281/dl?inline \nhttps://www.newspapers.com/article/the-boston-globe-unscrambling-the-egg-ma/204490574/  \nhttps://storage.courtlistener.com/recap/gov.uscourts.cacd.978076/gov.uscourts.cacd.978076.77.0.pdf \nhttps://climate.law.columbia.edu/content/trump-administration-cancels-contract-bird-flu-vaccine-development  \nhttps://www.usda.gov/about-usda/news/press-releases/2025/02/26/usda-invests-1-billion-combat-avian-flu-and-reduce-egg-prices \nhttps://fred.stlouisfed.org/series/APU0000708111 \nhttps://www.nass.usda.gov/Charts_and_Maps/Poultry/chickegg.php  \nhttps://www.dol.gov/newsroom/releases/whd/whd20231204  \nhttps://www.dol.gov/index.php/newsroom/releases/whd/whd20240502  \nhttps://www.courtlistener.com/docket/6248715/1/united-states-v-ramirez/  \nhttps://www.versova.com/trillium-farms/  \nhttps://www.justice.gov/usao-ndoh/pr/labor-trafficker-sentenced-encouraging-illegal-entry-guatemalan-nationals-including  \nhttps://u.osu.edu/osuhtblog/2018/03/02/failed-by-the-government-guatemalan-minors-placed-into-custody-of-traffickers/  \n\"\nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-10-05T12:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f2b95a3b-24fb-446d-bf98-b49f00dc3cc3/ff4cc416-4e0d-4fbe-8298-b4d70163ffe4/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "1348",
-          "link": "https://omny.fm/shows/natural-causes/cracking-the-case-on-egg-corruption"
         }
       ]
     },
