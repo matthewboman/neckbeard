@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T15:05:46.385Z",
+  "updatedAt": "2026-10-15T14:58:31.033Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -9,6 +9,15 @@
       "link": "https://www.patreon.com/chapotraphouse",
       "rss": "https://feeds.soundcloud.com/users/soundcloud:users:211911700/sounds.rss",
       "episodes": [
+        {
+          "id": "30966b9eb92d18f6",
+          "title": "Movie Mindset #48 - Barry Lyndon",
+          "description": "Greetings Minders, Will here, and to kick off this season, I wanted to do another one-movie episode with Felix like we did last year with CASINO, and I knew I wanted it to be another movie that has cast a long shadow over both my personal mind palace and the chapo extended universe. I wanted it to be another movie that I could easily count as both “my favorite movie of all time” as well as argue that it is “the best movie of all time” *and* I wanted it to be a movie Felix had never seen. And there is only one film that fits that bill, Stanley Kubrick’s masterpiece BARRY LYNDON.\n\nTravel back to the 18th century, take ten paces, cock your pistols, aim, fire and witness the rise and fall of an Irish asshole. Good or bad, handsome or ugly, rich or poor, we will all be equal soon.  \n\nAs with all our miniseries, this first episode of the season is free on all platforms. All subsequent eps will be available exclusively at patreon.com/chapotraphouse",
+          "publishedAt": "2026-10-14T18:11:55.000Z",
+          "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2418976371-chapo-trap-house-movie-mindset-48-barry-lyndon.mp3",
+          "duration": "02:40:20",
+          "link": "https://soundcloud.com/chapo-trap-house/movie-mindset-48-barry-lyndon"
+        },
         {
           "id": "a632e46a061f8f4e",
           "title": "1079 - The Smiley Face Killers feat. Katherine Krueger (10/12/26)",
@@ -89,15 +98,6 @@
           "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2388071013-chapo-trap-house-1065-fear-of-a-blue-planet.mp3",
           "duration": "01:40:55",
           "link": "https://soundcloud.com/chapo-trap-house/1065-fear-of-a-blue-planet"
-        },
-        {
-          "id": "22ef5d99aa35dd4e",
-          "title": "The Players Club Season 2: Demon's Souls (2009) - Boleteria-ing For Soup",
-          "description": "AS ALWAYS: The first episode of this season of Players Club is free and available on all podcast platforms. All subsequent episodes will be available exclusively for subscribers at patreon.com/chapotraphouse.\n\nThe year is 2009. Baquack Odoula is giving birth to Obunglercare and telling Americans that if they like their doctors, they can keep their ashes in urns above their fireplaces after they are rounded up and incinerated (Google “doctor’s plot”). Jay Cutler is filling Chicago Bears fans with hopes of a better tomorrow. Taylor Lautner is at the height of his powers. It may not be morning in America, but we all woke up at 2 PM, so same difference.\n\nAcross the world, a coder employed by From Software eager to prove his mettle is told by his employers that they just so happen to have a game that is so poorly made, behind schedule, and over budget that if he really wants to, the former Oracle employee can take over its development and try to make something playable. Now free from the clutches of the Ellisons and their blood sacrifices, the man and his team work day and night to turn a quagmire that was previously called something like The Terrific Reclaim of Dark! [1+3=0 Edirion] YOU ARE INFINITE into something playable. That 30 something boy that nobody liked grew up to be Hideteka Miyazaki. And the game? Our inaugural entry for Season 2 of Player’s Club, Demon’s Souls.\n\nFrequent collaborator and long-suffering podcast dungeon master Patches was kind enough to join me on this first step through From’s contemporary catalog. This game may be the least of From’s efforts from the catalog of games it kicked off, but it’s not for a lack of ability or vision. Even just making something functional out of such a mess would have been an achievement by Miyazaki and co, but they did more than that. Demon’s Souls may lack some of the more brilliant level design and deceptively deep combat of later entries, but it cannot be overstated how little they had to work with and just how deeply this entry deviated from the standard fare put out by Japanese publishers the size of Bandai Namco in 2009. While everyone else was making once-challenging and open-ended titles more linear and centering every level around scripted set pieces, Demon’s Souls broke the mold by harkening back to a time before endless handholding, and delivered a game that respected its players enough to allow them to tackle individual levels and bosses how and when they saw fit.\n\nFor this entry, I did my playthrough on a PS3 emulator, meaning I went without the quality of life adjustments in the 2020 Blue Point remake. That said, I found myself enjoying my experience more than my first go around on the PS5 version years prior. To say this is the least challenging or exciting of the remaining 6 (or 7, if you count Shadow of the Erdtree as a separate entry) games on our docket is not a knock on this game, but a compliment to the massive leaps in quality From achieved in each consecutive release. The fact that such a catalog grew out of a game that was almost abandoned before Miyazaki became the stepfather that stepped up. \n\nPraise aside, I don’t care for Stockpile Thomas. He always has to be such a downer. I didn’t ask for your life story! \n\nThe wonderful Patches can be found on Twitter (@Senator_Gun) and as the dungeon master of my personal all time favorite DnD episodes we’ve ever done. He does not necessarily share my opinion that Stockpile Thomas is responsible for his family’s awful deaths.",
-          "publishedAt": "2026-08-19T12:00:51.000Z",
-          "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2384034213-chapo-trap-house-the-players-club-season-2.mp3",
-          "duration": "04:05:28",
-          "link": "https://soundcloud.com/chapo-trap-house/the-players-club-season-2"
         }
       ]
     },
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "8eb3c0e75f4332b0",
+          "title": "Fear of a Nuclear January 6th",
+          "description": "Robert lays out his theory for how a \"nuclear January 6\" - the accidental or intentional limited deployment of a nuclear weapon for incredibly stupid reasons, is more likely than you might think.\nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-10-15T04:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/cdcebf86-06de-4730-90d8-b4e400394150/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "1806",
+          "link": "https://omny.fm/shows/it-could-happen-here/fear-of-a-nuclear-january-6th"
+        },
+        {
           "id": "57e23f38a60bc72a",
           "title": "Breadfruit!",
           "description": "Carlos talks about how breadfruit is being used as a tool of emergency preparedness and\nto fight hunger crises around the world.\n Sources:\n  \nhttps://es.mongabay.com/2023/08/arbol-del-pan-conservacion-crisis-climatica/\n https://www.wired.com/story/breadfruit-caribbean-pacific-climate-change-super-food/\n https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000062\n https://www.smithsonianmag.com/smart-news/is-breadfruit-the-climate-change-proof-foo\nd-of-the-future-180980665/\n https://thestoryexchange.org/shes-brought-a-climate-resilient-superfood-to-the-worlds-att\nention/\n https://ntbg.org/breadfruit/about-breadfruit/\n https://www.civilbeat.org/2026/09/supply-and-demand-concerns-breadfruit/\n https://www.civilbeat.org/2026/09/ulu-on-the-up-hawaii-breadfruit-production-keeps-boo\nming/\n https://www.civilbeat.org/2026/09/supply-and-demand-concerns-breadfruit/\n https://www.9millones.com/story/como-los-puertorriquenos-disenan-su-recuperacion-just\na-colectivamente\n https://www.telegraph.co.uk/news/2025/06/18/climate-change-impact-on-food-everyone-\ngiving-up-breakfast/\n https://news.northwestern.edu/stories/2022/08/climate-resilient-breadfruit-might-be-the-f\nood-of-the-future\n https://www.plateapr.com/que-hacer/origen-festival-de-la-pana-humacao\n https://www.eater.com/23664880/what-is-breadfruit-hawaii-how-to-cook\n https://edition.cnn.com/2025/11/12/climate/3-degrees-warming-reports-iea-united-nations\n  https://bittmanproject.com/breadfruit-is-delicious-and-versatile-but-it-shouldnt-have-to-sa\nve-the-world/\n https://www3.ctahr.hawaii.edu/oc/freepubs/pdf/FN-68.pdf\n https://estadisticas.pr/Agricultura\nhttps://ishs.org/ishs-article/1128_8/\n Breadfruit: Three Global Journeys of a Bountiful Tree by Russell Fielding\n Recetario de Pana Edición 2014 by Asociación Recreativa y Educativa Comunal del Bo.\nMariana, Inc (ARECMA), edited by Luz A. Vega Rodríguez\n https://treesthatfeed.org/programs/planting-trees/\n https://treesthatfeed.org/programs/school-feeding-programs/\n https://treesthatfeed.org/wp-content/uploads/2026/04/AR_2026_.3.6MB.pdf\n \nSee omnystudio.com/listener for privacy information.",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/20b15900-880d-4a5f-9b50-b4dc003d00af/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "2736",
           "link": "https://omny.fm/shows/it-could-happen-here/how-the-delivery-protection-act-takes-on-amazon"
-        },
-        {
-          "id": "b34216fbc24573d7",
-          "title": "How To Print Your Own Money: The Case for Local Currencies",
-          "description": "Guest host Zaron Burnett investigates the curious question: Can we print our own money? The short answer is: yes, yes we can. To consider the more nuanced aspects of that question, Burnett spoke with Peter LaRochelle from the Schumacher Center for a New Economics. LaRochelle administers a local currency called BerkShares, which is available in the tourist-friendly Berkshire region of western Massachusetts. The alternative currency was created 20 years ago and serves as a successful model for how to create your own local currency. LaRochelle spoke to the various challenges and benefits as well as the financial freedom a community enjoys once you start printing your own money.\n \nSources/Links: \n  \nBerkShares Program https://berkshares.org/\n Bob Dunning's Newsletter:  https://www.thewaryone.com/\n https://centerforneweconomics.org/people/peter-larochelle/\n https://centerforneweconomics.org\n https://centerforneweconomics.org/publications/local-currencies-in-the-21st-century-understanding-money-building-local-economies-renewing-community/\n\n https://www.sciencedirect.com/topics/economics-econometrics-and-finance/alternativecurrency\n https://www.collaborativefinance.org/mutual-credit/local-currency/\n https://sustainableandjust.org/initiatives/our-economy/alternative-economies/alternative-currencies/\n https://www.theselc.org/california-community-currencies-act\n https://reasonstobecheerful.world/towns-invent-community-currencies/\n https://www.paulglover.org/hours.html\n https://www.paulglover.org/hourcurrency.html\n https://www.paulglover.org/atwood.html\n https://localwiki.org/davis/Davis_Dollars\n https://www.opb.org/artsandlife/series/history/myrtlewood-money-north-bend-oregon-great-depression/\n https://www.davisenterprise.com/users/profile/bob%20dunning/\n \nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-10-06T04:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/428644e9-2e19-4e89-bbdc-b4da01358537/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "2498",
-          "link": "https://omny.fm/shows/it-could-happen-here/it-could-happen-here-how-to-print-your-own-money-the-case-for-local-currencies"
         }
       ]
     },
@@ -510,6 +510,15 @@
       "rss": "https://feeds.simplecast.com/Fa0PP4fl",
       "episodes": [
         {
+          "id": "7015d37e60a31b26",
+          "title": "Bonus #202 - McDade's Maniacs Vol. 15 w/ Andrew Manning [PATREON PREVIEW]",
+          "description": "Patreon preview. Unlock full episodes at https://www.patreon.com/stavvysworld\nThe Noble of Nutcases JP McDade returns with his latest maniac Andrew Manning to discuss Andrew medically induced puberty at 20, the moment you realize that you fumbled a hookup, the jolly moment Andrew first noticed his nuts stink, roast battles, and much more. Andrew, JP and Stav help callers including a man who's wondering if he should take his wife's offer of a sex tourism hall pass seriously, and a woman who's sick of her mom talking trash about her dead dad.\nFollow Andrew Manning on social media:\nhttps://www.instagram.com/andrewmanthing/\nhttps://www.youtube.com/@andrewmanningcomedy  \nhttps://x.com/andrewmanthing\nFollow JP McDade on social media:\nhttps://twitter.com/jp_mcdade\nhttps://www.instagram.com/mcdadebaby\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n🎟️ See Stavvy live!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+          "publishedAt": "2026-10-15T10:00:00.000Z",
+          "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/43fa3da9-7b4f-43d4-a04f-ba31a65b4d1f/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=43fa3da9-7b4f-43d4-a04f-ba31a65b4d1f&feed=Fa0PP4fl",
+          "duration": "00:13:16",
+          "link": "https://siriusxm.com"
+        },
+        {
           "id": "e2bb22f82bdb3f21",
           "title": "#202 - Grace Kuhlenschmidt",
           "description": "Grace Kuhlenschmidt returns to the pod to discuss being targeted as inspiration in her Soulcycle class, kids these days just not getting invisible ink, why dating men before coming out felt terrible, getting sober again, the going rate for a kush volcano, and much more. Grace and Stav help callers including a woman whose high school bully is now a waitress at her parents' favorite restaurant, and an extreme spendthrift who's weighing continuing to be cheap vs. loosening up and embracing his current relationship.\nFollow Grace Kuhlenschmidt on social media:\nhttps://www.instagram.com/gkuhlenschmidt/\nhttps://www.tiktok.com/@gkuhlenschmidt\nhttps://x.com/GKuhlenschmidt\nThanks to our sponsor!!\nVisible - https://www.visible.com/ SWITCH NOW!\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n \n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
@@ -588,15 +597,6 @@
           "publishedAt": "2026-09-14T10:00:00.000Z",
           "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/862ec683-e94e-414a-bf37-1d74d039ccd2/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=862ec683-e94e-414a-bf37-1d74d039ccd2&feed=Fa0PP4fl",
           "duration": "01:42:10",
-          "link": "https://siriusxm.com"
-        },
-        {
-          "id": "e7f4592e2f881cf6",
-          "title": "Bonus #197 - Enter the Cheeks Zone Vol. 4 w/ JP McDade [PATREON PREVIEW]",
-          "description": "Patreon preview. Unlock full episode at https://www.patreon.com/stavvysworld\nStavvy Baby Enterprises consigliere and metaphysical guru Mr. Cheeks plucks us from the shiny new studio to the transcendental realm known as the Cheeks Zone. Serving as guide to Stav, JP \"Jimmy the Mac Man\" McDade and Eldy, the Cheeksman guides an inward-looking conversation covering topics like protein-based movie theaters, Colin Firth, the Stavvy cinematic universe, and much more. Mr. Cheeks, JP and Stav help callers including a guy whose friend is trying to hook up with his sister despite owing him $4,000, and a guy fresh out of a breakup who wants to get his mojo back by throwing out a hail mary to an old friend who’s now a dominatrix.\nWatch Stav’s special Uncle Stav out now on Netflix: https://www.netflix.com/title/82055929\nCheck out Mr. Cheeks's beautiful creative direction at stavvy.biz and Stav's accounts\nFollow JP McDade on social media:\nhttps://twitter.com/jp_mcdade\nhttps://www.instagram.com/mcdadebaby\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Stav's new special Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n🎟️ See Stavvy live!! 🛥️💕!!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-          "publishedAt": "2026-09-10T10:00:00.000Z",
-          "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/c7106fb9-5b83-415a-8c49-b135d6191a1e/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=c7106fb9-5b83-415a-8c49-b135d6191a1e&feed=Fa0PP4fl",
-          "duration": "00:09:35",
           "link": "https://siriusxm.com"
         }
       ]
