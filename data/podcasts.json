@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T14:58:31.033Z",
+  "updatedAt": "2026-10-16T14:48:51.047Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "48b1ebdb7ccd0a81",
+          "title": "Executive Disorder: ICE Shooting in NYC, Russian Diesel and Ukraine, Protests Around the World",
+          "description": "We discuss ICE agents shooting Oscar Belgal in the Bronx and the ensuing protests, live-streamed military execution, the raid on Ilhan Omar’s home, Trump taking Russian diesel, the situation in Ukraine, and the current wave of protests in India, Spain, and France. \n Links:\n NYC Immigration Resources: \nImmigration Legal Support Hotline: 800-354-0365, or dial 311 and say \"Immigration Legal.\"\n“Free, confidential, funded by the City. Interpretation in 200+ languages. Immigration status does not matter,” - Mayor's Office of Immigrant Affairs.\nhttps://www.nyc.gov/site/immigrants/legal-resources/moia-immigration-legal-support-centers.page\n Intake form for help from the Rapid Response Legal Collaborative: http://nyc.gov/RRLC \nKnow Your Rights booklets, multiple languages: https://www.nyc.gov/site/immigrants/legal-resources/know-your-rights.page \n “What to do if ICE agents approach you / what to do if a friend or family member is detained / Sanctuary City laws in NYC.”\n Sources:\n  \nhttps://x.com/David_J_Bier/status/2108722293967073459?s=20 \n https://www.youtube.com/watch?v=MHE6Zfi-vUs \n https://x.com/hollypret/status/2108343537309990968?s=20 \n https://x.com/StatusCoup/status/2108344393958617221?s=20 \n https://www.dhs.gov/news/2026/10/09/dhs-debunks-new-york-sanctuary-politicians-lies-about-ice-shooting-illegal-alien\n\n https://www.amny.com/news/ice-shooting-detainee-bullet-neck-10122026/\n\n https://x.com/DarializaforNY/status/2108564402756595758 \n https://x.com/nycDSA/status/2108539679452942837?s=20\n\n https://www.nytimes.com/live/2026/10/09/nyregion/ice-shooting-bronx-nyc\n\n https://www.thecityreporter.nyc/2026/10/08/federal-officers-shoot-man-in-the-bronx-nypd-says/utm_content=buffer39205&utm_medium=social&utm_source=twitter&utm_campaign=buffer \n https://www.youtube.com/watch?v=WQA_BiDZH-0 \n https://www.nyc.gov/mayors-office/news/2026/10/mayor-mamdani-directs-first-comprehensive-review-of-nypd-use-of- \n https://x.com/IlhanMN/status/2109675562344087792\n\n https://x.com/PeteHegseth/status/2108344900165263476?s=20\n https://x.com/PalmerLuckey/status/2109454084961137040?s=20\n https://www.bbc.com/news/articles/crx23qlnj27qo \n https://www.sacbee.com/news/local/article317572876.html \n https://prospect.org/2026/10/13/militants-victory-uaw-shawn-fain/\n\n https://www.youtube.com/watch?v=96ogPwN9ykM\n\n https://nypost.com/2026/09/22/tech/seniors-struggling-worse-than-teens-with-screens-ai-and-algorithms/\n https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/\n\n https://brendonbeebe.substack.com/p/did-bot-traffic-drop-after-the-yandex\n https://www.msn.com/en-us/technology/tech-companies/russia-s-yandex-bot-traffic-plunges-after-ukraine-drone-strikes-cripple-russia-google-data-centers/ar-AA2e0IjN\n https://www.bbc.com/news/articles/c9y7l0pm8jkko\n https://archive.is/2RtqI#selection-1999.0-1999.257\n https://www.latimes.com/world-nation/story/2026-10-10/russian-attacks-kill-20-in-ukraine-after-trump-strikes-diesel-deal-with-putin\n https://oilprice.com/Latest-Energy-News/World-News/Russian-Strikes-Cut-Power-to-600000-Ukrainians-Days-After-US-Diesel-Deal.html\nhttps://www.yahoo.com/news/politics/articles/india-shuts-down-iconic-delhi-024043716.html\n https://www.cbc.ca/news/world/france-student-protests-spread-scroller-9.7379099\n https://www.yahoo.com/news/world/articles/belgium-9-minors-arrested-clashes-055545941.html\n https://www.yahoo.com/news/world/articles/spain-madrid-protesters-mourn-evicted-123225186.html\n https://www.yahoo.com/news/world/articles/india-cockroach-leaders-jailed-protest-140533064.html\n \nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-10-16T04:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/80a5d4bf-29b6-46d6-bc38-b4e50039b98c/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "4309",
+          "link": "https://omny.fm/shows/it-could-happen-here/executive-disorder-ice-shooting-in-nyc-russian-diesel-and-ukraine-protests-around-the-world"
+        },
+        {
           "id": "8eb3c0e75f4332b0",
           "title": "Fear of a Nuclear January 6th",
           "description": "Robert lays out his theory for how a \"nuclear January 6\" - the accidental or intentional limited deployment of a nuclear weapon for incredibly stupid reasons, is more likely than you might think.\nSee omnystudio.com/listener for privacy information.",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/f5bae7d5-905f-4a2c-866f-b4dd00234339/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "2660",
           "link": "https://omny.fm/shows/it-could-happen-here/attacking-palestinian-health"
-        },
-        {
-          "id": "ca3d4da7c14dabc8",
-          "title": "How the ‘Delivery Protection Act’ Takes on Amazon ",
-          "description": "Garrison talks with Matt and Olivia from the NYC-DSA Labor Working Group about how Amazon uses subcontractors to exploit “last mile” delivery drivers and how a new bill could hold Amazon accountable and strengthen workers' ability to organize. \n \nSources:\n  \nhttps://act.socialists.nyc/dpa-letter\n https://actionnetwork.org/events/rally-to-pass-the-delivery-protection-act-3 \n https://www.instagram.com/nycdsa/ \n https://www.instagram.com/nycdsalabor/ \n https://www.nyc.gov/site/dca/workers/workersrights/Delivery-Workers.page \n https://www.nyc.gov/mayors-office/news/2026/08/mayor-mamdani-backs--delivery-protection-act--to-rein-in-amazon- \n https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-wins-record--131-5-million-from-doordash-for-deliv \n https://www.bloomberg.com/news/features/2026-06-02/amazon-trump-settlement-win-showed-just-how-tough-delivery-drivers-have-it \n https://hearinghearings.nyc/hearings/committee-on-consumer-and-worker-protection-requiring-the-licensing-of-last-mile-facilities/ \n https://teamster.org/2026/08/amazon-teamsters-and-allies-picket-city-hall-for-the-delivery-protection-act/ \n https://teamster.org/2025/09/amazon-teamsters-rally-after-attack-on-workers-in-queens/ \n https://teamster.org/2026/08/teamsters-allies-release-report-on-amazon-violations-of-new-york-warn-act/ \n https://teamster.org/wp-content/uploads/2024/01/10424UPSNATIONALMASTERFINAL.pdf \n https://comptroller.nyc.gov/reports/fast-shipping-slow-justice-traffic-worker-and-climate-hazards-in-last-mile-delivery/ \n https://www.staffingindustry.com/news/global-daily-news/nycs-delivery-protection-act-would-make-last-mile-delivery-workers-employees \n https://www.wsj.com/business/new-jersey-sues-amazon-alleging-delivery-network-illegally-suppresses-wages-f6d6faa7 \n https://www.aboutamazon.com/news/policy-news-views/amazon-testimony-delivery-protection-act-new-york-city \n https://www.forbes.com/sites/pamdanziger/2026/08/15/delivery-protection-act-pits-nyc-mayor-mamdani-and-the-teamsters-against-amazon/ \n https://nysfocus.com/2026/07/23/amazon-new-york-last-mile-delivery-bill\n \nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-10-07T04:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/20b15900-880d-4a5f-9b50-b4dc003d00af/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "2736",
-          "link": "https://omny.fm/shows/it-could-happen-here/how-the-delivery-protection-act-takes-on-amazon"
         }
       ]
     },
@@ -410,6 +410,15 @@
       "rss": "https://feeds.megaphone.fm/SLT6250292033",
       "episodes": [
         {
+          "id": "cca3d4f5b6e27f2c",
+          "title": "After Action Report #51",
+          "description": "What’s it like to be a bearded, 6’4″, 250 pounc fella getting his nails done in preparation for the first crossdressing session with his wife?\n\nDust off your gender studies 101 textbook and find out.\n\nTell us about your…transgressions.Q@Savage.Love\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit VB.Health when you use the code Savage.",
+          "publishedAt": "2026-10-16T11:00:00.000Z",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT4241754601.mp3",
+          "duration": "1087",
+          "link": ""
+        },
+        {
           "id": "b7642226cbf9429a",
           "title": "Savage Love Episode 1040",
           "description": "A divorced father of adult children understood himself to be bisexual later in life. He digs men in an aromantic, casual sex kind of way. Is he obligated to tell his family? Does his connections with men fall under private sex life or public identity? \n\n\n\nA woman went to a sex party and met a hot female bouncer who throws out misbehaving guests. The caller wants to ask her to be her dom. Should she? How? \n\n\n\nOn the Magnum, Dan and sex researcher Niki Davis-Fainbloom do a deep dive on fetishes. What's the difference between kinks and fetishes? What causes people to get into them- is it cultural or biological? Is the destigmatization of kink making it less hot? Listen in. \n\n\n\nAnd, a straight man matched with the woman who works at his local dry cleaners. He thinks she might be trouble- texting him from the bar at 1:30, maybe driving drunk. Should he avoid her or get a little hanky-panky from a hot, messy lady?\n\n\n\n\n\nCall us, text us, don't be afraid. \n\n206-302-2064\n\nOr record your question and send it to Q@Savage.Love\n\nOr just click ⁠HERE⁠.\n\n\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit ⁠VB.Health⁠ when you use the code Savage.\n\nForia is an all natural health & sexual wellness company with product lines using the power of plant actives & CBD to effectively enhance intimacy, sexual pleasure, daily wellbeing, and relief from discomfort. Right now get 20% off your 1st order by going to ⁠ForiaWellness.com/SAVAGE⁠ or use code SAVAGE at checkout.\n\nBeducated brings pleasure-based sex education right to your bedroom. Kick off your best sex life with Beducated’s awesome, five-minute quiz at ⁠https://beducate.me/savage ⁠",
@@ -488,15 +497,6 @@
           "publishedAt": "2026-09-15T11:00:00.000Z",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT5621026182.mp3",
           "duration": "2749",
-          "link": ""
-        },
-        {
-          "id": "b6f94a44f05cfd93",
-          "title": "After Action Report #46",
-          "description": "Meet Tom who went on a very special vacation with his girlfriend. \n\n\n\nPacking checklist: \n\nKink outfits\n\nConsent Form\n\nWaste bag\n\n\n\n\n\nHow did it go? You'll find out. \n\n\n\nSend us your stories, your wonderful stories! \n\nQ@Savage.Love\n\n\n\n\n\nThis episode is brought to you by Dipsea: an app full of hundreds of short, sexy audio stories designed by women for women. Get an extended 30 day free trial plus 25% off an annual subscription when you go to dipseastories.com/savage. \n\n\n\nThis episode is brought to you by Lean- a weight loss supplement that works by lowering blood sugar and reducing appetite.If you have 10 or more pounds to lose, get started with 20% off and free rush shipping. Visit TakeLean.com and enter SAVAGE for your discount.",
-          "publishedAt": "2026-09-11T18:22:00.000Z",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT7067639766.mp3",
-          "duration": "1156",
           "link": ""
         }
       ]
