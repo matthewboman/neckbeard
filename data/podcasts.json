@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T16:58:19.314Z",
+  "updatedAt": "2026-10-20T15:01:47.513Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -9,6 +9,15 @@
       "link": "https://www.patreon.com/chapotraphouse",
       "rss": "https://feeds.soundcloud.com/users/soundcloud:users:211911700/sounds.rss",
       "episodes": [
+        {
+          "id": "dbe44f7447cbac33",
+          "title": "BONUS: Who Moves America feat. Yael Bridge & Antonio Rosario",
+          "description": "Amber Frost interviews Yael Bridge and Antonio Rosario, the director and a subject of the new Teamsters documentary Who Moves America. We talk about previous Teamsters struggles, the state and future of union organizing, and how Yael captured their fight on the precipice of a historic strike.\n\nCheck out the film’s website and its trailer: whomovesamerica.com\nAnd the fund recommended by Antonio: https://coworkerfund.org/get-funded/amazon-workers-fund-application/",
+          "publishedAt": "2026-10-20T03:34:13.000Z",
+          "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2422448619-chapo-trap-house-bonus-who-moves-america-feat.mp3",
+          "duration": "00:46:55",
+          "link": "https://soundcloud.com/chapo-trap-house/bonus-who-moves-america-feat"
+        },
         {
           "id": "30966b9eb92d18f6",
           "title": "Movie Mindset #48 - Barry Lyndon",
@@ -89,15 +98,6 @@
           "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2392336557-chapo-trap-house-1067-bride-of-datarepublican.mp3",
           "duration": "01:45:11",
           "link": "https://soundcloud.com/chapo-trap-house/1067-bride-of-datarepublican"
-        },
-        {
-          "id": "49ff8c475fc50134",
-          "title": "1065 - Fear of a Blue Planet feat. The Trillbillies (8/24/26)",
-          "description": "Tom, Tarance, and Aaron are back on the left’s premiere A Song of Ice and Fire podcast to talk about a recent army enlistment drive offering new recruits four days of Grand Theft Auto VI. We also talk about the populist revolt and liberal counterrevolution against data centers, plus Trump and RFK importing dubious meats and letting more foods get poisoned. Lastly, we read selections from Natalie Harp’s mash notes to Trump.\n\nFind Trillbillies wherever you get podcasts and subscribe here: https://www.patreon.com/trillbillyworkersparty\n\nIf you’re in Canada, check out the CHUNKS live screening on Sept 1. with Amber Frost, Nate Fisher, and Michael and Us: https://paradiseonbloor.com/movies/chunks-toronto-premiere\nAnd in Charlottetown, PEI on Sept 4th and 5th: https://tivolicinema.com/production/chunks/ \nCHUNKS now available for streaming purchase at www.patreon.com/chunkstv",
-          "publishedAt": "2026-08-25T16:19:32.000Z",
-          "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2388071013-chapo-trap-house-1065-fear-of-a-blue-planet.mp3",
-          "duration": "01:40:55",
-          "link": "https://soundcloud.com/chapo-trap-house/1065-fear-of-a-blue-planet"
         }
       ]
     },
@@ -210,6 +210,24 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "e9b857e0ffd3e527",
+          "title": "How Trump Will Try To Make Voting Restrictions Even Worse",
+          "description": "Ahead of the midterms, Garrison explains the current status of Trump’s executive orders to \nto restrict mail in voting and purge voter rolls, and how the worst effects may not come until 2028.\n  \n Sources:\n  \nhttps://www.congress.gov/bill/119th-congress/house-bill/7296/text\n https://www.whitehouse.gov/saveamerica/\n https://www.whitehouse.gov/presidential-actions/2025/03/preserving-and-protecting-the-integrity-of-american-elections/\n\n https://www.whitehouse.gov/presidential-actions/2026/03/ensuring-citizenship-verification-and-integrity-in-federal-elections/\n\n https://michigandems.com/michigan-leaders-slam-mike-rogers-for-trying-to-intimidate-and-disenfranchise-detroit-voters/\n https://www.supremecourt.gov/opinions/25pdf/26a124_hgci.pdf \nhttps://storage.courtlistener.com/recap/gov.uscourts.dcd.291053/gov.uscourts.dcd.291053.192.0.pdf\n\n https://public-inspection.federalregister.gov/2026-17238.pdf \n https://www.supremecourt.gov/opinions/25pdf/26a124_hgci.pdf \n https://www.supremecourt.gov/opinions/25pdf/26a305_4g15.pdf\n https://www.supremecourt.gov/opinions/25pdf/26a308_pok0.pdf\n https://www.uscis.gov/save/current-user-agencies/guidance/voter-registration-and-voter-list-maintenance-fact-sheet \n https://www.democracydocket.com/news-alerts/supreme-court-revives-dhs-use-of-flawed-immigration-database-for-voter-purges/\n https://www.sos.state.tx.us/about/newsreleases/2026/091526.shtml\n https://www.scotusblog.com/2026/09/supreme-court-clears-way-for-trump-administration-to-use-modified-voter-verification-database/ \n https://www.nytimes.com/2026/09/24/us/politics/nevada-voters-homeland-security-trump.html\n https://www.propublica.org/article/save-voter-citizenship-tool-mistake \n https://apnews.com/article/midterm-elections-immigration-officers-ice-voting-e43c1758ccd446eb441957b36f9e281f\n \nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-10-20T04:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/d3129743-be94-45e3-9f9e-b4e9003017e0/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "2443",
+          "link": "https://omny.fm/shows/it-could-happen-here/2026-10-19-ichh-voter-restrictions-final"
+        },
+        {
+          "id": "e62ed952a64be9bb",
+          "title": "Introducing: Knowledge Fight Country",
+          "description": "Knowledge Fight Country is a platform where Dan Friesen and his guests can chew over the biggest and best ideas being disseminated in right wing media. Through a focus on Alex Jones and figures similar to him, this show will provide a humorous and fun layer on top of discussing the context on why liars lie and how they do it.\n Listen here and subscribe to Knowledge Fight Country on the iHeartRadio app or wherever you get your podcasts!\nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-10-20T04:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/92d6434d-dba6-4634-99ff-b4e4014067a7/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "207",
+          "link": "https://omny.fm/shows/it-could-happen-here/introducing-knowledge-fight-country"
+        },
+        {
           "id": "ea497043c1e8172f",
           "title": "Lochiel: Speaking for the Trees ",
           "description": "In the first of a two part series, James travels to Lochiel, Arizona, to interview land defenders occupying a historic cottonwood known as grandmother tree in order to prevent the tree being destroyed as part of a two layer border wall being built through the region. \nSee omnystudio.com/listener for privacy information.",
@@ -280,24 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/17274f24-5c9f-4135-a31e-b4e1018b0a0a/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "2996",
           "link": "https://omny.fm/shows/it-could-happen-here/the-french-student-uprising"
-        },
-        {
-          "id": "3838f98492a02ce1",
-          "title": "Nomadcast takeover for Indigenous Peoples' Day ",
-          "description": "For Indigenous People's Day James intorduces an episode of the Nomadcast interviewing Mato Wayuhi. NomadCast is hosted by Caleb “Moose” (White Mountain Apache Descendant) and Cheyanne (White Mountain Apache Enrolled) Endfield from the White Mountain Apache Reservation where the couple went to school, met, had children and now work and create. NomadCast is a show interested in exploring the best of Indian Country. Caleb Suggested listeners who enjoyed this episode might also enjoy: \nLilly Gladstone\nOne of Indian countries brightest stars. Proof we can sit comfortably at any table. \nDoctor’s Orders Solo episode\nWhy not believe in myself a bit? \nTiio Horn Episode\nIn person event at Indigenous Pop Culture Expo in Oklahoma. Very fun episode where I made the deer lady laugh. \nAlice Qannik Glenn Third Wheel Blues Episode\nFun conversation that flows between topics.\nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-10-12T12:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f2b95a3b-24fb-446d-bf98-b49f00dc3cc3/751f0167-994f-409d-add6-b4dd0173face/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "5860",
-          "link": "https://omny.fm/shows/natural-causes/nomadcast-takeover-for-indigenous-peoples-day"
-        },
-        {
-          "id": "cb0573459694ec6e",
-          "title": "2026 Midterms Polling Update ",
-          "description": "Garrison and Robert chat about what it will take for Democrats to win back Congress, Iran’s letter to the American people, and midterm election polls in Texas, Maine, Florida, North Carolina, Alaska, and Michigan.\n\n Sources:\n  \nhttps://www.reuters.com/world/middle-east/irans-revolutionary-guards-call-trump-big-liar-2026-09-29/\n\n https://img9.irna.ir/d/r2/2026/09/29/0/173138753.pdf?ts=1790679102019 \n https://maristpoll.marist.edu/polls/midterm-elections-in-maine-october-2026/ \n https://mainebeacon.com/new-polling-jackson-narrowly-leads-collins-mainers-want-affordable-childcare/\n\n https://nymag.com/intelligencer/article/maine-senate-democratic-party-troy-jackson-graham-platner-susan-collins.html \n https://www.nytimes.com/interactive/polls/north-carolina-us-senate-election-polls-2026.html \n https://www.semafor.com/article/10/02/2026/republicans-pull-ad-spending-from-north-carolina\n https://thehill.com/homenews/campaign/6131462-sabatos-crystal-ball-shifts-alaska/\n\n https://www.nytimes.com/interactive/polls/alaska-us-senate-election-polls-2026.html \n https://www.foxnews.com/politics/fox-news-poll-its-lone-star-senate-showdown-between-talarico-paxton\n\n https://www.nytimes.com/interactive/polls/texas-us-senate-election-polls-2026.html \n https://x.com/AdImpact_Pol/status/2106409529512808548?s=20 \n https://x.com/MediumBuying/status/2108208307550752820?s=20\n\n https://floridapolitics.com/archives/820643-poll-ashley-moody-45-angie-nixon-45-and-florida-now-has-two-toss-ups-at-the-top-of-the-ticket/\n\n https://www.miamiherald.com/news/article317496818.html\n\n https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_fl_20260921_lv.pdf\n\n https://www.nytimes.com/interactive/polls/michigan-us-senate-election-polls-2026.html\n\n https://www.cbsnews.com/detroit/news/michigan-voter-poll-abdul-el-sayed-mike-rogers/ \n https://www.kff.org/public-opinion/kff-health-tracking-poll-health-care-issues-in-the-lead-up-to-the-2026-midterm-election/\n https://www.nbcnews.com/politics/2026-elections/midterms \n https://gsas.harvard.edu/news/how-much-will-gerrymandering-impact-2026-midterms\n https://www.npr.org/2026/10/06/nx-s1-5989694/midterm-elections-control-congress\n\n https://news.gallup.com/interactives/507569/presidential-job-approval-center.aspx\n\n https://www.cookpolitical.com/analysis/house/house-overview/gop-track-lose-house-majority-15-race-ratings-shift-towards-dems\n \nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-10-12T04:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/a043dc3f-3772-4791-9053-b4e10022a800/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "2670",
-          "link": "https://omny.fm/shows/it-could-happen-here/2026-midterms-polling-update"
         }
       ]
     },
@@ -410,6 +410,15 @@
       "rss": "https://feeds.megaphone.fm/SLT6250292033",
       "episodes": [
         {
+          "id": "aec50fa18154efc7",
+          "title": "Savage Love Episode 1041",
+          "description": "A 25 year-old queer, plus-size woman has never been in a relationship or had sex. Both her size and virginity make it hard to connect with people through the apps. How can she break through these barriers and get some lovin' already? \n\n\n\nA married woman for 18 years with kids is sick to death of her life. She wants to chuck the family, move to another town and have a ton of new sex. But she loves her family! How can she scratch this dangerous itch?\n\n\n\nOn the Magnum, meet the Executive Director of the Kinsey Institute! Dan and Dr. Justin Garcia have a wide-ranging conversation about what the Kinsey Institute is, evolutionary biology, the cause of the sex recession and more. When asked what's the most expensive service one can buy at a legal brothel in Las Vegas, Dr. Garcia's answer may ...shock you. \n\n\n\nA cuckquean wants to figure out a way to get evidence of the hook-ups her boyfriend is enjoying while traveling. Can she ask for video without intruding too much? \n\n\n\nRecord and email your question: Q@Savage.Love\n\nCall or text: 206-302-2064\n\nClick this here handy LINK.\n\nThis episode is brought to you by Squarespace. They make it easy to build a website or blog. Give it a whirl at Squarespace.com/Savage and if you want to buy it, use the code Savage for a 10% off your first purchase.\n\n This episode is brought to you by Helix Sleep. Right now, Helix is offering 20% off site wide exclusively for Lovecast listeners. Go to HelixSleep.com/Savage. With Helix, better sleep starts now. \n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit VB.Health when you use the code Savage.\n\n\n\nDan Savage is a sex-advice columnist, podcaster, author, and creator of the It Gets Better Project. From cuckqueans to compersion, gay rights to sexual health and with a dose of progressive politics, Dan Savage has been cultural force for sex positivity since the 1800s.",
+          "publishedAt": "2026-10-20T11:00:00.000Z",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT1476510255.mp3",
+          "duration": "3280",
+          "link": ""
+        },
+        {
           "id": "cca3d4f5b6e27f2c",
           "title": "After Action Report #51",
           "description": "What’s it like to be a bearded, 6’4″, 250 pounc fella getting his nails done in preparation for the first crossdressing session with his wife?\n\nDust off your gender studies 101 textbook and find out.\n\nTell us about your…transgressions.Q@Savage.Love\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit VB.Health when you use the code Savage.",
@@ -488,15 +497,6 @@
           "publishedAt": "2026-09-18T11:00:00.000Z",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT5432474235.mp3",
           "duration": "1078",
-          "link": ""
-        },
-        {
-          "id": "361c5a37854a11ea",
-          "title": "Savage Love Episode 1036",
-          "description": "Bummer! A man had just met with a male-female couple who wanted him to take part in a kinky three-way. But when he confessed that he sometimes has trouble coming, they cancelled. Can he train himself to blow a load? Need he?\n\nSpeaking of loads, a woman credits her beautiful, supple skin to the facial treatments her husband obligingly administers. Can this be true? Any dermatologists care to weigh in? \n\nOn the Magnum, Dan chats with filmmaker, actor and fetish content creator Julian Shaw. He wrote and directed the thriller Use Me, co-directs the documentary Acting Hard, and is the subject of Cam Boy, a documentary currently in production. He was the face of Australia's gay marriage fight, and had to \"come out'\" as straight. He and Dan cover a lot of ground in this convo about foot fetishes, the benefits and perils of sex work, the ethics of dating guys on the DL, and how to avoid stomach aches. \n\nFinally, a gay man in Italy asks if wearing a jockstrap tells the world that he is a bottom. \n\n\n\nQ@Savage.Love \n\n206-302-2064\n\n\n\n This episode is brought to you by Helix Sleep. Right now, Helix is offering 27% off site wide exclusively for Lovecast listeners. Go to HelixSleep.com/Savage. With Helix, better sleep starts now. \n\nThis episode is brought to you by Mack Weldon: timeless, innovative menswear to help you move throughthe day with confidence. Get 20% off your first order of $125 or more, with promo code SAVAGE at MackWeldon.com\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit VB.Health when you use the code Savage.",
-          "publishedAt": "2026-09-15T11:00:00.000Z",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT5621026182.mp3",
-          "duration": "2749",
           "link": ""
         }
       ]
