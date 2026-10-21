@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T15:01:47.513Z",
+  "updatedAt": "2026-10-21T15:12:22.462Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -9,6 +9,15 @@
       "link": "https://www.patreon.com/chapotraphouse",
       "rss": "https://feeds.soundcloud.com/users/soundcloud:users:211911700/sounds.rss",
       "episodes": [
+        {
+          "id": "7a300d7b31afec25",
+          "title": "1081 - Bucket Bunnies feat. Pendejo Time (10/20/26)",
+          "description": "In what critics are calling the most on-topic episode in Chapo history, Jake and Thomas of Pendejo Time join us to explain what a “line wife” and a “bucket bunny” is, and how these subcultures have found their way into TikTok virality. We also talk about the Air Force tech that died by falling at a football game, Call of Duty, The Blind Side, and the right wing’s attempt to rebrand themselves as “sensitive young men.” \n\nWe have Chunks screenings @ Alamo Drafthouses across the country:\n\n11/9 - San Francisco CA, Q&A with Amber Frost and Nate Fisher\nhttps://drafthouse.com/sf/event/live-q-a-chunks\n\n11/11 - Austin TX, Q&A with Chris Wade hosted by Jake Rhodes\nhttps://drafthouse.com/austin/event/live-q-a-chunks\n\n11/12 - Denver CO, Q&A with Amber, Chris & Nate\nhttps://drafthouse.com/denver/event/live-q-a-chunks\n\n11/15 - Los Angeles CA, Q&A with Amber, Chris, Nate & More??\nhttps://drafthouse.com/los-angeles/event/live-q-a-chunks\n\n11/19 - Chicago IL, Q&A with Felix & E1 \nhttps://drafthouse.com/chicago/event/live-q-a-chunks\n \nSubscribe to Pendejo Time: www.patreon.com/pendejotime\nJake will be doing a midwest weekend run in November (20th-22nd) in Omaha, Emmettsburg, and Lincoln. \nSee Thomas in Brooklyn with Caleb Pitts: https://restlessnites.com/events/calomas30oct2026 \nAnd Pendejo Time live in NOLA and Philly.",
+          "publishedAt": "2026-10-20T23:26:17.000Z",
+          "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2422966179-chapo-trap-house-1081-bucket-bunnies-feat.mp3",
+          "duration": "01:26:17",
+          "link": "https://soundcloud.com/chapo-trap-house/1081-bucket-bunnies-feat"
+        },
         {
           "id": "dbe44f7447cbac33",
           "title": "BONUS: Who Moves America feat. Yael Bridge & Antonio Rosario",
@@ -89,15 +98,6 @@
           "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2396740338-chapo-trap-house-unlocked-1068-american-doctor.mp3",
           "duration": "01:22:07",
           "link": "https://soundcloud.com/chapo-trap-house/unlocked-1068-american-doctor"
-        },
-        {
-          "id": "2cf064bae467f74c",
-          "title": "1067 - Bride of DataRepublican feat. David J. Roth (8/31/26)",
-          "description": "Chapo All-Star David Roth returns for a survey of the right-wing influencers running the government: DataRepublican, MomOfDataRepublican, InfantryDort, all of the stars are here! We also check in on another round of liberal struggle sessions about Hasan, and the deportation of Milo Yiannopoulos by the cowardess Laura Loomer.\n\nFind David’s work at Defector here: https://defector.com/author/david-roth \n\nIf you’re in Canada, check out the CHUNKS live screening on Sept 1. with Amber Frost, Nate Fisher, and Michael and Us: https://paradiseonbloor.com/movies/chunks-toronto-premiere\n\nAnd in Charlottetown, PEI on Sept 4th and 5th: https://tivolicinema.com/production/chunks/ \n\nCHUNKS now available for streaming purchase at www.patreon.com/chunkstv",
-          "publishedAt": "2026-09-01T04:21:54.000Z",
-          "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2392336557-chapo-trap-house-1067-bride-of-datarepublican.mp3",
-          "duration": "01:45:11",
-          "link": "https://soundcloud.com/chapo-trap-house/1067-bride-of-datarepublican"
         }
       ]
     },
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "73ef996d8b2aa2a4",
+          "title": " The Save Europe Act and the Bad Faith Nazis Who Created It ",
+          "description": "Mick, James, and Molly discuss the Save Europe Act and its attempts to mainstream great replacement theory. \n \nSources:\n  \nhttps://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0788\n https://www.save-europe-act.com/#section-form\n https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1658\n https://www.euronews.com/my-europe/2026/07/23/far-right-activists-to-sue-european-commission-over-remigration-rejection\n https://www.europesays.com/3147332/\n https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0788\n https://www.dw.com/en/austrian-far-right-extremist-denied-us-travel-permit-after-christchurch-link/a-48107733\n https://eur-lex.europa.eu/eli/reg/2011/211/2019-05-30?locale=en\n https://archive.is/V3Qye\n https://orf.at/stories/3122404/\n https://archive.ph/LClfA\n https://archive.ph/NL4NF\n https://register.eci.ec.europa.eu/core/api/register/document/5652679877066501\n \nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-10-21T04:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/196771c4-226b-4922-a673-b4e9017cfb62/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "4380",
+          "link": "https://omny.fm/shows/it-could-happen-here/the-save-europe-act-and-the-bad-faith-nazis-who-created-it"
+        },
+        {
           "id": "e9b857e0ffd3e527",
           "title": "How Trump Will Try To Make Voting Restrictions Even Worse",
           "description": "Ahead of the midterms, Garrison explains the current status of Trump’s executive orders to \nto restrict mail in voting and purge voter rolls, and how the worst effects may not come until 2028.\n  \n Sources:\n  \nhttps://www.congress.gov/bill/119th-congress/house-bill/7296/text\n https://www.whitehouse.gov/saveamerica/\n https://www.whitehouse.gov/presidential-actions/2025/03/preserving-and-protecting-the-integrity-of-american-elections/\n\n https://www.whitehouse.gov/presidential-actions/2026/03/ensuring-citizenship-verification-and-integrity-in-federal-elections/\n\n https://michigandems.com/michigan-leaders-slam-mike-rogers-for-trying-to-intimidate-and-disenfranchise-detroit-voters/\n https://www.supremecourt.gov/opinions/25pdf/26a124_hgci.pdf \nhttps://storage.courtlistener.com/recap/gov.uscourts.dcd.291053/gov.uscourts.dcd.291053.192.0.pdf\n\n https://public-inspection.federalregister.gov/2026-17238.pdf \n https://www.supremecourt.gov/opinions/25pdf/26a124_hgci.pdf \n https://www.supremecourt.gov/opinions/25pdf/26a305_4g15.pdf\n https://www.supremecourt.gov/opinions/25pdf/26a308_pok0.pdf\n https://www.uscis.gov/save/current-user-agencies/guidance/voter-registration-and-voter-list-maintenance-fact-sheet \n https://www.democracydocket.com/news-alerts/supreme-court-revives-dhs-use-of-flawed-immigration-database-for-voter-purges/\n https://www.sos.state.tx.us/about/newsreleases/2026/091526.shtml\n https://www.scotusblog.com/2026/09/supreme-court-clears-way-for-trump-administration-to-use-modified-voter-verification-database/ \n https://www.nytimes.com/2026/09/24/us/politics/nevada-voters-homeland-security-trump.html\n https://www.propublica.org/article/save-voter-citizenship-tool-mistake \n https://apnews.com/article/midterm-elections-immigration-officers-ice-voting-e43c1758ccd446eb441957b36f9e281f\n \nSee omnystudio.com/listener for privacy information.",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/b58fec54-a059-4883-b6af-b4e3000aa759/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "2284",
           "link": "https://omny.fm/shows/it-could-happen-here/breadfruit"
-        },
-        {
-          "id": "464dc9560cd06092",
-          "title": "The French Student Uprising",
-          "description": "Mia talks with Faiza, a political analyst and feminist theorist in France about the French high school student protests and breaking out of our complacency.\nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-10-13T04:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/17274f24-5c9f-4135-a31e-b4e1018b0a0a/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "2996",
-          "link": "https://omny.fm/shows/it-could-happen-here/the-french-student-uprising"
         }
       ]
     },
