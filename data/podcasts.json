@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T15:12:22.462Z",
+  "updatedAt": "2026-10-22T15:13:57.844Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "8735a50c1fb776d8",
+          "title": "The Save Europe Act and the Bad Faith Nazis Who Created It Part 2",
+          "description": "In the second of two episodes Mick, James, and Molly discuss the Save Europe Act and its attempts to mainstream great replacement theory.\n  \n Sources:\n  \nhttps://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0788\n https://www.save-europe-act.com/#section-form\n https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1658\n https://www.euronews.com/my-europe/2026/07/23/far-right-activists-to-sue-european-commission-over-remigration-rejection\n https://www.europesays.com/3147332/\n https://www.dw.com/en/austrian-far-right-extremist-denied-us-travel-permit-after-christchurch-link/a-48107733\n https://eur-lex.europa.eu/eli/reg/2011/211/2019-05-30?locale=en\n https://archive.is/V3Qye\n https://orf.at/stories/3122404/\n https://archive.ph/LClfA\n https://archive.ph/NL4NF\n https://register.eci.ec.europa.eu/core/api/register/document/5652679877066501\n \nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-10-22T04:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/702390bf-16f4-402d-8afc-b4ea01820320/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "3677",
+          "link": "https://omny.fm/shows/it-could-happen-here/the-save-europe-act-and-the-bad-faith-nazis-who-created-it-part-2"
+        },
+        {
           "id": "73ef996d8b2aa2a4",
           "title": " The Save Europe Act and the Bad Faith Nazis Who Created It ",
           "description": "Mick, James, and Molly discuss the Save Europe Act and its attempts to mainstream great replacement theory. \n \nSources:\n  \nhttps://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0788\n https://www.save-europe-act.com/#section-form\n https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1658\n https://www.euronews.com/my-europe/2026/07/23/far-right-activists-to-sue-european-commission-over-remigration-rejection\n https://www.europesays.com/3147332/\n https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0788\n https://www.dw.com/en/austrian-far-right-extremist-denied-us-travel-permit-after-christchurch-link/a-48107733\n https://eur-lex.europa.eu/eli/reg/2011/211/2019-05-30?locale=en\n https://archive.is/V3Qye\n https://orf.at/stories/3122404/\n https://archive.ph/LClfA\n https://archive.ph/NL4NF\n https://register.eci.ec.europa.eu/core/api/register/document/5652679877066501\n \nSee omnystudio.com/listener for privacy information.",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/cdcebf86-06de-4730-90d8-b4e400394150/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "1806",
           "link": "https://omny.fm/shows/it-could-happen-here/fear-of-a-nuclear-january-6th"
-        },
-        {
-          "id": "57e23f38a60bc72a",
-          "title": "Breadfruit!",
-          "description": "Carlos talks about how breadfruit is being used as a tool of emergency preparedness and\nto fight hunger crises around the world.\n Sources:\n  \nhttps://es.mongabay.com/2023/08/arbol-del-pan-conservacion-crisis-climatica/\n https://www.wired.com/story/breadfruit-caribbean-pacific-climate-change-super-food/\n https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000062\n https://www.smithsonianmag.com/smart-news/is-breadfruit-the-climate-change-proof-foo\nd-of-the-future-180980665/\n https://thestoryexchange.org/shes-brought-a-climate-resilient-superfood-to-the-worlds-att\nention/\n https://ntbg.org/breadfruit/about-breadfruit/\n https://www.civilbeat.org/2026/09/supply-and-demand-concerns-breadfruit/\n https://www.civilbeat.org/2026/09/ulu-on-the-up-hawaii-breadfruit-production-keeps-boo\nming/\n https://www.civilbeat.org/2026/09/supply-and-demand-concerns-breadfruit/\n https://www.9millones.com/story/como-los-puertorriquenos-disenan-su-recuperacion-just\na-colectivamente\n https://www.telegraph.co.uk/news/2025/06/18/climate-change-impact-on-food-everyone-\ngiving-up-breakfast/\n https://news.northwestern.edu/stories/2022/08/climate-resilient-breadfruit-might-be-the-f\nood-of-the-future\n https://www.plateapr.com/que-hacer/origen-festival-de-la-pana-humacao\n https://www.eater.com/23664880/what-is-breadfruit-hawaii-how-to-cook\n https://edition.cnn.com/2025/11/12/climate/3-degrees-warming-reports-iea-united-nations\n  https://bittmanproject.com/breadfruit-is-delicious-and-versatile-but-it-shouldnt-have-to-sa\nve-the-world/\n https://www3.ctahr.hawaii.edu/oc/freepubs/pdf/FN-68.pdf\n https://estadisticas.pr/Agricultura\nhttps://ishs.org/ishs-article/1128_8/\n Breadfruit: Three Global Journeys of a Bountiful Tree by Russell Fielding\n Recetario de Pana Edición 2014 by Asociación Recreativa y Educativa Comunal del Bo.\nMariana, Inc (ARECMA), edited by Luz A. Vega Rodríguez\n https://treesthatfeed.org/programs/planting-trees/\n https://treesthatfeed.org/programs/school-feeding-programs/\n https://treesthatfeed.org/wp-content/uploads/2026/04/AR_2026_.3.6MB.pdf\n \nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-10-14T04:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/b58fec54-a059-4883-b6af-b4e3000aa759/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "2284",
-          "link": "https://omny.fm/shows/it-could-happen-here/breadfruit"
         }
       ]
     },
@@ -510,6 +510,15 @@
       "rss": "https://feeds.simplecast.com/Fa0PP4fl",
       "episodes": [
         {
+          "id": "3c14f0823b0c956b",
+          "title": "Bonus #203 - Brandon Wardell [PATREON PREVIEW]",
+          "description": "Patreon preview. Unlock full episode at https://www.patreon.com/stavvysworld\nBrandon Wardell returns to the pod to discuss his induction into the elite 5 Timers Club of Stavvy's World guests, trying to insert himself into the Wasian discourse, attending a pal's wedding with Stav, and much more. Brandon and Stav help callers including a woman whose ex-boyfriend is stuck in cuck purgatory after they broke up but still live together, and a woman who normally only dates women but is considering making a move on the male personal trainer that she's developed feelings for.\nFollow Brandon Wardell on social media:\nhttps://linktr.ee/brandonwardell\nhttps://www.instagram.com/bswardell\nhttps://x.com/BRANDONWARDELL\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n🎟️ See Stavvy live!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+          "publishedAt": "2026-10-22T10:00:00.000Z",
+          "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/bfecb511-1747-40b9-9f28-3fbd462c3a77/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=bfecb511-1747-40b9-9f28-3fbd462c3a77&feed=Fa0PP4fl",
+          "duration": "00:13:59",
+          "link": "https://siriusxm.com"
+        },
+        {
           "id": "04303abf0e337027",
           "title": "#203 - Michael Che",
           "description": "Michael Che joins the pod to discuss his new special SHOT IN MINNESOTA (out now on Netflix), offering sage wisdom to friends, finding out what the group thread says about you, brutal pre-fame jobs, having six other siblings, the nagging persistent urge to keep working, his first drink, and much more. Michael and Stav help callers including a woman dating a TikTok doctor who's lying about his age, and a man on a diet whose wife is acting like he has an eating disorder.\nWatch Michael Che's new special SHOT IN MINNESOTA out now on Netflix: https://www.netflix.com/title/82816770\nFollow Michael Che:\nhttps://www.michaelche.com/\nhttps://www.instagram.com/chethinks\nThanks to our sponsors!\nVisible - https://www.visible.com/ SWITCH NOW!\nTwisted Tea - https://www.twistedtea.com/locations Keep It Twisted!!\nRidge - https://www.Ridge.com/STAVVY\nCash App - Download Cash App today and make your money work for you. Click here to get started: https://capl.onelink.me/vFut/wyx330el #CashAppPartner Cash App is a financial services platform, not a bank. Banking services provided by Cash App’s bank partner(s). Prepaid debit cards issued by Sutton Bank, Member FDIC. Cash App Visa® Debit Flex Cards issued by Sutton Bank, Member FDIC, and The Bancorp Bank, N.A., pursuant to a license from Visa U.S.A. Inc. See terms and conditions for the Sutton prepaid card (https://cash.app/legal/us/en-us/card-agreement), Sutton debit flex card (https://cash.app/legal/us/en-us/debit-flex-card-agreement-sutton), and Bancorp debit flex card (https://cash.app/legal/us/en-us/debit-flex-card-agreement-bancorp). Discounts and promotions provided by Cash App, a Block, Inc. brand. Visit cash.app/legal/podcast for full disclosures.\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n🎟️ See Stavvy live!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
@@ -588,15 +597,6 @@
           "publishedAt": "2026-09-21T10:00:00.000Z",
           "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/a49abf53-f4a8-4852-86c0-158929c67eae/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=a49abf53-f4a8-4852-86c0-158929c67eae&feed=Fa0PP4fl",
           "duration": "01:34:42",
-          "link": "https://siriusxm.com"
-        },
-        {
-          "id": "a0e618f1c7c562a6",
-          "title": "Bonus #198 - Derek Gaines and Pockets Graham [PATREON PREVIEW]",
-          "description": "Patreon preview. Unlock full episodes at https://www.patreon.com/stavvysworld\nDerek Gaines and Pockets Graham join the pod to discuss Derek's new special Goodlum (Tubi), why Tubi is awesome, how they got the great Bill Duke to lend his voice to Derek's special, humanity vs. nature, drums vs. flats, RoboCop, Pam Grier, Derek’s birth on an Air Force base, Pockets’s mom working as social worker after overcoming crack addiction, working in below-the-line film production, Tom Cruise, Michael Mann, superhero fatigue, and much more.\nWatch Derek Gaines's new special Goodlum on Tubi: https://tubitv.com/movies/100058482/derek-gaines-goodlum\nFollow Derek Gaines on social media:\nhttps://punchup.live/derekgaines\nhttps://www.instagram.com/thegreatboy\nhttps://twitter.com/derek1gaines\nFollow Pockets Graham on social media:\nhttps://www.instagram.com/impockets\nhttps://x.com/ImPockets\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Stav's new special Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n🎟️ See Stavvy live!! 🛥️💕!!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-          "publishedAt": "2026-09-17T10:00:00.000Z",
-          "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/d1ea2e72-4455-4e87-85e6-178f555fdf6d/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=d1ea2e72-4455-4e87-85e6-178f555fdf6d&feed=Fa0PP4fl",
-          "duration": "00:07:15",
           "link": "https://siriusxm.com"
         }
       ]
