@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T16:46:36.096Z",
+  "updatedAt": "2026-10-27T15:51:31.780Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -9,6 +9,15 @@
       "link": "https://www.patreon.com/chapotraphouse",
       "rss": "https://feeds.soundcloud.com/users/soundcloud:users:211911700/sounds.rss",
       "episodes": [
+        {
+          "id": "10432313161867c2",
+          "title": "1083 - Voteball Internacional feat. Ryan Grim (10/26/26)",
+          "description": "Ryan Grim of Drop Site News joins us for an international tune-up in the ol’ beltway garage. We analyze not just the forthcoming US midterm elections but the upcoming election in Israel and surprising results in Brazil. We also determine once and for all if mocking the Cheesecake Factory is elitism, and check in on a libertarian state senate candidate who might be in a standoff with the cops.\n\nSubscribe to Drop Site here: https://www.dropsitenews.com/ \n\nWe have Chunks screenings @ Alamo Drafthouses across the country:\n\n11/9 - San Francisco CA, Q&A with Amber Frost and Nate Fisher\nhttps://drafthouse.com/sf/event/live-q-a-chunks\n\n\n11/11 - Austin TX, Q&A with Chris Wade hosted by Jake Rhodes\nhttps://drafthouse.com/austin/event/live-q-a-chunks\n\n\n11/12 - Denver CO, Q&A with Amber, Chris & Nate\nhttps://drafthouse.com/denver/event/live-q-a-chunks\n\n\n11/15 - Los Angeles CA, Q&A with Amber, Chris, Nate & More??\nhttps://drafthouse.com/los-angeles/event/live-q-a-chunks\n\n\n11/19 - Chicago IL, Q&A with Felix & E1 \nhttps://drafthouse.com/chicago/event/live-q-a-chunks",
+          "publishedAt": "2026-10-27T04:11:10.000Z",
+          "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2426675175-chapo-trap-house-1083-voteball-internacional.mp3",
+          "duration": "01:21:48",
+          "link": "https://soundcloud.com/chapo-trap-house/1083-voteball-internacional"
+        },
         {
           "id": "7a300d7b31afec25",
           "title": "1081 - Bucket Bunnies feat. Pendejo Time (10/20/26)",
@@ -89,15 +98,6 @@
           "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2397067902-chapo-trap-house-1069-vettermans-day-9-8-26.mp3",
           "duration": "01:32:45",
           "link": "https://soundcloud.com/chapo-trap-house/1069-vettermans-day-9-8-26"
-        },
-        {
-          "id": "a8769c2b7ef95ca3",
-          "title": "UNLOCKED: 1068 - American Doctor feat. Mark Perlmutter and Thaer Ahmad (9/3/26)",
-          "description": "Mark Perlmutter and Thaer Ahmad from the documentary American Doctor join us this week to discuss their time working as doctors in Gaza. They discuss what they witnessed in Gaza during the genocide, their attempts to persuade politicians on Capitol Hill, the medical industry’s willfull blindness to Palestinian suffering, and what needs to happen to cure the cancerous ideology of Zionism.\n\nFind all things about the film including where to see it here: https://americandoctorfilm.com/",
-          "publishedAt": "2026-09-08T14:14:04.000Z",
-          "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2396740338-chapo-trap-house-unlocked-1068-american-doctor.mp3",
-          "duration": "01:22:07",
-          "link": "https://soundcloud.com/chapo-trap-house/unlocked-1068-american-doctor"
         }
       ]
     },
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "4077e337e93514fb",
+          "title": "2026 Elections (The Union Ones)",
+          "description": "Mia talks with IWW members Pam Suitland-Halas, Andrew D. Ferguson, and Elizabeth Copis-Dukelow about the upcoming elections in the IWW.\n Links:\n https://linktr.ee/PamelaSH\nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-10-27T04:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/2f983a1d-bd5a-4592-ba0a-b4f0002f60b2/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "3010",
+          "link": "https://omny.fm/shows/it-could-happen-here/2026-elections-the-union-ones"
+        },
+        {
           "id": "55e1ac839c0c82a0",
           "title": "Lochiel Part 2: The End of the Tree Sit",
           "description": "In the second of a two part series James looks at the federal government's response to the Lochiel land defence and where people who care about the land can go from here.\n  https://www.fs.usda.gov/r03/coronado/alerts/border-barrier-construction-closure  \nhttps://hoyle.house.gov/media/press-releases/lawmakers-demand-transparency-after-us-forest-service-coordinates-with-ice-on-public-lands  \nhttps://www.king5.com/article/news/local/labor-day-weekend-family-camping-trip-ends-in-ice-raid/281-fdb42198-76df-4922-ae38-d2e3faf58ca4\n https://cochiseregionalnews.substack.com/p/hathway-on-lochiel-only-violent-physical  \nhttps://azsheriffs.org/newsroom/santa-cruz-county-public-safety-open-letter/  \nhttps://www.congress.gov/crs_external_products/R/PDF/R46601/R46601.2.pdf \nSee omnystudio.com/listener for privacy information.",
@@ -280,15 +289,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/d3129743-be94-45e3-9f9e-b4e9003017e0/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "2443",
           "link": "https://omny.fm/shows/it-could-happen-here/2026-10-19-ichh-voter-restrictions-final"
-        },
-        {
-          "id": "e62ed952a64be9bb",
-          "title": "Introducing: Knowledge Fight Country",
-          "description": "Knowledge Fight Country is a platform where Dan Friesen and his guests can chew over the biggest and best ideas being disseminated in right wing media. Through a focus on Alex Jones and figures similar to him, this show will provide a humorous and fun layer on top of discussing the context on why liars lie and how they do it.\n Listen here and subscribe to Knowledge Fight Country on the iHeartRadio app or wherever you get your podcasts!\nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-10-20T04:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/92d6434d-dba6-4634-99ff-b4e4014067a7/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "207",
-          "link": "https://omny.fm/shows/it-could-happen-here/introducing-knowledge-fight-country"
         },
         {
           "id": "ea497043c1e8172f",
@@ -410,6 +410,15 @@
       "rss": "https://feeds.megaphone.fm/SLT6250292033",
       "episodes": [
         {
+          "id": "a21ed8e038d13396",
+          "title": "Savage Lovecast Episode 1042",
+          "description": "A bisexual woman has started dating a lady for the first time. She doesn't feel much sexual spark. Is it because of the baggy, unflattering clothes her girlfriend wears? \n\nIs it ever appropriate to ask your doctor out? Your nurse? A woman wrings her hands over the ethics of leaving a thank-you note with her phone number on it for Max, the hot radiologist. \n\nOn the Magnum, it's everybody's favorite gay former Mormon humor writer, Eli McCann! His new novel \"Stitched\" is on the NYT bestsellers list. And because there's Mormonism in the air, we got two calls from listeners about the Latter Day Saints. One is from a woman in her late 20s, newly divorced and free from the church. She wants to know how to embrace her sexuality. And another is from a mother whose daughter has Mormon friends, and they are trying to woo her into the hive. The mother is horrified. Should she be? \n\nA non-binary AFAB person has no desire to try to pass as a man. But they like pretending they have a small dick, and then have their boyfriend degrade and insult them.They both like it when he uses transphobic slurs as part of their dirty talk and role play. Cool? \n\n\n\n\n\nQ@Savage.Love\n\n⁠Click me! ⁠\n\n206-302-2064\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit ⁠VB.Health⁠ when you use the code Savage.\n\nThis episode is brought to you by the Toler Financial Group. For money advice that thinks outside the closet, schedule a judgement free consultation with the team at Toler Financial Group today at ⁠tolerfinancialgroup.com/savage⁠\n\nThis episode is brought to you by Mack Weldon: timeless, innovative menswear to help you move throughthe day with confidence. Get 20% off your first order of $125 or more, with promo code SAVAGE at ⁠MackWeldon.com⁠",
+          "publishedAt": "2026-10-27T11:00:00.000Z",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT6593315550.mp3",
+          "duration": "3195",
+          "link": ""
+        },
+        {
           "id": "02d6d2dddc255a0b",
           "title": "After Action Report #52",
           "description": "Deep in rural Sweden, the tantric kinksters are getting FREAKY. \n\nAt the “Sexsibility Festival” a 5-day erotic gathering where you can explore tantra, contact improv, and eye gazing along with impact play workshops, there’s a lot to do and see. But everybody’s still gotta eat, right?\n\nEnter Pearse, who cooked breakfast for over 500 participants.\n\nHe says it looks similar to Midsommar but without the murder. Hear what he did there, and most importantly, what he learned about… himself.\n\n\n\nWhat did YOU do at summer camp?Write about every little thing, and send it to Q@Savage.Love\n\nRead Pearse’s Playboy article ⁠here⁠.\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit ⁠VB.Health⁠ when you use the code Savage.",
@@ -488,15 +497,6 @@
           "publishedAt": "2026-09-25T11:00:00.000Z",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT6279169977.mp3",
           "duration": "953",
-          "link": ""
-        },
-        {
-          "id": "ed53762f0d431a56",
-          "title": "Savage Love Episode 1037",
-          "description": "Grapefruiting! It's a new sex act involving fruit! Can *any* word be verbed? Apparently! \n\n\n\nA woman wonders how anyone can successfully fake an orgasm, when the physical contractions should be noticeably felt.\n\n\n\nOn the Magnum, Dan brings on a guest to definitively answer the question you all have: How long must you wait to masturbate after you've had a heart attack? Dr. Eugene Fan is a cardiologist with nothing but good news for you horndogs. As long as your heart is beating, you can beat off. He and Dan discuss a couple of heart health issues with the charming and reassuring Dr. Fan. \n\n\n\nAnd, is piss an acquired taste? Because this woman just doesn't like it. \n\n\n\n\n\nQ@Savage.Love              206-302-2064 (You can text us a voice memo too.)\n\n\n\nThis episode is brought to you by Squarespace. They make it easy to build a website or blog. Give it a whirl at Squarespace.com/Savage and if you want to buy it, use the code Savage for a 10% off your first purchase.\n\nThis episode is brought to you by Arya- an intimacy membership with a personal intimacy concierge to help you and your partner bring true excitement back into your sex life. Right now, Arya is offering listeners $10 off your first month at GetArya.com/Savage\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit VB.Health when you use the code Savage.\n\n\n\n\n\nDan Savage is a sex-advice columnist, podcaster, author, and creator of the It Gets Better Project. From bondage to bisexuality, cuckolding to crossdressing and with a dose of progressive politics, Dan Savage is a cultural force for sex positivity, when we most need it.",
-          "publishedAt": "2026-09-22T11:00:00.000Z",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT9194923913.mp3",
-          "duration": "2970",
           "link": ""
         }
       ]
