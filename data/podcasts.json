@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T16:35:57.933Z",
+  "updatedAt": "2026-10-29T16:53:57.755Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -115,7 +115,7 @@
           "description": "This month's bonus episode is about Rahm Emanuel, a man whose political constituency consists entirely of prestige magazine editors.\nTo hear the rest of the show, support us on Patreon: https://www.patreon.com/IfBooksPod\n\n\nSupport us on Patreon: https://www.patreon.com/IfBooksPod",
           "publishedAt": "2026-10-27T19:00:00.000Z",
           "audio": "https://www.buzzsprout.com/2040953/episodes/20030089-the-rahm-emanuel-profiles-will-continue-until-morale-improves-teaser.mp3",
-          "duration": "2551",
+          "duration": "2546",
           "link": ""
         },
         {
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "9a0a7dd4fa96d260",
+          "title": "Kim Kelly's Morbid Labor Tales ",
+          "description": "Journalist Kim Kelly gives us a spooky little roundup of labor actions from gravediggers, embalmers, and coffin makers (oh my!). \nSources: \n  \nhttps://proteanmag.com/2021/10/31/picket-lines-in-the-graveyard-a-history-of-cemetery-workers-strikes/\n https://www.bbc.com/news/entertainment-arts-67168074\n https://www.inquirer.com/news/philadelphia/dc33-strike-philadelphia-medical-examiners-injunction-20250703.html\n https://6abc.com/post/retrieval-dead-bodies-is-being-delayed-due-blue-collar-union-dc33-strike-philadelphia-officials-say/16936166/\n https://www.cbsnews.com/chicago/news/sacrilegious-bodies-piling-up-at-cook-county-morgue/\n https://6abc.com/archive/8511845/\n https://abc7.com/archive/8719820/\n https://www.nytimes.com/1964/10/02/archives/workers-strike-funeral-homes-100-establishments-hit-in-the.html\n https://www.nytimes.com/1964/10/04/archives/state-fails-to-end-embalmers-strike.html\n https://thevictorianbookofthedead.wordpress.com/2024/08/28/the-coffin-makers-strike-1872/\n https://newspapers.bc.edu/?a=d&d=pilot18720622-01.2.22&e=-------en-20--1--txt-txIN-----------------------\n \nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-10-29T04:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/878ab792-33c6-4867-8f1a-b4f1013aac65/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "1312",
+          "link": "https://omny.fm/shows/it-could-happen-here/kim-kellys-morbid-labor-tales"
+        },
+        {
           "id": "d2828fd6162c64b4",
           "title": "¡El Chupacabras!",
           "description": "Carlos hunts down the origin of the chupacabra, then explains how U.S. imperialism and\nPuerto Rico’s many crises gave rise to the bloodsucker.\n \nFollow Carlos @vaquero2XL\n \nSources:\n  \nTracking the Chupacabra: The Vampire Beast in Fact, Fiction and Folklore by Benjamin\nRadford\n Governing Spirits: Religion, Miracles, and Spectacle in Cuba and Puerto Rico,\n1898-1956 by Reinaldo L. Román\n En Qué Quedó Ep. 6 “El Chupacabras”\nhttps://open.spotify.com/episode/2r9ISXwgY7zTpWj2EJWcF1\n Radio Ambulante “El vampiro entre nosotros”\nhttps://open.spotify.com/episode/0hvdSD4aXHwoOWoMYAdN9x\n Sucking Vulnerability: Neoliberalism, the Chupacabras, and the Post-Cold War Years by\nWilliam A Calvo-Quirós\n https://web.archive.org/web/20230814111741/http://www.barriology.com/uploads/2/3/2/7/\n23276452/calvo-quiros_sucking_vulnerability_rev.pdf\n El Chupacabra: Icon of Resistance to US Imperialism\n Species (1995) dir. Roger Donaldson https://www.youtube.com/watch?v=8MGZnLsPSRc\n La Operación (1982) dir. Ana María García https://www.youtube.com/watch?v=uoJoWMbRxvM&t=36s\n La Operación -Background https://www.youtube.com/watch?v=r6XEuu_auR8&t=8s\n https://www.elnuevodia.com/noticias/locales/notas/se-registran-dos-ataques-del-chupac\nabras/\n https://www.theguardian.com/world/2023/apr/30/vieques-puerto-rico-us-navy-base-traini\nng\n https://www.navfac.navy.mil/Portals/68/Documents/Business-Lines/Environmental/Enviro\nnmental-Restoration/NAVFAC-Atlantic/Vieques/Vieques_Fact_Sheet_03_Depleted_Uran\nium_in_LIA_Eng.pdf\n https://www.fs.usda.gov/r08/elyunque/recreation/discover-history/us-military-and-el-yunq\nue-national-forest\n https://www.documentcloud.org/documents/24816374-the-history-of-the-us-department-\nof-defense-programs-for-the-testing-evaluation-and-storage-of-tactical-herbicides-agent-\norange-in-pr/?q=puerto+rico&mode=document#document/p5\n https://www.elvocero.com/actualidad/otros/las-grandes-sequ-as-que-marcaron-a-puerto-\nrico-durante-el-siglo-xx/article_e6a37bce-5269-4040-836d-799a04358fc2.html\n https://www.washingtonpost.com/archive/politics/1995/12/26/mystery-creature-ravages-p\nuerto-rican-livestock/b7704250-dae0-4fa3-a886-561db637b463/\n https://www.latimes.com/archives/la-xpm-1995-12-03-mn-9730-story.html\n “Monsters and Messiahs by Mike Davis”\n  “Beast of Borikén\" by Julio Anta, Daniel IriZarri, Patricio Delpeche, and Lucas Gattoni\n \nSee omnystudio.com/listener for privacy information.",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/196771c4-226b-4922-a673-b4e9017cfb62/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "4380",
           "link": "https://omny.fm/shows/it-could-happen-here/the-save-europe-act-and-the-bad-faith-nazis-who-created-it"
-        },
-        {
-          "id": "e9b857e0ffd3e527",
-          "title": "How Trump Will Try To Make Voting Restrictions Even Worse",
-          "description": "Ahead of the midterms, Garrison explains the current status of Trump’s executive orders to \nto restrict mail in voting and purge voter rolls, and how the worst effects may not come until 2028.\n  \n Sources:\n  \nhttps://www.congress.gov/bill/119th-congress/house-bill/7296/text\n https://www.whitehouse.gov/saveamerica/\n https://www.whitehouse.gov/presidential-actions/2025/03/preserving-and-protecting-the-integrity-of-american-elections/\n\n https://www.whitehouse.gov/presidential-actions/2026/03/ensuring-citizenship-verification-and-integrity-in-federal-elections/\n\n https://michigandems.com/michigan-leaders-slam-mike-rogers-for-trying-to-intimidate-and-disenfranchise-detroit-voters/\n https://www.supremecourt.gov/opinions/25pdf/26a124_hgci.pdf\n https://storage.courtlistener.com/recap/gov.uscourts.dcd.291053/gov.uscourts.dcd.291053.192.0.pdf\n\n https://public-inspection.federalregister.gov/2026-17238.pdf\n https://www.supremecourt.gov/opinions/25pdf/26a124_hgci.pdf\n https://www.supremecourt.gov/opinions/25pdf/26a305_4g15.pdf\n https://www.supremecourt.gov/opinions/25pdf/26a308_pok0.pdf\n https://www.uscis.gov/save/current-user-agencies/guidance/voter-registration-and-voter-list-maintenance-fact-sheet\n https://www.democracydocket.com/news-alerts/supreme-court-revives-dhs-use-of-flawed-immigration-database-for-voter-purges/\n https://www.sos.state.tx.us/about/newsreleases/2026/091526.shtml\n https://www.scotusblog.com/2026/09/supreme-court-clears-way-for-trump-administration-to-use-modified-voter-verification-database/\n https://www.nytimes.com/2026/09/24/us/politics/nevada-voters-homeland-security-trump.html\n https://www.propublica.org/article/save-voter-citizenship-tool-mistake\n https://apnews.com/article/midterm-elections-immigration-officers-ice-voting-e43c1758ccd446eb441957b36f9e281f\n \nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-10-20T04:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/d3129743-be94-45e3-9f9e-b4e9003017e0/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "2443",
-          "link": "https://omny.fm/shows/it-could-happen-here/2026-10-19-ichh-voter-restrictions-final"
         }
       ]
     },
@@ -510,6 +510,15 @@
       "rss": "https://feeds.simplecast.com/Fa0PP4fl",
       "episodes": [
         {
+          "id": "29423448e2f6d1a5",
+          "title": "Bonus #204 - Caleb Pitts and Patrick Doran [PATREON PREVIEW]",
+          "description": "Patreon preview. Unlock full episode at https://www.patreon.com/stavvysworld\nCaleb Pitts and Patrick Doran return for a super spooky Halloween special to discuss the botched costume plans for this ep, the guy in the neighborhood who always tried to get too scary, coming to terms with baldness, the coolest bald guys, fat guy math on your shirt size on your belly vs. on your chest, Mr. Bean being a player, and much more. Caleb, Patrick and Stav help callers including a man who wants tips on how to make fake alcoholic spunk for his South Park-inspired Halloween costume, and a formerly messy drunk who hasn't been able to get laid since going sober.\nCheck out Podcast About List:\nhttps://www.patreon.com/podcastaboutlist/\nhttps://www.swagpoop.com/\nhttps://www.youtube.com/PodcastAboutList\nhttps://twitter.com/podaboutlist\nhttps://www.instagram.com/podcastaboutlist/\nFollow Caleb Pitts on social media:\nhttps://www.instagram.com/calebpitts1997\nhttps://x.com/calebpitts1997\nFollow Patrick Doran on social media:\nhttps://www.instagram.com/lunch_enjoyer/\nhttps://twitter.com/lunch_enjoyer\nhttps://www.cameo.com/patrickdoran1\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n🎟️ See Stavvy live!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+          "publishedAt": "2026-10-29T10:00:00.000Z",
+          "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/e6d6cc46-49ec-4138-9764-388297c31521/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=e6d6cc46-49ec-4138-9764-388297c31521&feed=Fa0PP4fl",
+          "duration": "00:12:59",
+          "link": "https://siriusxm.com"
+        },
+        {
           "id": "801b4737fd980e5e",
           "title": "#204 - Sarah Sherman",
           "description": "Sarah Sherman returns to the pod for a special Halloween spooktacular to discuss her Halloween crushes, the shoddy Stavvy's World in-studio special effects, her plot to rebrand as Sarah Normal, getting upstaged by queefing at the Gathering of the Juggalos, the legendary time she met Keanu Reeves, booking gigs because she's appeared on the pod, and much more. Sarah and Stav help callers including a man whose friend and business partner posts political comments from the Instagram account of the haunted house they run together, and a 17-year-old who's wondering if he's too old to go trick-or-treating.\nSee Sarah Sherman live and follow her on social media:\nhttps://www.sarahsquirm.com/\nhttps://www.instagram.com/sarahsquirm/\nhttps://www.tiktok.com/@sarahsquirm\nhttps://twitter.com/SarahSquirm\nThanks to our sponsors!\nVisible - https://www.visible.com/ SWITCH NOW!\nTwisted Tea - https://www.twistedtea.com/locations Keep It Twisted!!\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n🎟️ See Stavvy live!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
@@ -588,15 +597,6 @@
           "publishedAt": "2026-09-28T10:00:00.000Z",
           "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/5e858010-3130-4033-a5c8-e0888f61c523/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=5e858010-3130-4033-a5c8-e0888f61c523&feed=Fa0PP4fl",
           "duration": "01:39:17",
-          "link": "https://siriusxm.com"
-        },
-        {
-          "id": "d2fa25e2f3d9003e",
-          "title": "Bonus #199 - McDade's Maniacs Vol. 14 w/ Noah Savage [PATREON PREVIEW]",
-          "description": "Patreon preview. Unlock full episode at https://www.patreon.com/stavvysworld\nThe Coach of the Crazy JP McDade calls his latest maniac — the D1 demon Noah Savage — off the bench and into the game to discuss the boys’ golf excursions, Noah’s experience playing D1 basketball at Princeton, turning down beautiful Swiss women when he played overseas, juicing his basketball highlight reels with artfully edited missed shots, the gay humor divide between Black and white players in the locker room, Princeton townies turned cops, and much more. Noah, JP and Stav help callers including a guy who’s offended that his old buddies never told him that their old friend turned out to be a murderer and died himself, and a caller with a searing question about threesome etiquette.\nFollow Noah Savage on social media:\nhttps://noahsavage.com/\nhttps://www.youtube.com/@NoahSavageYoutube\nhttps://www.instagram.com/noahsavagecomic/\nFollow JP McDade on social media:\nhttps://twitter.com/jp_mcdade\nhttps://www.instagram.com/mcdadebaby\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Stav's new special Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n🎟️ See Stavvy live!! 🛥️💕!!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-          "publishedAt": "2026-09-24T10:00:00.000Z",
-          "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/98095a93-8d60-4e60-8ffc-bd7042ef1589/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=98095a93-8d60-4e60-8ffc-bd7042ef1589&feed=Fa0PP4fl",
-          "duration": "00:07:39",
           "link": "https://siriusxm.com"
         }
       ]
