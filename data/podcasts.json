@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T20:19:52.002Z",
+  "updatedAt": "2026-11-03T17:48:44.327Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -9,6 +9,15 @@
       "link": "https://www.patreon.com/chapotraphouse",
       "rss": "https://feeds.soundcloud.com/users/soundcloud:users:211911700/sounds.rss",
       "episodes": [
+        {
+          "id": "22d6de18c144eb68",
+          "title": "1085 - Turkish Delight feat. Katherine Krueger (11/2/26)",
+          "description": "On midterms eve, Will, Felix, and Katherine give us an emergency update on the developing November Surprise in Michigan, where one truly strange-looking man has thrown a pivotal senate race—and the Democratic Party’s plans to hold the Zionist center—into complete chaos. We analyse the Stevens-Turkish affair, the weird church where she and Mike Rogers put a certain country over party, and also some extra bits on Ethan Klein and Anakin Skywalker.\n\nPitch Katherine pieces for The Intercept at katherine.krueger@theintercept.com \n\nTickets still available for these Chunks screenings across the country:\n\nNEW: 11/23 Portland, OR, Q&A with Amber & Nate\nhttps://cstpdx.com/event/chapo-trap-house-presents-chunks/ \n\n11/9 - San Francisco CA, Q&A with Amber Frost and Nate Fisher\nhttps://drafthouse.com/sf/event/live-q-a-chunks\n\n\n11/12 - Denver CO, Q&A with Amber, Chris & Nate\nhttps://drafthouse.com/denver/event/live-q-a-chunks",
+          "publishedAt": "2026-11-03T04:16:58.000Z",
+          "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2431243104-chapo-trap-house-1085-turkish-delight-feat.mp3",
+          "duration": "01:22:04",
+          "link": "https://soundcloud.com/chapo-trap-house/1085-turkish-delight-feat"
+        },
         {
           "id": "10432313161867c2",
           "title": "1083 - Voteball Internacional feat. Ryan Grim (10/26/26)",
@@ -89,15 +98,6 @@
           "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2400817494-chapo-trap-house-1071-ballroom-blitz-feat-jacob.mp3",
           "duration": "01:09:02",
           "link": "https://soundcloud.com/chapo-trap-house/1071-ballroom-blitz-feat-jacob"
-        },
-        {
-          "id": "712a9d529bec0568",
-          "title": "1069 - Vetterman’s Day (9/8/26)",
-          "description": "This week on Chapo, Will and Felix go long on two reading series. First, we have a piece in the Jerusalem Post with a plan to finally win the war in Iran by drafting American debt slaves. Second, we have another John Fetterman exposé in the Wall Street Journal showing just how lazy, oafish, and entitled the man is, including him ghosting children's hospitals and complaining about police funerals.",
-          "publishedAt": "2026-09-09T01:06:53.000Z",
-          "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2397067902-chapo-trap-house-1069-vettermans-day-9-8-26.mp3",
-          "duration": "01:32:45",
-          "link": "https://soundcloud.com/chapo-trap-house/1069-vettermans-day-9-8-26"
         }
       ]
     },
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "fa79a721da8db862",
+          "title": "Election Rumors and Conspiracism",
+          "description": "Kevin speaks with Stephen Prochaska and Danielle Lee Tomson of the University of Washington’s Center for an Informed Public about election rumors and how to sort through claims of rigged elections. \n Sources: \n  \nhttps://www.theguardian.com/us-news/2026/oct/26/trump-reward-reporting-voter-fraud\n https://www.seattletimes.com/opinion/harassment-public-records-requests-bombard-uw-truth-seeker-after-jan-6-hearings-cameo/\n https://uwcip.substack.com/p/election-rumor-rundown-october-24\n https://www.reuters.com/legal/government/minnesota-charges-conservative-activist-okeefe-influencer-higby-after-voting-2026-10-29/\n \nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-11-03T05:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/0744ca53-72c5-4ad8-a675-b4f70019ee20/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "1820",
+          "link": "https://omny.fm/shows/it-could-happen-here/election-rumors-and-conspiracism"
+        },
+        {
           "id": "ee321175db22fc8c",
           "title": "Natural Causes Guide To Staying Warm This Winter",
           "description": "James is joined by Molly Conger to talk about what to wear this winter to stay warm in the outdoors, and to discuss how the outdoor media talks about equipment and the issues with that model. Here are some of the things James mentioned in the episode, all with non affiliate links!\n https://armsofandes.com/\nhttps://darntough.com/ \nhttps://www.sitkagear.com/collection/equinox-guard-collection \nhttps://www.royalrobbins.com/us/en-us/men/featured/mosquito-protection-technology/ \nhttps://nuyarn.com/ \nhttps://www.polartec.com/fabrics/insulation/alpha \nhttps://www.primaloft.com/insulation-products/active-series/active-evolve \nhttps://pertex.com/fabrics-technologies/quantum-air \nhttps://kahtoola.com/gaiters/navagaiter-gtx/ \nhttps://auclairgloves.us/products/hybrid-xc-2-finger-mitts-adult-new-fall-2023 \nhttps://skida.com/products/limoncello-alpine-hat \nSee omnystudio.com/listener for privacy information.",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f2b95a3b-24fb-446d-bf98-b49f00dc3cc3/1fec1ed2-e6e6-401c-891e-b4ec01408528/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "1461",
           "link": "https://omny.fm/shows/natural-causes/2026-10-23-nc-e11-lochiel-2-final"
-        },
-        {
-          "id": "1ebc662d5db4c74b",
-          "title": "Israeli Elections and the Palestinians",
-          "description": "In this episode Dana El Kurd talks through what the Israeli elections mean for Palestinians across the territories and within Israel. She goes over the latest reports on how the election might play out, and recent events that have affected campaigning in Israel. \n Sources:\n  \nIsrael's Elections: What's at Stake?, International Crisis Group (Max Rodenbeck, Mairav Zonszein, Amjad Iraqi), 15 October 2026\n A Jewish Currents Guide to the Israeli Elections, Josh Nathan-Kazis, Jewish Currents, 20 October 2026\n Occupied Thoughts interview with Sami Abu Shehadeh https://fmep.org/resource/barred-from-knesset-elections-sami-abu-shehadeh-on-the-state-of-israeli-democracy/\n Prospect magazine op-ed on the settlers and the state - https://www.prospectmagazine.co.uk/world/middle-east/75279/settler-rioters-are-israeli-state-policythrough-deniable-means\n \nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-10-26T04:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/981b7abf-b951-4b43-bc96-b4ec016f0dad/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "1151",
-          "link": "https://omny.fm/shows/it-could-happen-here/israeli-elections-and-the-palestinians"
         }
       ]
     },
@@ -309,6 +309,15 @@
       "link": "http://maintenancephase.com",
       "rss": "https://rss.buzzsprout.com/1411126.rss",
       "episodes": [
+        {
+          "id": "36bc25ba20eee2ad",
+          "title": "Suzanne Somers Part 1",
+          "description": "In the 1990s, sitcom star Suzanne Somers introduced Americans to one of the bestselling pieces of exercise equipment of all time: The ThighMaster. On this episode, we explore her harrowing early years. Chat, where are we at on punching nuns?\nWatch Your Fat Friend on YouTube, Apple TV, Prime Video and Kinema\nSupport us:\n\nHear bonus episodes on Patreon\nWatch Aubrey's documentary\nBuy Aubrey's book\nListen to Mike's other podcast\nGet Maintenance Phase T-shirts, stickers and more\n\n\nLinks!\n\nSuzanne Somers Fought Back Against Her Abusive Father—and Changed Her Life Forever \nKristen Wiig reads Suzanne Somers' poetry \nTV GAMBLE: HIGH SALARIES VS. LOW RATINGS\nAfter the Fall by Suzanne Somers \nKeeping Secrets by Suzanne Somers \nTouch Me: The Poems of Suzanne Somers\n\nThanks to Doctor Dreamchip for our lovely theme song!\nSupport the show",
+          "publishedAt": "2026-11-03T10:00:00.000Z",
+          "audio": "https://www.buzzsprout.com/1411126/episodes/20062356-suzanne-somers-part-1.mp3",
+          "duration": "3088",
+          "link": ""
+        },
         {
           "id": "7ea86d46b85164ca",
           "title": "RFK Jr.'s Buckwild Belief That HIV Doesn't Cause AIDS",
@@ -389,15 +398,6 @@
           "audio": "https://www.buzzsprout.com/1411126/episodes/17900282-the-food-babe.mp3",
           "duration": "3178",
           "link": ""
-        },
-        {
-          "id": "164bfa726eb7c278",
-          "title": "Seed Oils",
-          "description": "Why are you, as a man, afraid of sunflowers.\nSupport us:\n\nHear bonus episodes on Patreon\nWatch Aubrey's documentary\nBuy Aubrey's book\nListen to Mike's other podcast\nGet Maintenance Phase T-shirts, stickers and more\n\nLinks!\n\nThe O6-O3 ratio: A critical appraisal\nSeed Oils: Are They Actually Toxic?\nNo need to avoid healthy omega-6 fats\nOmega-6 Fatty Acids and Risk for Cardiovascular Disease\nDo Seed Oils Make You Sick?\nSeed oils: Are they healthy or harmful?\nToxGuide: Hexane\nDietary linoleic acid intake and blood inflammatory markers\nEffect of dietary alpha-linolenic acid on blood inflammatory markers\nChanges in consumption of omega-3 and omega-6 fatty acids\nThe Skinny on Fats\nDietary oleic acid drives obesogenic adipogenesis\nHow Seed Oils May Be Affecting Your Body Fat and Health\nStanford nutrition expert breaks down effects of seed oils\nThe Newest Bitcoin Diet Trend Is Hating ‘Seed Oils’\nOmega-6 Fatty Acids and Coronary Artery Disease\nThe Great Con-ola\n\nThanks to Doctor Dreamchip for our lovely theme song!\nSupport the show",
-          "publishedAt": "2025-08-26T09:00:00.000Z",
-          "audio": "https://www.buzzsprout.com/1411126/episodes/17731905-seed-oils.mp3",
-          "duration": "4724",
-          "link": ""
         }
       ]
     },
@@ -409,6 +409,15 @@
       "link": "http://www.savagelovecast.com",
       "rss": "https://feeds.megaphone.fm/SLT6250292033",
       "episodes": [
+        {
+          "id": "51ade3a075a2af85",
+          "title": "Savage Love Episode 1043",
+          "description": "Oh my god you guys it’s the quickies show!You called. Asked fast. Dan kept answers shorter than usual.\n\nEnjoy.\n\n\n\n\n\nPhew! Now you can long-winded again. \n\nCall or text 206-302-2064\n\nEmail: Q@Savage.Love with your recorded question. \n\nOr click ⁠here⁠. \n\nTake your time.\n\n\n\n This episode is brought to you by Helix Sleep. Right now, Helix is offering 27% off site wide exclusively for Lovecast listeners. Go to ⁠HelixSleep.com/Savage⁠. With Helix, better sleep starts now. \n\nThis episode is brought to you by Squarespace. They make it easy to build a website or blog. Give it a whirl at ⁠Squarespace.com/Savage⁠ and if you want to buy it, use the code Savage for a 10% off your first purchase.",
+          "publishedAt": "2026-11-03T12:00:00.000Z",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT6029293626.mp3",
+          "duration": "2942",
+          "link": ""
+        },
         {
           "id": "675d7fa48fd17c2e",
           "title": "After Action Report #53",
@@ -488,15 +497,6 @@
           "publishedAt": "2026-10-02T11:00:00.000Z",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT3648894357.mp3",
           "duration": "1238",
-          "link": ""
-        },
-        {
-          "id": "7bdb308296d1ce11",
-          "title": "Savage Love Episode 1038",
-          "description": "We begin the show...drunkenly. A lit lady enjoys the sensation of touching ears. Room temperature, or slightly chilled. Not too cold. But \"ear porn?\" Is that a thing? \n\nA lucky fella won a three-month free entry to his local bathhouse. Whatever should he do when he's in there?\n\nOur guest this week is Allen Sulkin, creator of the new podcast \"Gerbil.\" He and Dan analyze the persistence of the insane sex myth that you've probably heard about. Do people still believe it? They go into the dark motivations that allowed such a preposterous rumor to live on and on. Gerbil is out now, and you should drop everything to listen to it. \n\nAnd, should a woman demand her fiancé continue the painful, expensive tattoo removal from a previous marriage? \n\n\n\n\n\nPeople. Make good choices. \n\nCall or text your questions to: 206-302-2064\n\nOr send to Q@Savage.Love\n\n\n\nThis episode is brought to you by the Toler Financial Group. For money advice that thinks outside the closet, schedule a judgement free consultation with the team at Toler Financial Group today at ⁠tolerfinancialgroup.com/savage⁠\n\nThis episode is brought to you by Forkful – Seed oil free, chef cooked meals, delivered to your door. Go to ⁠ForkfulMeals.com/Savage⁠ and use code SAVAGE to get 50% OFF your first order.\n\nToday’s show is sponsored by AseeksB: free, text-first app for personal ads. Kink and ENM friendly, no swiping. Search what other people are looking for, or post what you seek and choose who sees it. ⁠aseeksb.com/savage.⁠",
-          "publishedAt": "2026-09-29T11:00:00.000Z",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT4882127730.mp3",
-          "duration": "3516",
           "link": ""
         }
       ]
