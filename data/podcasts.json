@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T17:48:44.327Z",
+  "updatedAt": "2026-11-04T17:58:17.671Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "e354a5539973d0aa",
+          "title": "Catching up with the status of Kurdish groups in Iran ",
+          "description": "James is joined by Wladimir Van Willgenberg to discuss the situation for Kurds in Iran after nearly nine months of the USA’s bombing of Iran.\n Links:\n https://x.com/vvanwilgenburg\nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-11-04T05:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/24d7746d-4253-44b8-9e7a-b4f7016f0b1b/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "2220",
+          "link": "https://omny.fm/shows/it-could-happen-here/catching-up-with-the-status-of-kurdish-groups-in-iran"
+        },
+        {
           "id": "fa79a721da8db862",
           "title": "Election Rumors and Conspiracism",
           "description": "Kevin speaks with Stephen Prochaska and Danielle Lee Tomson of the University of Washington’s Center for an Informed Public about election rumors and how to sort through claims of rigged elections. \n Sources: \n  \nhttps://www.theguardian.com/us-news/2026/oct/26/trump-reward-reporting-voter-fraud\n https://www.seattletimes.com/opinion/harassment-public-records-requests-bombard-uw-truth-seeker-after-jan-6-hearings-cameo/\n https://uwcip.substack.com/p/election-rumor-rundown-october-24\n https://www.reuters.com/legal/government/minnesota-charges-conservative-activist-okeefe-influencer-higby-after-voting-2026-10-29/\n \nSee omnystudio.com/listener for privacy information.",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/2f983a1d-bd5a-4592-ba0a-b4f0002f60b2/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "3010",
           "link": "https://omny.fm/shows/it-could-happen-here/2026-elections-the-union-ones"
-        },
-        {
-          "id": "55e1ac839c0c82a0",
-          "title": "Lochiel Part 2: The End of the Tree Sit",
-          "description": "In the second of a two part series James looks at the federal government's response to the Lochiel land defence and where people who care about the land can go from here.\n  https://www.fs.usda.gov/r03/coronado/alerts/border-barrier-construction-closure  \nhttps://hoyle.house.gov/media/press-releases/lawmakers-demand-transparency-after-us-forest-service-coordinates-with-ice-on-public-lands  \nhttps://www.king5.com/article/news/local/labor-day-weekend-family-camping-trip-ends-in-ice-raid/281-fdb42198-76df-4922-ae38-d2e3faf58ca4\n https://cochiseregionalnews.substack.com/p/hathway-on-lochiel-only-violent-physical  \nhttps://azsheriffs.org/newsroom/santa-cruz-county-public-safety-open-letter/  \nhttps://www.congress.gov/crs_external_products/R/PDF/R46601/R46601.2.pdf \nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-10-26T12:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f2b95a3b-24fb-446d-bf98-b49f00dc3cc3/1fec1ed2-e6e6-401c-891e-b4ec01408528/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "1461",
-          "link": "https://omny.fm/shows/natural-causes/2026-10-23-nc-e11-lochiel-2-final"
         }
       ]
     },
