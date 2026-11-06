@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T17:59:02.509Z",
+  "updatedAt": "2026-11-06T17:27:52.198Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "4e03ec5d231b2c37",
+          "title": "Executive Disorder: GOP Blame Game, Trump/Epstein Report, Paraguay Ousts President",
+          "description": "The gang discuss Republican’s reactions to the election blowout, DSA’s midterm wins, how Democrats can go after the Trump admin while delivering on economic issues, economic collapse protests in Paraguay, and a one million worker wildcat strike in Bangladesh. \n\nSources:\n  \nhttps://www.cityandstateny.com/politics/2026/10/how-mamdani-canceled-cop-city/416903/ \n https://www.nytimes.com/2026/11/04/nyregion/pied-a-terre-mamdani-appeal-win-home-tax.html?smid=url-share\n https://apnews.com/article/port-strikes-arms-shipments-france-greece-italy-4a8813406fd51b91b3b7d17826c1883d\n\n https://x.com/vvanwilgenburg/status/2117641211909730538?a=ri24O90ueHp7eYgCoDc&s=20\n https://x.com/war_noir/status/2117581845755773246?a=P0quWPGQ6wjaX70NPOQ&s=20\n https://www.supremecourt.gov/DocketPDF/26/26A624/431463/20261102111302952_California%20Application.pdf \n https://www.scotusblog.com/cases/united-states-v-california-2/ \n https://2026.electoral.dsausa.org/ \n\n https://www.nbcnews.com/politics/2026-elections/senate-results \n\n https://www.wsj.com/politics/policy/how-trump-lost-midterms-33cf9fd4?st=EQm4gx\n https://x.com/justinbaragona/status/2117780696626257981?a=Q68Ma2bBhMU2LKxTVkk&s=20\n\n https://x.com/JDVance/status/2118004988433641835\n\n https://x.com/kaitlancollins/status/2117614591060721973?a=A5arnEBUOHurQE3jSg8&s=20\n https://x.com/atrupar/status/2117612993139585093?a=dprbLi0Afsej7Jh14ko&s=20\n https://www.politico.com/news/2026/11/04/desantis-calls-midterm-bloodbath-an-extinction-level-event-for-republicans-01148705\n https://x.com/politico/status/2117840712855113793?a=5vZ3flWUbvcJyTvleyU&s=2\n https://www.politico.com/live-updates/2026/11/05/congress/bernie-sanders-launches-medicare-for-all-push-01151604\n https://x.com/atrupar/status/2117887743443505646?a=tif1VPo4NuwejhijsNY&s=20\n https://thehill.com/homenews/house/6199505-house-investigations-trump-administration/\n https://x.com/atrupar/status/2118335426968616973?a=tRXmF86Rp3SEkpIuB_E&s=20\n https://www.politico.com/news/2026/10/15/paolo-zampolli-fired-state-department-trump-01121739\n https://www.msn.com/en-us/news/politics/house-democrats-call-for-special-counsel-to-investigate-trump-s-ties-to-epstein/ar-AA2g6UnX\n https://democrats-judiciary.house.gov/media-center/press-releases/judiciary-democrats-report-details-mounting-evidence-linking-trump-to-epstein-s-criminal-activities-and-doj-s-cover-up-specific-accounts-involving-11-women-provide-more-evidence-of-potential-sex-crimes\n https://www.tbsnews.net/bangladesh/318-garment-factories-closed-amid-labour-unrest-over-7-lakh-workers-leave-workplaces \n https://www.nbcdfw.com/news/national-international/paraguay-president-santiago-pena-resigns-following-bank-collapse/4102079/\n \nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-11-06T05:59:06.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/206c6ba3-d4ce-4d14-ba9d-b4fa0060579d/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "4934",
+          "link": "https://omny.fm/shows/it-could-happen-here/executive-disorder-gop-blame-game-trump-epstein-report-paraguay-ousts-president"
+        },
+        {
           "id": "ac1d19859b32099d",
           "title": "Executive Disorder: 2026 Midterms Edition ",
           "description": "Robert, James, and Garrison are joined by Steven Monacelli and Kevin Foster to discuss the BLUE TSUNAMI with Democrats flipping at least 7 Senate seats and gaining an 80+ House majority. \nSee omnystudio.com/listener for privacy information.",
@@ -220,7 +229,7 @@
         },
         {
           "id": "e354a5539973d0aa",
-          "title": "Catching up with the status of Kurdish groups in Iran ",
+          "title": "Catching up with the Status of Kurdish Groups in Iran ",
           "description": "James is joined by Wladimir Van Willgenberg to discuss the situation for Kurds in Iran after nearly nine months of the USA’s bombing of Iran.\n Links:\n https://x.com/vvanwilgenburg\nSee omnystudio.com/listener for privacy information.",
           "publishedAt": "2026-11-04T05:00:00.000Z",
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/24d7746d-4253-44b8-9e7a-b4f7016f0b1b/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/878ab792-33c6-4867-8f1a-b4f1013aac65/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "1312",
           "link": "https://omny.fm/shows/it-could-happen-here/kim-kellys-morbid-labor-tales"
-        },
-        {
-          "id": "d2828fd6162c64b4",
-          "title": "¡El Chupacabras!",
-          "description": "Carlos hunts down the origin of the chupacabra, then explains how U.S. imperialism and\nPuerto Rico’s many crises gave rise to the bloodsucker.\n \nFollow Carlos @vaquero2XL\n \nSources:\n  \nTracking the Chupacabra: The Vampire Beast in Fact, Fiction and Folklore by Benjamin\nRadford\n Governing Spirits: Religion, Miracles, and Spectacle in Cuba and Puerto Rico,\n1898-1956 by Reinaldo L. Román\n En Qué Quedó Ep. 6 “El Chupacabras”\nhttps://open.spotify.com/episode/2r9ISXwgY7zTpWj2EJWcF1\n Radio Ambulante “El vampiro entre nosotros”\nhttps://open.spotify.com/episode/0hvdSD4aXHwoOWoMYAdN9x\n Sucking Vulnerability: Neoliberalism, the Chupacabras, and the Post-Cold War Years by\nWilliam A Calvo-Quirós\n https://web.archive.org/web/20230814111741/http://www.barriology.com/uploads/2/3/2/7/\n23276452/calvo-quiros_sucking_vulnerability_rev.pdf\n El Chupacabra: Icon of Resistance to US Imperialism\n Species (1995) dir. Roger Donaldson https://www.youtube.com/watch?v=8MGZnLsPSRc\n La Operación (1982) dir. Ana María García https://www.youtube.com/watch?v=uoJoWMbRxvM&t=36s\n La Operación -Background https://www.youtube.com/watch?v=r6XEuu_auR8&t=8s\n https://www.elnuevodia.com/noticias/locales/notas/se-registran-dos-ataques-del-chupac\nabras/\n https://www.theguardian.com/world/2023/apr/30/vieques-puerto-rico-us-navy-base-traini\nng\n https://www.navfac.navy.mil/Portals/68/Documents/Business-Lines/Environmental/Enviro\nnmental-Restoration/NAVFAC-Atlantic/Vieques/Vieques_Fact_Sheet_03_Depleted_Uran\nium_in_LIA_Eng.pdf\n https://www.fs.usda.gov/r08/elyunque/recreation/discover-history/us-military-and-el-yunq\nue-national-forest\n https://www.documentcloud.org/documents/24816374-the-history-of-the-us-department-\nof-defense-programs-for-the-testing-evaluation-and-storage-of-tactical-herbicides-agent-\norange-in-pr/?q=puerto+rico&mode=document#document/p5\n https://www.elvocero.com/actualidad/otros/las-grandes-sequ-as-que-marcaron-a-puerto-\nrico-durante-el-siglo-xx/article_e6a37bce-5269-4040-836d-799a04358fc2.html\n https://www.washingtonpost.com/archive/politics/1995/12/26/mystery-creature-ravages-p\nuerto-rican-livestock/b7704250-dae0-4fa3-a886-561db637b463/\n https://www.latimes.com/archives/la-xpm-1995-12-03-mn-9730-story.html\n “Monsters and Messiahs by Mike Davis”\n  “Beast of Borikén\" by Julio Anta, Daniel IriZarri, Patricio Delpeche, and Lucas Gattoni\n \nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-10-28T04:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/099b6ae0-9e76-4ad6-92e6-b4f1001addd5/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "2026",
-          "link": "https://omny.fm/shows/it-could-happen-here/el-chupacabras"
         }
       ]
     },
@@ -410,6 +410,15 @@
       "rss": "https://feeds.megaphone.fm/SLT6250292033",
       "episodes": [
         {
+          "id": "437c03d2f0a231b5",
+          "title": "After Action Report #54",
+          "description": "Meet Mark, a married man in his 60s who, with his husband, took part in a horse market. They encountered mares, stallions, handlers, and stable masters.If you’re wondering if you accidentally pressed play on “The Equestrian Podcast,” you super-didn’t.\n\n\n\nDo you have a *tail* of sexual adventure? What the hay?Write it up and send it in to Q@Savage.Love\n\n\n\nThis episode is brought to you by Dipsea: an app full of hundreds of short, sexy audio stories designed by women for women. Get an extended 30 day free trial plus 25% off an annual subscription when you go to dipseastories.com/savage.",
+          "publishedAt": "2026-11-06T12:00:00.000Z",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT2624103611.mp3",
+          "duration": "1033",
+          "link": ""
+        },
+        {
           "id": "51ade3a075a2af85",
           "title": "Savage Love Episode 1043",
           "description": "Oh my god you guys it’s the quickies show!You called. Asked fast. Dan kept answers shorter than usual.\n\nEnjoy.\n\n\n\n\n\nPhew! Now you can long-winded again. \n\nCall or text 206-302-2064\n\nEmail: Q@Savage.Love with your recorded question. \n\nOr click ⁠here⁠. \n\nTake your time.\n\n\n\n This episode is brought to you by Helix Sleep. Right now, Helix is offering 27% off site wide exclusively for Lovecast listeners. Go to ⁠HelixSleep.com/Savage⁠. With Helix, better sleep starts now. \n\nThis episode is brought to you by Squarespace. They make it easy to build a website or blog. Give it a whirl at ⁠Squarespace.com/Savage⁠ and if you want to buy it, use the code Savage for a 10% off your first purchase.",
@@ -488,15 +497,6 @@
           "publishedAt": "2026-10-06T11:00:00.000Z",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT2660248010.mp3",
           "duration": "3560",
-          "link": ""
-        },
-        {
-          "id": "f2bdcbbdeeb6bc49",
-          "title": "After Action Report #49",
-          "description": "What's in the duffel bag? \n\n\n\nOn her vacation to Bali, she hooked up with a hot, rich dude with a glass house in the jungle. \n\nBut, what tricks did he have up his sleeve? \n\n\n\nAfter a bad experience at home, Julia had a re-discovery of her best sexual self. \n\n\n\n\n\nHave a listen. \n\n\n\nAnd then send us your story! \n\nQ@Savage.Love\n\n\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit VB.Health when you use the code Savage.",
-          "publishedAt": "2026-10-02T11:00:00.000Z",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT3648894357.mp3",
-          "duration": "1238",
           "link": ""
         }
       ]
