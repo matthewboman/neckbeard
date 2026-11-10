@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T20:40:51.252Z",
+  "updatedAt": "2026-11-10T17:45:36.030Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -9,6 +9,15 @@
       "link": "https://www.patreon.com/chapotraphouse",
       "rss": "https://feeds.soundcloud.com/users/soundcloud:users:211911700/sounds.rss",
       "episodes": [
+        {
+          "id": "d1dc43e602bf894c",
+          "title": "1087 - Ten Years in the Zone feat. David J. Roth, Stavros Halkias, and Lex Walton (11/9/26)",
+          "description": "Ten years after Trump’s shock victory, Chapo Trap House reunites in New York at the Society for Ethical Culture to take stock of what might be the end of the Trump era. We’re joined by David J. Roth to talk about the good and the bad of Tuesday’s results before answering some extremely depressing advice columns from The Free Press with Stavros Halkias. Plus: another poem from Matt Christman, and two songs by Lex Walton.\n\nTO CELEBRATE 10 Years in the Zone, we have a bunch of merch back up on our shop. 10 Years in the Zone Tees and Hoodies, a special commemorative CHALLENGE COIN, some reissues of classics, check it out: https://chapotraphouse.store/collections/all",
+          "publishedAt": "2026-11-10T03:00:10.000Z",
+          "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2435246505-chapo-trap-house-1087-ten-years-in-the-zone.mp3",
+          "duration": "02:02:47",
+          "link": "https://soundcloud.com/chapo-trap-house/1087-ten-years-in-the-zone"
+        },
         {
           "id": "22d6de18c144eb68",
           "title": "1085 - Turkish Delight feat. Katherine Krueger (11/2/26)",
@@ -89,15 +98,6 @@
           "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2405199693-chapo-trap-house-1073-unsafe-illegal-and-common.mp3",
           "duration": "01:14:08",
           "link": "https://soundcloud.com/chapo-trap-house/1073-unsafe-illegal-and-common"
-        },
-        {
-          "id": "8e38b5a2eb0169d5",
-          "title": "1071 - Ballroom Blitz feat. Jacob Bacharach (9/14/26)",
-          "description": "Chapo vet Jacob Bacharach is back to talk about the apocalyptic rhetoric coming from AI companies. Are the threats of an imminent disaster real, or is it just desperate panhandling? We then turn to the big New York Magazine piece on Trump’s ballroom project and analyze his strangest bit for immortality yet.\n\nCheck out Jacob’s work at The New Republic: https://newrepublic.com/authors/jacob-bacharach \n\nAnd join us on Fri, Oct 16 at the ErF Gallery for a live screening of Chunks followed by a live talkback featuring Will, Hesse & Podcast About List, tickets here: https://www.erf.nyc/events/chapo-trap-house-screening",
-          "publishedAt": "2026-09-15T03:55:35.000Z",
-          "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2400817494-chapo-trap-house-1071-ballroom-blitz-feat-jacob.mp3",
-          "duration": "01:09:02",
-          "link": "https://soundcloud.com/chapo-trap-house/1071-ballroom-blitz-feat-jacob"
         }
       ]
     },
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "ffa5e83ca69679c2",
+          "title": "Do Not Become Addicted to Water: Asheville After Helene",
+          "description": "Mia talks with David Forbes of the Ashville Blade about how Asheville's government has used Helene to exploit its people and push neoliberal economics.\n Sources:\n https://ashevilleblade.com/?p=5399\n\nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-11-10T05:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/41f10263-84db-43aa-b6d2-b4fe001b30c9/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "3304",
+          "link": "https://omny.fm/shows/it-could-happen-here/do-not-become-addicted-to-water-asheville-after-helene"
+        },
+        {
           "id": "1e265be8094a99a4",
           "title": "AI and the Outdoors",
           "description": "James talks with Dane Brinkley about Mount Shasta, why it's not a good idea to outsource your planning to the internet, and why we go to the mountains ​.\n https://www.facebook.com/SiskiyouCountySheriff/posts/pfbid09S8teHAogsxqUS66ManmS8kqBRkTzJtqhBPfL4vH6sKUktKHqsN99Sb7WQ1z5RA6l  \nhttps://krcrtv.com/news/local/three-mount-shasta-climbers-rescued-after-relying-on-ai-to-plan-climb  \nhttps://www.shastaavalanche.org/climbing-advisory  \nhttps://www.nsnews.com/local-news/solo-teen-hiker-hoisted-from-mountain-cliff-after-using-ai-to-plan-route-north-shore-rescue-says-12855671  \nhttps://www.backpacker.com/news-and-events/two-hikers-rescued-one-hiker-missing-and-a-rescuer-dead-in-separate-incidents-on-mt-baldy/  \nhttps://www.casavalpt.com/  \n\nSee omnystudio.com/listener for privacy information.",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f2b95a3b-24fb-446d-bf98-b49f00dc3cc3/6bd1a108-06ad-4b6d-a34c-b4f3012e33e3/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "3953",
           "link": "https://omny.fm/shows/natural-causes/natural-causes-guide-to-staying-warm-this-winter"
-        },
-        {
-          "id": "e2803b137c576cd6",
-          "title": "Hope & Dirty Tricks: How Lula Beat Flavio Bolsonaro",
-          "description": "Robert reads an essay by Brazilian activist and podcaster Caio Almendra, about Caio's personal experience helping rally 2 million voters to save Brazilian democracy.\nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-11-02T05:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/2d9e9691-b623-4513-b778-b4f60028dec1/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "1381",
-          "link": "https://omny.fm/shows/it-could-happen-here/hope-dirty-tricks-how-lula-beat-flavio-bolsonaro"
         }
       ]
     },
@@ -410,6 +410,15 @@
       "rss": "https://feeds.megaphone.fm/SLT6250292033",
       "episodes": [
         {
+          "id": "16c9d2a6af949afc",
+          "title": "Savage Love Episode 1044",
+          "description": "Dan? Is there ANY nipple play porn for straights? Like AT ALL?\n\nA woman is into sexting and trading nude pics. She does NOT enjoy oral- neither giving nor receiving. But the fellas like to sext about it. Should she dash their hopes of it ever happening in person?\n\nOn the Magnum, we welcome one of our favorite guests- Lina Dune of the Ask a Sub podcast! She and Dan do a deep dive into cuckolding. Dan maintains that threeways always involve some amount of the cuck dynamic. And can we dispense with the gendered term “cuckquean” (and its preposterous spelling?)\n\nAnd, hear the tale of the lonely stripper. She has little sexual experience, and has a hard time meeting men she would want to date, especially on the job. Is there a Grindr for straight women?\n\nThe Levin & Meston nipple play study is ⁠here⁠.\n\n\n\nGot a question? Hot sex advice columnists are standing by! \n\nCall or text: 206-302-2064\n\nEmail: Q@Savage.Love\n\nClick here, baby\n\nThis episode is brought to you by Mack Weldon: timeless, innovative menswear to help you move throughthe day with confidence. Get 20% off your first order of $125 or more, with promo code SAVAGE at ⁠MackWeldon.com⁠\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit ⁠VB.Health⁠ when you use the code Savage.\n\nThis episode is brought to you by Quince, high quality essential clothing, at radically low prices. Refresh your everyday with luxury you’ll actually use. Head to ⁠Quince.com/SAVAGE⁠ for free shipping on your order and 365-day returns.",
+          "publishedAt": "2026-11-10T12:00:00.000Z",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT4345830654.mp3",
+          "duration": "3125",
+          "link": ""
+        },
+        {
           "id": "437c03d2f0a231b5",
           "title": "After Action Report #54",
           "description": "Meet Mark, a married man in his 60s who, with his husband, took part in a horse market. They encountered mares, stallions, handlers, and stable masters.If you’re wondering if you accidentally pressed play on “The Equestrian Podcast,” you super-didn’t.\n\n\n\nDo you have a *tail* of sexual adventure? What the hay?Write it up and send it in to Q@Savage.Love\n\n\n\nThis episode is brought to you by Dipsea: an app full of hundreds of short, sexy audio stories designed by women for women. Get an extended 30 day free trial plus 25% off an annual subscription when you go to dipseastories.com/savage.",
@@ -488,15 +497,6 @@
           "publishedAt": "2026-10-09T11:00:00.000Z",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT5868029890.mp3",
           "duration": "970",
-          "link": ""
-        },
-        {
-          "id": "669f2f2c2f8a0e9a",
-          "title": "Savage Love Episode 1039",
-          "description": "A gay man in his 60s is perplexed about foot fetishes, and what is so damn sexy about his feet. \n\nA man is frustrated by the concept of \"false positives\" when he tests for herpes. What on earth is going on here? Dan brings on the delightful and calming Dr. Ina Park to explain the whole testing situation. \n\nOn the Magnum, it's a bisexuality brawl with sex therapist Claire Perelman! Dan and Claire talk about the bisexual's plight in dating, and how to overcome the stigma. \n\nAnd a gay man and his boyfriend are moving in together. The boyfriend owns his apartment and asks the caller to pitch in toward a vacation fund in lieu of paying rent. Is this equitable? \n\n\n\n\n\n\n\n\n\nYour question:\n\nCall or text to: 206-302-2064\n\nRecord and send to: Q@Savage.Love\n\n\n\nThis episode is brought to you by Squarespace. They make it easy to build a website or blog. Give it a whirl at ⁠Squarespace.com/Savage⁠ and if you want to buy it, use the code Savage for a 10% off your first purchase.\n\n This episode is brought to you by Helix Sleep. Right now, Helix is offering 27% off site wide exclusively for Lovecast listeners. Go to ⁠HelixSleep.com/Savage⁠. With Helix, better sleep starts now. \n\nThis episode is brought to you by Quince, high quality essential clothing, at radically low prices. Refresh your everyday with luxury you’ll actually use. Head to ⁠Quince.com/SAVAGE⁠ for free shipping on your order and 365-day returns.",
-          "publishedAt": "2026-10-06T11:00:00.000Z",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT2660248010.mp3",
-          "duration": "3560",
           "link": ""
         }
       ]
