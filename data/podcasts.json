@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T17:45:36.030Z",
+  "updatedAt": "2026-11-11T17:52:19.031Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -210,9 +210,27 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "44979a46ea83fd1e",
+          "title": "Press Freedom and the Paramount Merger",
+          "description": "Kevin Foster dives into the Paramount-Warner Bros. merger and the consequences for labor, press freedom, and history.\n  \n Sources:\n  \nhttps://www.reuters.com/sustainability/sustainable-finance-reporting/warner-bros-signs-110-billion-deal-with-paramount-its-executive-discloses-2026-02-27/\n https://www.skydance.com/news/press/paramount-completes-acquisition-of-warner-bros-discovery-creating-a-new-global-entertainment-leader-skydance\n https://www.pbs.org/newshour/nation/12-states-challenge-paramounts-takeover-of-warner-say-merger-would-extinguish-competition\n https://www.reuters.com/business/media-telecom/paramount-pledges-release-30-films-year-how-will-that-add-up-2026-09-23/\n https://fortune.com/2026/10/15/skydance-warner-media-consolidation-trust-gallup/\n https://www.politico.com/news/2026/09/18/paramount-bonta-in-talks-to-settle-antitrust-litigation-01085072\n https://variety.com/2026/tv/news/trump-praises-paramount-warner-bros-skydance-merger-terrific-people-1236903643/\n https://www.reuters.com/business/media-telecom/free-press-founder-bari-weiss-named-editor-cbs-news-after-deal-with-paramount-2025-10-06/\n https://www.pbs.org/newshour/show/new-cbs-news-chief-draws-backlash-by-pulling-60-minutes-story-on-el-salvador-prison\n https://www.nilc.org/resources/tracking-the-cecot-disappearances/\n https://www.hollywoodreporter.com/business/business-news/new-cnn-cbs-news-editorial-indepedence-board-who-what-why-1236707168/\n https://www.cnbc.com/2026/03/11/oracle-tiktok-us-stake-outages.html\n https://apnews.com/article/trump-tiktok-china-d5d8a1d56b5185778536874d7fc1ee62\n https://csmapnyu.org/impact/news/was-there-censorship-on-tiktok-after-the-u-s-takeover\n \nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-11-11T05:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/7f3a0de2-6c2b-4a63-9e72-b4ff001367c1/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "2398",
+          "link": "https://omny.fm/shows/it-could-happen-here/the-paramount-merger-and-the-consolidation-of-media"
+        },
+        {
+          "id": "5cabc0b57d4dc957",
+          "title": "Urgent: The Bipartisan Effort to Quietly Erode Environmental and Tribal Protections",
+          "description": "James is joined by Natali Geovia of the Water Protector Legal Collective to discuss the Bipartisan American Affordability and Jobs Act (BAAJA) and the tremendous damage it could do to protections for the land, Indigenous people, and public health.\n https://www.waterprotectorlegal.org/ \nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-11-11T01:10:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f2b95a3b-24fb-446d-bf98-b49f00dc3cc3/fd67a2d6-817b-4014-aa12-b4ff000febd8/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "914",
+          "link": "https://omny.fm/shows/natural-causes/urgent-the-bipartisan-effort-to-quietly-erode-environmental-and-tribal-protections"
+        },
+        {
           "id": "ffa5e83ca69679c2",
           "title": "Do Not Become Addicted to Water: Asheville After Helene",
-          "description": "Mia talks with David Forbes of the Ashville Blade about how Asheville's government has used Helene to exploit its people and push neoliberal economics.\n Sources:\n https://ashevilleblade.com/?p=5399\n\nSee omnystudio.com/listener for privacy information.",
+          "description": "Mia talks with David Forbes of the Asheville Blade about how Asheville's government has used Helene to exploit its people and push neoliberal economics.\n Sources:\n https://ashevilleblade.com/?p=5399\n\nSee omnystudio.com/listener for privacy information.",
           "publishedAt": "2026-11-10T05:00:00.000Z",
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/41f10263-84db-43aa-b6d2-b4fe001b30c9/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "3304",
@@ -280,24 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/24d7746d-4253-44b8-9e7a-b4f7016f0b1b/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "2220",
           "link": "https://omny.fm/shows/it-could-happen-here/catching-up-with-the-status-of-kurdish-groups-in-iran"
-        },
-        {
-          "id": "fa79a721da8db862",
-          "title": "Election Rumors and Conspiracism",
-          "description": "Kevin speaks with Stephen Prochaska and Danielle Lee Tomson of the University of Washington’s Center for an Informed Public about election rumors and how to sort through claims of rigged elections. \n Sources: \n  \nhttps://www.theguardian.com/us-news/2026/oct/26/trump-reward-reporting-voter-fraud\n https://www.seattletimes.com/opinion/harassment-public-records-requests-bombard-uw-truth-seeker-after-jan-6-hearings-cameo/\n https://uwcip.substack.com/p/election-rumor-rundown-october-24\n https://www.reuters.com/legal/government/minnesota-charges-conservative-activist-okeefe-influencer-higby-after-voting-2026-10-29/\n \nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-11-03T05:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/0744ca53-72c5-4ad8-a675-b4f70019ee20/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "1820",
-          "link": "https://omny.fm/shows/it-could-happen-here/election-rumors-and-conspiracism"
-        },
-        {
-          "id": "ee321175db22fc8c",
-          "title": "Natural Causes Guide To Staying Warm This Winter",
-          "description": "James is joined by Molly Conger to talk about what to wear this winter to stay warm in the outdoors, and to discuss how the outdoor media talks about equipment and the issues with that model. Here are some of the things James mentioned in the episode, all with non affiliate links!\n https://armsofandes.com/\nhttps://darntough.com/ \nhttps://www.sitkagear.com/collection/equinox-guard-collection \nhttps://www.royalrobbins.com/us/en-us/men/featured/mosquito-protection-technology/ \nhttps://nuyarn.com/ \nhttps://www.polartec.com/fabrics/insulation/alpha \nhttps://www.primaloft.com/insulation-products/active-series/active-evolve \nhttps://pertex.com/fabrics-technologies/quantum-air \nhttps://kahtoola.com/gaiters/navagaiter-gtx/ \nhttps://auclairgloves.us/products/hybrid-xc-2-finger-mitts-adult-new-fall-2023 \nhttps://skida.com/products/limoncello-alpine-hat \nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-11-02T10:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f2b95a3b-24fb-446d-bf98-b49f00dc3cc3/6bd1a108-06ad-4b6d-a34c-b4f3012e33e3/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "3953",
-          "link": "https://omny.fm/shows/natural-causes/natural-causes-guide-to-staying-warm-this-winter"
         }
       ]
     },
@@ -309,6 +309,15 @@
       "link": "http://maintenancephase.com",
       "rss": "https://rss.buzzsprout.com/1411126.rss",
       "episodes": [
+        {
+          "id": "8ca844e8c890e01e",
+          "title": "Suzanne Somers Part 2",
+          "description": "Suzanne drops her sitcom persona, picks up the ThighMaster and emerges as an early 2000's proto-Gwyneth.\nSupport us:\n\nHear bonus episodes on Patreon\nWatch Aubrey's documentary\nBuy Aubrey's book\nListen to Mike's other podcast\nGet Maintenance Phase T-shirts, stickers and more\n\n\nLinks!\n\nWhy We’re So Obsessed With ‘Mastering’ Our Thighs\nInventor of the ThighMaster Stays On the Ball\nSelf-Help Expert Gets Back Her Own\nSuzanne Somers, Cancer Expert\nSomers' new target: conventional cancer treatment \nA Battle Over 'Juice of Youth' \nSuzanne Somers Questions Newtown Shooter’s Diet\nThe Affordable Care Act Is a Socialist Ponzi Scheme\nWhat Suzanne Somers Said About Supporting Donald Trump \nSuzanne Somers Gets Flirty\nSuzanne Somers Is Dead at 76\n\n\nVideo clips:\n\nThighMaster ad \nButtMaster jingle \nAl Roker interview \n\nThanks to Doctor Dreamchip for our lovely theme song!\nSupport the show",
+          "publishedAt": "2026-11-11T10:00:00.000Z",
+          "audio": "https://www.buzzsprout.com/1411126/episodes/20105660-suzanne-somers-part-2.mp3",
+          "duration": "4621",
+          "link": ""
+        },
         {
           "id": "36bc25ba20eee2ad",
           "title": "Suzanne Somers Part 1",
@@ -388,15 +397,6 @@
           "publishedAt": "2025-11-13T10:00:00.000Z",
           "audio": "https://www.buzzsprout.com/1411126/episodes/18180572-raw-milk.mp3",
           "duration": "3943",
-          "link": ""
-        },
-        {
-          "id": "639f2d3ab85b6bf4",
-          "title": "The Food Babe",
-          "description": "One blogger bravely pushes back against Starbucks, Subway and basic scientific facts.\n\nSupport us:\n\nHear bonus episodes on Patreon\nWatch Aubrey's documentary\nBuy Aubrey's book\nListen to Mike's other podcast\nGet Maintenance Phase T-shirts, stickers and more\n\n\nLinks!\n\nTaking On the Food Industry, One Blog Post at a Time\nHow the ‘Food Babe’ Went From Obama Ally to Trump Crusader\nActivist or Capitalist? How the 'Food Babe' Makes Money\nLatest Food Scare: What Is The 'Yoga Mat' Chemical - And Why Is It In Your Food? \nAlmost 500 Foods Contain The 'Yoga Mat' Compound. Should We Care? \nAre You Eating This Ingredient Banned All Over the World?\nThe \"Food Babe\" Blogger is Full of Shit \nAre Microwaves Safe? \nGlobal Food Security Index 2022 \nDifferences between EU and US nutrition labels go far beyond ounces and grams\nIs Food Really Better in Europe?\nVani Hari: How She Grew Her Food Blog Into An Empire\nFood blogger asks Kraft to stop using dye in mac and cheese\nMeet the food blogger influencing RFK Jr.\nFood Babe blogger Vani Hari taking heat over health science \n\nThanks to Doctor Dreamchip for our lovely theme song!\nSupport the show",
-          "publishedAt": "2025-09-25T09:00:00.000Z",
-          "audio": "https://www.buzzsprout.com/1411126/episodes/17900282-the-food-babe.mp3",
-          "duration": "3178",
           "link": ""
         }
       ]
