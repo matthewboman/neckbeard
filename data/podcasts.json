@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T17:52:19.031Z",
+  "updatedAt": "2026-11-12T18:14:30.879Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "d0a4ba800d236508",
+          "title": "A Tale of Two Assassinations with Andrew",
+          "description": "Andrew and Garrison talk about the politics of assassination as a symbolic act from Luigi Mangione and United Healthcare to Gaetano Bresci and the king of Italy. \n  \n Sources:\n  \nhttps://abcnews.com/US/luigi-mangione-charged-murder\n https://www.washingtonpost.com/nation/2024/12/10/luigi-mangione-life-school-family-back/\n https://www.theguardian.com/us-news/2026/aug/14/luigi-mangione-guilty-plea-brian-thompson-killing\n America's Forgotten Terrorists: The Rise and Fall of the Galleanists by Jeffrey D. Simon\n Assassins against the Old Order: Italian Anarchist Violence in Fin de Siecle Europe by Nunzio Pernicone, Fraser Ottanelli\n The Anarchist Assassin and Italian History, 1870s to 1930s by Carl Levy\n The Monza Tragedy by Errico Malatesta - https://theanarchistlibrary.org/library/errico-malatesta-the-monza-tragedy\n \nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-11-12T05:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/5a4c0083-8370-4bb7-bff6-b4ff0153f184/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "2194",
+          "link": "https://omny.fm/shows/it-could-happen-here/a-tale-of-two-assassinations-with-andrew"
+        },
+        {
           "id": "44979a46ea83fd1e",
           "title": "Press Freedom and the Paramount Merger",
           "description": "Kevin Foster dives into the Paramount-Warner Bros. merger and the consequences for labor, press freedom, and history.\n  \n Sources:\n  \nhttps://www.reuters.com/sustainability/sustainable-finance-reporting/warner-bros-signs-110-billion-deal-with-paramount-its-executive-discloses-2026-02-27/\n https://www.skydance.com/news/press/paramount-completes-acquisition-of-warner-bros-discovery-creating-a-new-global-entertainment-leader-skydance\n https://www.pbs.org/newshour/nation/12-states-challenge-paramounts-takeover-of-warner-say-merger-would-extinguish-competition\n https://www.reuters.com/business/media-telecom/paramount-pledges-release-30-films-year-how-will-that-add-up-2026-09-23/\n https://fortune.com/2026/10/15/skydance-warner-media-consolidation-trust-gallup/\n https://www.politico.com/news/2026/09/18/paramount-bonta-in-talks-to-settle-antitrust-litigation-01085072\n https://variety.com/2026/tv/news/trump-praises-paramount-warner-bros-skydance-merger-terrific-people-1236903643/\n https://www.reuters.com/business/media-telecom/free-press-founder-bari-weiss-named-editor-cbs-news-after-deal-with-paramount-2025-10-06/\n https://www.pbs.org/newshour/show/new-cbs-news-chief-draws-backlash-by-pulling-60-minutes-story-on-el-salvador-prison\n https://www.nilc.org/resources/tracking-the-cecot-disappearances/\n https://www.hollywoodreporter.com/business/business-news/new-cnn-cbs-news-editorial-indepedence-board-who-what-why-1236707168/\n https://www.cnbc.com/2026/03/11/oracle-tiktok-us-stake-outages.html\n https://apnews.com/article/trump-tiktok-china-d5d8a1d56b5185778536874d7fc1ee62\n https://csmapnyu.org/impact/news/was-there-censorship-on-tiktok-after-the-u-s-takeover\n \nSee omnystudio.com/listener for privacy information.",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/a117144e-270f-4e6b-befb-b4f90065a5f6/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "4780",
           "link": "https://omny.fm/shows/it-could-happen-here/executive-disorder-2026-midterms-edition"
-        },
-        {
-          "id": "e354a5539973d0aa",
-          "title": "Catching up with the Status of Kurdish Groups in Iran ",
-          "description": "James is joined by Wladimir Van Willgenberg to discuss the situation for Kurds in Iran after nearly nine months of the USA’s bombing of Iran.\n Links:\n https://x.com/vvanwilgenburg\nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-11-04T05:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/24d7746d-4253-44b8-9e7a-b4f7016f0b1b/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "2220",
-          "link": "https://omny.fm/shows/it-could-happen-here/catching-up-with-the-status-of-kurdish-groups-in-iran"
         }
       ]
     },
@@ -510,6 +510,15 @@
       "rss": "https://feeds.simplecast.com/Fa0PP4fl",
       "episodes": [
         {
+          "id": "ec7a16b3a55906a7",
+          "title": "Bonus #206 - Max Wittert [PATREON PREVIEW]",
+          "description": "Patreon preview. Unlock full episode at https://www.patreon.com/stavvysworld\nMax Wittert joins the pod to discuss stealing mothers, The Giver, having a distant ancestor with a short Wikipedia page, types of gay guys vs. types of Pokemon, dads and veganism, pop divas, pants that unbutton into shorts, and much more. Max and Stav help callers including a woman who's wondering if she should drop her hobby of degrading a guy with a humiliation online now that she is in a relationship, and a social worker in a toxic situationship with a condescending venture capitalist.\nFollow Max Wittert:\nhttps://www.maxwittert.com/\nhttps://www.instagram.com/maxwittert\nhttps://x.com/waxmittert\nhttps://bsky.app/profile/waxmittert.bsky.social\nhttps://www.tiktok.com/@waxmittert  \n😏 Buy the Stavvy Baby 2027 calendar! https://shop.stavvy.biz/\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n🎟️ See Stavvy live!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+          "publishedAt": "2026-11-12T11:00:00.000Z",
+          "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/47b98b74-cbc5-422c-a29a-922fa27752e9/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=47b98b74-cbc5-422c-a29a-922fa27752e9&feed=Fa0PP4fl",
+          "duration": "00:12:02",
+          "link": "https://siriusxm.com"
+        },
+        {
           "id": "9c36256f1bd3f30f",
           "title": "#206 - Maury Povich",
           "description": "The great Maury Povich joins the pod to discuss his podcast On Par, Stav's dream of taking up the mantle of \"You are not the father,\" his marriage to Connie Chung, playing guitar to pick up girls in college, pledging for a frat, his long legendary career, nerding out over the history of comedy, and much more. Maury and Stav help callers including a woman who's wondering if she should tell her three dads that she knows who her biological father is, and a man who really doesn't want to pay money to see his sister-in-law's silk dancing class recital.\nCheck out Maury Povich's podcast On Par:\nApple: https://podcasts.apple.com/us/podcast/on-par-with-maury-povich/id1803175670\nSpotify: https://open.spotify.com/show/6Mnb1Ji4WvVIPdcQk43qyX\nhttps://www.youtube.com/@onparpod  \nhttps://www.instagram.com/onparpod\nhttps://www.tiktok.com/@onparpod  \nThanks to our sponsors!!\nChubbies: www.chubbiesshorts.com / code STAVVY\nVisible - https://www.visible.com/ SWITCH NOW!\n😏 Buy the Stavvy Baby 2027 calendar! https://shop.stavvy.biz/\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n🎟️ See Stavvy live!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
@@ -588,15 +597,6 @@
           "publishedAt": "2026-10-12T10:00:00.000Z",
           "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/427790c8-9cac-4192-8770-56495378aad1/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=427790c8-9cac-4192-8770-56495378aad1&feed=Fa0PP4fl",
           "duration": "02:01:02",
-          "link": "https://siriusxm.com"
-        },
-        {
-          "id": "b1b00a3d550994e6",
-          "title": "Bonus #201 - Live Call Show Vol. 45 [PATREON PREVIEW]",
-          "description": "Patreon preview. Unlock full episode at https://www.patreon.com/stavvysworld\nStav is back talking directly to the fans!! Stavvy and Eldy catch up on Eldis becoming a dad, Stav's travels promoting his special, and help beautiful callers on Discord including a woman who caught her husband's cousin committing adultery in her bed while dogsitting, a woman whose partner's relative attends the same poly parties as them, and a man whose friends/coworkers are salty that he hooked up with a girl they don't like.\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n🎟️ See Stavvy live!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-          "publishedAt": "2026-10-08T10:00:00.000Z",
-          "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/f9add367-d90f-433b-9559-1a45e3767a1d/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=f9add367-d90f-433b-9559-1a45e3767a1d&feed=Fa0PP4fl",
-          "duration": "00:22:19",
           "link": "https://siriusxm.com"
         }
       ]
