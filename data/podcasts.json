@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T17:03:21.838Z",
+  "updatedAt": "2026-11-16T20:24:16.298Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -210,6 +210,24 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "d526b177b6e4ca1f",
+          "title": "Why Can't We Buy Union Made Raincoats?",
+          "description": "James talks about the ethics of outdoor gear manufacturing and hears from Forgeline Fieldwear about the barriers to US made technical clothing.\n www.forgelinefieldwear.com\n https://www.fgwm-solidarity.org/news/\n https://www.goreclassaction.com/documents  \nhttps://apparelproductionny.com/services/full-production-packages/  \nhttps://www.themarshallproject.org/2026/07/09/prison-labor-america-photos  \nhttps://davidgraeber.org/articles/on-the-phenomenon-of-bullshit-jobs-a-work-rant/  \nhttps://sea.theanarchistlibrary.org/library/icl-cit-icl-delegation-meet-myanmar-comrades-in-thailand-id  \nhttps://www.iclcit.org/iii-icl-congress-from-italy-to-palestine-myanmar-or-brazil/  \nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-11-16T13:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f2b95a3b-24fb-446d-bf98-b49f00dc3cc3/96e37607-5f72-4166-80bd-b50200235f47/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "1617",
+          "link": "https://omny.fm/shows/natural-causes/why-cant-we-buy-union-made-raincoats"
+        },
+        {
+          "id": "1d8baa6b66556e2d",
+          "title": "The Myth of Red Texas with David Griscom ",
+          "description": "Garrison talks with David Griscom about the forgotten history of populism in Texas, from the Farmers Alliance and radical Christianity to the Socialist Party, and how the Democrats won by embracing this deep-rooted history of economic populism.\nGet David’s book ‘The Myth of Red Texas’ here: https://orbooks.com/catalog/the-myth-of-red-texas/ \nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-11-16T05:59:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/efea41b5-e6b0-4d52-9cda-b5030168fd63/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "2658",
+          "link": "https://omny.fm/shows/it-could-happen-here/the-myth-of-red-texas-with-david-griscom"
+        },
+        {
           "id": "ce8610fd5fbbc15b",
           "title": "CZM Book Club: \"Organizing Social Spaces as if Social Relations Matter,\" by Cindy Barukh Milstein (Part Two of Three)",
           "description": "Margaret continues reading you some non-fiction with advice for organizers\nSee omnystudio.com/listener for privacy information.",
@@ -280,24 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f2b95a3b-24fb-446d-bf98-b49f00dc3cc3/204311f0-f6ba-4711-9fbf-b4fa016619fb/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "1735",
           "link": "https://omny.fm/shows/natural-causes/2026-11-05-nc-e13-ai-shasta-fi"
-        },
-        {
-          "id": "265b35f3a67c4552",
-          "title": "Puerto Rico’s Water Crisis Isn’t Really Over",
-          "description": "Carlos breaks down Puerto Rico’s water crisis and how it seemingly ended but none of the underlying problems that caused it have been fixed.\n  \n Sources:\n  \nhttps://www.nbcnews.com/news/us-news/us-declares-drought-disaster-parts-puerto-rico-dry-conditions-persist-rcna594653 \n https://www.elnuevodia.com/noticias/locales/notas/el-embalse-la-plata-se-acerca-al-nivel-de-control-como-estan-sus-condiciones/ \n https://www.esmental.com/agua-impacto-sequia-salud-mental-ansiedad/ \n https://www.neefusa.org/story/water/home-water-use-united-states#Puerto%20Rico \n https://docs.pr.gov/files/Estado/OrdenesEjecutivas/2026/OE-2026-035.pdf\n https://www.prfaa.pr.gov/recent-press-releases/governor-announces-usda-approval-of-drought disaster-declaration-for-puerto-rico\n https://periodismoinvestigativo.com/2026/09/aaa-contratos-millonarios-perdida-agua/\n https://periodismoinvestigativo.com/2026/09/aaa-fondos-reparar-tuberias-perdida-agua/\n https://wapa.tv/noticias/locales/una-semana-sin-agua-y-190-mil-abonados-afectados-por-rotura-en-el-superacueducto/articleb4a05276-f542-4d3b-a21e-6b154eee5d16.htmlref_=heavyweather.media\n https://www.metro.pr/noticias/2026/06/07/utilizaran-camiones-de-leche-para-distribuir-agua-en-comunidades-afectadas-por-averia-de-la-aaa/?ref=heavyweather.media\n https://www.youtube.com/watchv=Mtu_y1nBj1M&sourceve_path=NzY3NTg&embeds_referring_euri=https%3A%2F%2Fheavyweather.media%2F\n https://www.primerahora.com/noticias/gobierno-politica/notas/averia-en-el-superacueductos-dejara-mas-de-100-mil-abonados-sin-agua/?ref=heavyweather.media\n https://www.elnuevodia.com/noticias/locales/notas/yo-voy-a-cobrarles-todo-lo-que-pueda-presidente-de-la-aaa-advierte-que-buscara-que-luma-pague-por-reparacion-en-carraizo/?ref=heavyweather.media\n https://elpais.com/us/2026-08-01/mas-de-100-dias-sin-agua-la-crisis-que-golpea-a-miles-en-puerto-rico-ademas-de-los-apagones.html\n https://www.periodicolaperla.com/actualidad/nuevo-estudio-advierte-que-la-sequia-en-puerto-rico-seguira-y-aumentara/\n https://www.theguardian.com/us-news/ng-interactive/2026/sep/10/puerto-rico-water-access\n https://www.wired.com/story/puerto-rico-is-rationing-water-it-could-avoid-it-by-harvesting-rainwater/\n https://www.elnuevodia.com/noticias/locales/videos/carl-axel-soderberg-acueductos-pierde-el-60-del-agua-que-produce-294132/\n https://es.euronews.com/2026/08/08/puerto-rico-raciona-el-agua-a-500000-personas-por-la-peor-sequia-desde-2015\n https://www.primerahora.com/noticias/puerto-rico/notas/falta-de-dragados-y-mala-planificacion-estudio-confirma-lo-que-esta-limitando-nuestros-embalses/\n https://www.nbcnews.com/news/us-news/us-declares-drought-disaster-parts-puerto-rico-dry-conditions-persist-rcna594653\n https://www.elnuevodia.com/noticias/locales/notas/mas-de-la-mitad-de-puerto-rico-sigue-bajo-sequia-o-sequedad-pese-a-lluvias/\n https://www.cdc.gov/global-water-sanitation-hygiene/about/about-global-hygiene.html\n https://apnews.com/article/puerto-rico-esencia-cabo-rojo-developers-44d13fdafa22d9ec3\n 94ff222426db331\n https://noticel.com/ultima-hora/20260811/puerto-rico-tiene-desde-el-2024-una-ley-que-obliga-a-las-agencias-recolectar-agua-de-lluvia/\n https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/91-2024.pdf\n https://periodismoinvestigativo.com/2026/09/agua-no-da-proyecto-esencia/\n https://www.senado.pr.gov/aaa-aee-y-turismo-se-oponen-al-proyecto-esencia-en-cabo-rojo-durante-los-trabajos-de-investigacin-del-senado-de-puerto-rico\n https://www.primerahora.com/noticias/gobierno-politica/notas/culmina-el-dragado-del-embalse-carraizo/\n https://www.elnuevodia.com/noticias/legislatura/notas/carlos-johnny-mendez-promete-accion-sobre-el-plan-de-mitigacion-al-cambio-climatico-pero-dice-falta-un-proyecto-de-ley/\n https://periodismoinvestigativo.com/2026/08/nuevo-estudio-advierte-sequia-aumentara/\n https://planclimaticopr.com/visor.html?tomo=1&pagina=1\n https://www.elnuevodia.com/noticias/legislatura/notas/legislatura-apunta-a-aprobar-version-reducida-del-plan-para-enfrentar-el-cambio-climatico/?templateId=OT3HWJU9FRSI&\n templateVariantId=OTB2HAZL1TSY&experienceID=EX029JWEG3W3\n https://www.courtlistener.com/docket/63354869/108/1/maldonado-gonzalez-v-puerto-rico-aqueduct-and-sewer-authority/?ref=heavyweather.media\n https://op.europa.eu/en/publication-detail/-/publication/dd80d863-6a63-11ef-a8ba-01aa75ed71a1/language-en \n https://podcasts.apple.com/us/podcast/who-was-puerto-ricos-water-system-really-built-for/id1553089886?i=1000799569550 \n \nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-11-09T05:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/b01b3638-0583-49a0-a5ed-b4fc00255ec5/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "2187",
-          "link": "https://omny.fm/shows/it-could-happen-here/puerto-rico-s-water-crisis-isn-really-over"
-        },
-        {
-          "id": "3238af8d48efea1a",
-          "title": "CZM Book Club: \"Organizing Social Spaces as if Social Relations Matter,\" by Cindy Barukh Milstein (Part One of Three)",
-          "description": "Margaret reads you some non-fiction with advice for organizers\nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-11-08T05:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/f3ea9220-97d9-4da5-8eff-b4fc00303ffa/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "2306",
-          "link": "https://omny.fm/shows/it-could-happen-here/czm-book-club-organizing-social-spaces-as-if-social-relations-matter-by-cindy-barukh-milstein-part-one-of-three"
         }
       ]
     },
@@ -510,6 +510,15 @@
       "rss": "https://feeds.simplecast.com/Fa0PP4fl",
       "episodes": [
         {
+          "id": "a8db03679af34d8b",
+          "title": "#207 - Nathan Lund and Sam Tallent",
+          "description": "Nathan Lund and Sam Tallent return to the pod to discuss Sam's new novel BRUT, Nathan's potential big plans for 2027, the lie that work will set you free, the economics of saying farewell to your canine companion, shaving your head stupidly to make your pal laugh, weight loss, NFL salaries, and much more. Nathan, Sam and Stav help callers including a man who's mom drained his savings account to pay for a TikTok crypto scam, and a liberal woman from Austin who's wondering if she can pop off on her conservative family for Thanksgiving.\nBuy Sam Tallent's new novel Brut: https://www.penguinrandomhouse.com/books/787018/brut-by-sam-tallent/\nSee Nathan Lund live and follow him on social media:\nhttps://nathanlundcomedy.com/\nhttps://x.com/nathanlund\nhttps://www.instagram.com/nathanlundcomedy/\nhttps://www.youtube.com/@chubbybehemoth3722  \nSee Sam Tallent live and follow him on social media:\nhttps://www.samtallent.com/\nhttps://punchup.live/samtallent/tour\nhttps://www.instagram.com/samtallent\nhttps://x.com/tallentsam\nThanks to our sponsors!\nVisible - https://www.visible.com/ SWITCH NOW!\nTwisted Tea - https://www.twistedtea.com/locations Keep It Twisted!!\n😏 Buy the Stavvy Baby 2027 calendar! https://shop.stavvy.biz/\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n🎟️ See Stavvy live!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+          "publishedAt": "2026-11-16T11:00:00.000Z",
+          "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/3f10a227-7445-47fb-971c-92d74dd75554/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=3f10a227-7445-47fb-971c-92d74dd75554&feed=Fa0PP4fl",
+          "duration": "01:55:51",
+          "link": "https://siriusxm.com"
+        },
+        {
           "id": "ec7a16b3a55906a7",
           "title": "Bonus #206 - Max Wittert [PATREON PREVIEW]",
           "description": "Patreon preview. Unlock full episode at https://www.patreon.com/stavvysworld\nMax Wittert joins the pod to discuss stealing mothers, The Giver, having a distant ancestor with a short Wikipedia page, types of gay guys vs. types of Pokemon, dads and veganism, pop divas, pants that unbutton into shorts, and much more. Max and Stav help callers including a woman who's wondering if she should drop her hobby of degrading a guy with a humiliation online now that she is in a relationship, and a social worker in a toxic situationship with a condescending venture capitalist.\nFollow Max Wittert:\nhttps://www.maxwittert.com/\nhttps://www.instagram.com/maxwittert\nhttps://x.com/waxmittert\nhttps://bsky.app/profile/waxmittert.bsky.social\nhttps://www.tiktok.com/@waxmittert  \n😏 Buy the Stavvy Baby 2027 calendar! https://shop.stavvy.biz/\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n🎟️ See Stavvy live!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
@@ -588,15 +597,6 @@
           "publishedAt": "2026-10-15T10:00:00.000Z",
           "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/43fa3da9-7b4f-43d4-a04f-ba31a65b4d1f/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=43fa3da9-7b4f-43d4-a04f-ba31a65b4d1f&feed=Fa0PP4fl",
           "duration": "00:13:16",
-          "link": "https://siriusxm.com"
-        },
-        {
-          "id": "e2bb22f82bdb3f21",
-          "title": "#202 - Grace Kuhlenschmidt",
-          "description": "Grace Kuhlenschmidt returns to the pod to discuss being targeted as inspiration in her Soulcycle class, kids these days just not getting invisible ink, why dating men before coming out felt terrible, getting sober again, the going rate for a kush volcano, and much more. Grace and Stav help callers including a woman whose high school bully is now a waitress at her parents' favorite restaurant, and an extreme spendthrift who's weighing continuing to be cheap vs. loosening up and embracing his current relationship.\nFollow Grace Kuhlenschmidt on social media:\nhttps://www.instagram.com/gkuhlenschmidt/\nhttps://www.tiktok.com/@gkuhlenschmidt\nhttps://x.com/GKuhlenschmidt\nThanks to our sponsor!!\nVisible - https://www.visible.com/ SWITCH NOW!\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n \n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-          "publishedAt": "2026-10-12T10:00:00.000Z",
-          "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/427790c8-9cac-4192-8770-56495378aad1/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=427790c8-9cac-4192-8770-56495378aad1&feed=Fa0PP4fl",
-          "duration": "02:01:02",
           "link": "https://siriusxm.com"
         }
       ]
