@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T20:24:16.298Z",
+  "updatedAt": "2026-11-17T19:09:20.892Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -9,6 +9,15 @@
       "link": "https://www.patreon.com/chapotraphouse",
       "rss": "https://feeds.soundcloud.com/users/soundcloud:users:211911700/sounds.rss",
       "episodes": [
+        {
+          "id": "8aeb2f1106875e81",
+          "title": "1089 - Airport ‘26 feat. Alex Nichols (11/16/26)",
+          "description": "All the planes are broken and the banks are out of money. Alex Nichols returns for some speculation about the recent FAA shutdown before we look forward to the future of the two party system. On the Democrat side, we have a Senate Majority Leader fight that’s really a proxy for the end of the war in Iran, plus continued punting on Medicare For All in favor of permitting reform. On the Republican side, we see them doubling down white nationalism and misogyny after a generational loss. Will anything ever escape this status quo of gridlock and a bag of shit being tossed back and forth every four to eight years? No.\n\nListen to To The White Sea wherever you get pods: https://pod.link/1677795107\n\nNew merch at chapotraphouse.store! Last chance to get a ten year shirt and challenge coins.\n\nFollow Alex on Twitter @Lowenaffchen\nCheck out his show Fortune Kit: https://www.patreon.com/fortunekit\nAnd stream “Hotel California” by Bob Marley: https://www.youtube.com/watch?v=taTD0NPb8Do",
+          "publishedAt": "2026-11-17T05:17:52.000Z",
+          "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2439765585-chapo-trap-house-1089-airport-26-feat-alex.mp3",
+          "duration": "01:40:33",
+          "link": "https://soundcloud.com/chapo-trap-house/1089-airport-26-feat-alex"
+        },
         {
           "id": "d1dc43e602bf894c",
           "title": "1087 - Ten Years in the Zone feat. David J. Roth, Stavros Halkias, and Lex Walton (11/9/26)",
@@ -89,15 +98,6 @@
           "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2409679743-chapo-trap-house-1075-the-bennington-caliphate.mp3",
           "duration": "01:50:55",
           "link": "https://soundcloud.com/chapo-trap-house/1075-the-bennington-caliphate"
-        },
-        {
-          "id": "e0ebf1448fdc92bb",
-          "title": "1073 - Unsafe, Illegal, and Common feat. Kylie Cheung (9/21/26)",
-          "description": "1073 - Unsafe, Illegal, and Common feat. Kylie Cheung (9/21/26) by Chapo Trap House",
-          "publishedAt": "2026-09-22T05:21:53.000Z",
-          "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2405199693-chapo-trap-house-1073-unsafe-illegal-and-common.mp3",
-          "duration": "01:14:08",
-          "link": "https://soundcloud.com/chapo-trap-house/1073-unsafe-illegal-and-common"
         }
       ]
     },
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "f7b3e8e898430a5e",
+          "title": "Biden and the War on Gaza",
+          "description": "In this episode Dana El Kurd talks with Akbar Shahid Ahmed, journalist and author of the new book “Crossing the Red Line: Biden, His Advisors, and Israel’s War on Gaza.” Akbar talks about the interviews he conducted for his new book, and how they show the Biden administration empowered the Israeli war on Gaza.\n Sources:\n https://wwnorton.com/books/9781324118190\nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-11-17T05:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/57fb9d3f-9ec9-4473-8b02-b50401147473/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "1821",
+          "link": "https://omny.fm/shows/it-could-happen-here/biden-and-the-war-on-gaza"
+        },
+        {
           "id": "d526b177b6e4ca1f",
           "title": "Why Can't We Buy Union Made Raincoats?",
           "description": "James talks about the ethics of outdoor gear manufacturing and hears from Forgeline Fieldwear about the barriers to US made technical clothing.\n www.forgelinefieldwear.com\n https://www.fgwm-solidarity.org/news/\n https://www.goreclassaction.com/documents  \nhttps://apparelproductionny.com/services/full-production-packages/  \nhttps://www.themarshallproject.org/2026/07/09/prison-labor-america-photos  \nhttps://davidgraeber.org/articles/on-the-phenomenon-of-bullshit-jobs-a-work-rant/  \nhttps://sea.theanarchistlibrary.org/library/icl-cit-icl-delegation-meet-myanmar-comrades-in-thailand-id  \nhttps://www.iclcit.org/iii-icl-congress-from-italy-to-palestine-myanmar-or-brazil/  \nSee omnystudio.com/listener for privacy information.",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/41f10263-84db-43aa-b6d2-b4fe001b30c9/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "3304",
           "link": "https://omny.fm/shows/it-could-happen-here/do-not-become-addicted-to-water-asheville-after-helene"
-        },
-        {
-          "id": "1e265be8094a99a4",
-          "title": "AI and the Outdoors",
-          "description": "James talks with Dane Brinkley about Mount Shasta, why it's not a good idea to outsource your planning to the internet, and why we go to the mountains ​.\n https://www.facebook.com/SiskiyouCountySheriff/posts/pfbid09S8teHAogsxqUS66ManmS8kqBRkTzJtqhBPfL4vH6sKUktKHqsN99Sb7WQ1z5RA6l  \nhttps://krcrtv.com/news/local/three-mount-shasta-climbers-rescued-after-relying-on-ai-to-plan-climb  \nhttps://www.shastaavalanche.org/climbing-advisory  \nhttps://www.nsnews.com/local-news/solo-teen-hiker-hoisted-from-mountain-cliff-after-using-ai-to-plan-route-north-shore-rescue-says-12855671  \nhttps://www.backpacker.com/news-and-events/two-hikers-rescued-one-hiker-missing-and-a-rescuer-dead-in-separate-incidents-on-mt-baldy/  \nhttps://www.casavalpt.com/  \n\nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-11-09T13:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f2b95a3b-24fb-446d-bf98-b49f00dc3cc3/204311f0-f6ba-4711-9fbf-b4fa016619fb/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "1735",
-          "link": "https://omny.fm/shows/natural-causes/2026-11-05-nc-e13-ai-shasta-fi"
         }
       ]
     },
@@ -410,6 +410,15 @@
       "rss": "https://feeds.megaphone.fm/SLT6250292033",
       "episodes": [
         {
+          "id": "780437a97ad35460",
+          "title": "Savage Lovecast Episode 1045",
+          "description": "A 21 year-old woman has always liked older men. She knows this can be problematic. Will she phase out of it? Some of the men she hooks up with aren’t good people. How can she find older men who aren’t monsters?\n\n2 tales of messy lives: One comes from a woman whose friend cats around town, cheating on her nice husband. The friend is sick of keeping her secrets. The other involves co-workers hitting on each other, and an unreliable narrator.\n\nOn the Magnum, across the pond, in merry old England, they are passing some potentially troubling anti-pornography laws. Dan brings on Rachel Cunliffe, the Associate Editor at the New Statesman, (and our British correspondent) to talk about the new law, as well as the happier subject of Prince William getting his royal arse pegged.\n\nA lady’s friend is a trans woman who doesn’t pass but thinks she does. Should the caller break the bad news?\n\n\n\nThis episode is brought to you by Squarespace. They make it easy to build a website or blog. Give it a whirl at ⁠Squarespace.com/Savage⁠ and if you want to buy it, use the code Savage for a 10% off your first purchase.\n\n This episode is brought to you by Helix Sleep. Right now, Helix is offering 30% off site wide exclusively for Lovecast listeners. Go to ⁠HelixSleep.com/Savage⁠. With Helix, better sleep starts now. \n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit ⁠VB.Health⁠ when you use the code Savage.",
+          "publishedAt": "2026-11-17T17:43:00.000Z",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT6743679397.mp3",
+          "duration": "3481",
+          "link": ""
+        },
+        {
           "id": "69c6356aacc99510",
           "title": "After Action Report #55",
           "description": "What the F is an agonophile? We’ll tell you. It’s super-freak who gets turned on by struggling or fighting, a.k.a wrestling.\n\nEnter Darren- a bi man who has been into it since he was a wee teen. But it all clicked into place when he went home with a fellow kick-boxer…\n\nWe love Darren! You will too!\n\nDo you have a tale of sexual interest…indulged?Write about it, and send it to us: Q@Savage.Love\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit VB.Health when you use the code Savage.",
@@ -488,15 +497,6 @@
           "publishedAt": "2026-10-16T11:00:00.000Z",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT4241754601.mp3",
           "duration": "1087",
-          "link": ""
-        },
-        {
-          "id": "b7642226cbf9429a",
-          "title": "Savage Love Episode 1040",
-          "description": "A divorced father of adult children understood himself to be bisexual later in life. He digs men in an aromantic, casual sex kind of way. Is he obligated to tell his family? Does his connections with men fall under private sex life or public identity? \n\n\n\nA woman went to a sex party and met a hot female bouncer who throws out misbehaving guests. The caller wants to ask her to be her dom. Should she? How? \n\n\n\nOn the Magnum, Dan and sex researcher Niki Davis-Fainbloom do a deep dive on fetishes. What's the difference between kinks and fetishes? What causes people to get into them- is it cultural or biological? Is the destigmatization of kink making it less hot? Listen in. \n\n\n\nAnd, a straight man matched with the woman who works at his local dry cleaners. He thinks she might be trouble- texting him from the bar at 1:30, maybe driving drunk. Should he avoid her or get a little hanky-panky from a hot, messy lady?\n\n\n\n\n\nCall us, text us, don't be afraid. \n\n206-302-2064\n\nOr record your question and send it to Q@Savage.Love\n\nOr just click ⁠HERE⁠.\n\n\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit ⁠VB.Health⁠ when you use the code Savage.\n\nForia is an all natural health & sexual wellness company with product lines using the power of plant actives & CBD to effectively enhance intimacy, sexual pleasure, daily wellbeing, and relief from discomfort. Right now get 20% off your 1st order by going to ⁠ForiaWellness.com/SAVAGE⁠ or use code SAVAGE at checkout.\n\nBeducated brings pleasure-based sex education right to your bedroom. Kick off your best sex life with Beducated’s awesome, five-minute quiz at ⁠https://beducate.me/savage ⁠",
-          "publishedAt": "2026-10-13T11:00:00.000Z",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT6855640390.mp3",
-          "duration": "3334",
           "link": ""
         }
       ]
