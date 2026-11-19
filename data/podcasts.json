@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T18:49:27.814Z",
+  "updatedAt": "2026-11-19T18:57:57.201Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -210,6 +210,24 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "a176da1ed58fe060",
+          "title": "Repression in Iran ",
+          "description": "James is joined by Gordayeen to talk about the Iranian state’s repressive tactics and the failure of the USA and ISrael to diminish the capacity for state violence \nSources:\n https://hengaw.org/ \n https://www.theamargi.com/ \n  \nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-11-19T05:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/acdb017c-4788-497d-b700-b507002b32dd/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "2546",
+          "link": "https://omny.fm/shows/it-could-happen-here/repression-in-iran"
+        },
+        {
+          "id": "8f573727e2abcdec",
+          "title": "Organizing Agricultural Workers",
+          "description": "Mia talks with Lindsey and Brady of the IWW about what we can learn about organizing agricultural workers from efforts abroad and organizing outside of the National Labor Relations Act\nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-11-18T20:18:54.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/07e6ab7b-8a52-4cc3-af81-b5060135a60f/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "2662",
+          "link": "https://omny.fm/shows/it-could-happen-here/organizing-agricultural-workers"
+        },
+        {
           "id": "f7b3e8e898430a5e",
           "title": "Biden and the War on Gaza",
           "description": "In this episode Dana El Kurd talks with Akbar Shahid Ahmed, journalist and author of the new book “Crossing the Red Line: Biden, His Advisors, and Israel’s War on Gaza.” Akbar talks about the interviews he conducted for his new book, and how they show the Biden administration empowered the Israeli war on Gaza.\n Sources:\n https://wwnorton.com/books/9781324118190\nSee omnystudio.com/listener for privacy information.",
@@ -280,24 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/7f3a0de2-6c2b-4a63-9e72-b4ff001367c1/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "2398",
           "link": "https://omny.fm/shows/it-could-happen-here/the-paramount-merger-and-the-consolidation-of-media"
-        },
-        {
-          "id": "5cabc0b57d4dc957",
-          "title": "Urgent: The Bipartisan Effort to Quietly Erode Environmental and Tribal Protections",
-          "description": "James is joined by Natali Geovia of the Water Protector Legal Collective to discuss the Bipartisan American Affordability and Jobs Act (BAAJA) and the tremendous damage it could do to protections for the land, Indigenous people, and public health.\n https://www.waterprotectorlegal.org/ \nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-11-11T01:10:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f2b95a3b-24fb-446d-bf98-b49f00dc3cc3/fd67a2d6-817b-4014-aa12-b4ff000febd8/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "914",
-          "link": "https://omny.fm/shows/natural-causes/urgent-the-bipartisan-effort-to-quietly-erode-environmental-and-tribal-protections"
-        },
-        {
-          "id": "ffa5e83ca69679c2",
-          "title": "Do Not Become Addicted to Water: Asheville After Helene",
-          "description": "Mia talks with David Forbes of the Asheville Blade about how Asheville's government has used Helene to exploit its people and push neoliberal economics.\n Sources:\n https://ashevilleblade.com/?p=5399\n\nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-11-10T05:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/41f10263-84db-43aa-b6d2-b4fe001b30c9/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "3304",
-          "link": "https://omny.fm/shows/it-could-happen-here/do-not-become-addicted-to-water-asheville-after-helene"
         }
       ]
     },
@@ -510,6 +510,15 @@
       "rss": "https://feeds.simplecast.com/Fa0PP4fl",
       "episodes": [
         {
+          "id": "eeea54981d12b3b8",
+          "title": "Bonus #207 - Django Gold and JP McDade [PATREON PREVIEW]",
+          "description": "Patreon preview. Unlock full episode at https://www.patreon.com/stavvysworld\nDjango Gold and JP McDade return to the pod to discuss rabid demand for fresh podcast content, the ongoing construction in the studio, tour life, Django touring with Steve-O, what post-video culture could look like, JP pulling a Rear Window when he was injured, Django's sad future as a solo traveler, and much more. Django, JP and Stav help callers including a man who wants to let his girlfriend know that he'll get her breast implants if she wants, and a woman who fears the guy she's dating has a micro-piece after having an unfortunate encounter with one in the past.\nFollow Django Gold on social media:\nhttps://www.instagram.com/djangoindustries/\nhttps://twitter.com/django\nhttps://www.tiktok.com/@djangoindustries  \nhttps://www.youtube.com/@djangoindustries\nFollow JP McDade on social media:\nhttps://twitter.com/jp_mcdade\nhttps://www.instagram.com/mcdadebaby\n😏 Buy the Stavvy Baby 2027 calendar! https://shop.stavvy.biz/\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n🎟️ See Stavvy live!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+          "publishedAt": "2026-11-19T11:00:00.000Z",
+          "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/15a3907e-1113-4ce8-a517-08a52addc33d/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=15a3907e-1113-4ce8-a517-08a52addc33d&feed=Fa0PP4fl",
+          "duration": "00:10:27",
+          "link": "https://siriusxm.com"
+        },
+        {
           "id": "a8db03679af34d8b",
           "title": "#207 - Nathan Lund and Sam Tallent",
           "description": "Nathan Lund and Sam Tallent return to the pod to discuss Sam's new novel BRUT, Nathan's potential big plans for 2027, the lie that work will set you free, the economics of saying farewell to your canine companion, shaving your head stupidly to make your pal laugh, weight loss, NFL salaries, and much more. Nathan, Sam and Stav help callers including a man who's mom drained his savings account to pay for a TikTok crypto scam, and a liberal woman from Austin who's wondering if she can pop off on her conservative family for Thanksgiving.\nBuy Sam Tallent's new novel Brut: https://www.penguinrandomhouse.com/books/787018/brut-by-sam-tallent/\nSee Nathan Lund live and follow him on social media:\nhttps://nathanlundcomedy.com/\nhttps://x.com/nathanlund\nhttps://www.instagram.com/nathanlundcomedy/\nhttps://www.youtube.com/@chubbybehemoth3722  \nSee Sam Tallent live and follow him on social media:\nhttps://www.samtallent.com/\nhttps://punchup.live/samtallent/tour\nhttps://www.instagram.com/samtallent\nhttps://x.com/tallentsam\nThanks to our sponsors!\nVisible - https://www.visible.com/ SWITCH NOW!\nTwisted Tea - https://www.twistedtea.com/locations Keep It Twisted!!\n😏 Buy the Stavvy Baby 2027 calendar! https://shop.stavvy.biz/\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n🎟️ See Stavvy live!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
@@ -588,15 +597,6 @@
           "publishedAt": "2026-10-19T10:00:00.000Z",
           "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/b23f67e2-f909-4b85-9408-ed99dec69d67/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=b23f67e2-f909-4b85-9408-ed99dec69d67&feed=Fa0PP4fl",
           "duration": "01:17:19",
-          "link": "https://siriusxm.com"
-        },
-        {
-          "id": "7015d37e60a31b26",
-          "title": "Bonus #202 - McDade's Maniacs Vol. 15 w/ Andrew Manning [PATREON PREVIEW]",
-          "description": "Patreon preview. Unlock full episodes at https://www.patreon.com/stavvysworld\nThe Noble of Nutcases JP McDade returns with his latest maniac Andrew Manning to discuss Andrew medically induced puberty at 20, the moment you realize that you fumbled a hookup, the jolly moment Andrew first noticed his nuts stink, roast battles, and much more. Andrew, JP and Stav help callers including a man who's wondering if he should take his wife's offer of a sex tourism hall pass seriously, and a woman who's sick of her mom talking trash about her dead dad.\nFollow Andrew Manning on social media:\nhttps://www.instagram.com/andrewmanthing/\nhttps://www.youtube.com/@andrewmanningcomedy  \nhttps://x.com/andrewmanthing\nFollow JP McDade on social media:\nhttps://twitter.com/jp_mcdade\nhttps://www.instagram.com/mcdadebaby\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n🎟️ See Stavvy live!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-          "publishedAt": "2026-10-15T10:00:00.000Z",
-          "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/43fa3da9-7b4f-43d4-a04f-ba31a65b4d1f/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=43fa3da9-7b4f-43d4-a04f-ba31a65b4d1f&feed=Fa0PP4fl",
-          "duration": "00:13:16",
           "link": "https://siriusxm.com"
         }
       ]
