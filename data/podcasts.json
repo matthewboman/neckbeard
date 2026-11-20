@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T18:57:57.201Z",
+  "updatedAt": "2026-11-20T18:35:01.362Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "ec164f183d88c432",
+          "title": "Executive Disorder: Everything Breaks, Rohingya Genocide, Mamdani Disbands SRG",
+          "description": "The gang chats about all the many tech outages this week, the ICJ finding Myanmar guilty of genocide against Rohingya, corporate executives pocketing tariff refund money, protests in Bangladesh over working conditions, and Mamdani disbanding the NYPD Strategic Response Group. \n (A previous version of this episode incorrectly stated Auckland as the capital of New Zealand which has been edited out, the capital is Wellington.)\n  \n Sources:\n  \nhttps://thehill.com/the-120/6227485-sanders-supports-van-hollen-challenge/\n https://newsguild.org/unionized-journalists-at-reuters-overwhelmingly-authorize-strike/\n https://www.nyc.gov/mayors-office/news/2026/11/mayor-mamdani-wins-90-day-extension-to-protect-small-retailers-n\n\n https://media.defense.gov/2026/Nov/09/2004025139/-1/-1/1/REFORMING-PROFESSIONAL-MILITARY-EDUCATION-TO-FORGE-WARFIGHTERS-AND-SECURE-VICTORY.PDF\n https://x.com/syriahr/status/2122313987802927545?a=gbJltRTGzuFRwwoJYx8&s=20\n\n https://www.fbi.gov/wanted/seeking-info/drone-in-restricted-airspace\n https://www.msn.com/en-us/news/world/new-zealand-mayor-says-democracy-has-had-its-day-after-china-visit/ar-AA2hFUqM\n https://x.com/Microsoft/status/2121282013600907325?a=xFkPi44OjVY9wQTc7Xc&s=20\n https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk \n https://x.com/clamanna/status/2122209697226948729 \n\n https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/ \n\n https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html \n https://www.snopes.com/news/2026/11/16/duffy-son-in-law-company-faa/ \n https://www.msn.com/en-us/news/other/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt/ar-AA2hs7wV \n https://www.business-standard.com/world-news/us-aviation-shutdown-explained-what-caused-the-faa-nationwide-ground-stop-126111601147_1.html \n https://mashable.com/tech/faa-nationwide-ground-stop-why \n https://x.com/Chase/status/2122433813955379268\n\n https://thehill.com/business/6226179-chase-outage-software-bug/amp/\n https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down\n\n https://blog.giovanh.com/blog/2025/10/14/a-hack-is-not-enough/ \n\n https://icj-cij.org/case/178 \n https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court \n https://x.com/USAmbUN/status/2113246764228616559 https://www.state.gov/icc-sanctions/ https://icj-cij.org/sites/default/files/case-related/178/178-20261119-pre-01-00-en.pdf \n https://x.com/NYCMayor/status/2122298477816504328?s=20\n\n https://legalaidnyc.org/news/mayor-first-steps-protest-policing-reform/ \n https://x.com/CB_Cotton/status/2122312337986130314?a=L4ZoV5sccOabw3-EE5o&s=20\n\n https://x.com/CB_Cotton/status/2122356466849841254?s=20\n\n https://www.nyclu.org/resources/policy/one-pagers/curb-act-protect-the-right-to-protest-in-nyc \n https://x.com/avitale/status/2122373841296978008?a=ZUzk_Z8gim94ItUtgOY&s=20\n https://www.nyc.gov/mayors-office/news/2026/11/mayor-mamdani_and-police-commissionertischdisbandnypd-s-strategi\n \nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-11-20T05:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/9b105305-fab8-4ee8-97ca-b508004ffe31/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "4490",
+          "link": "https://omny.fm/shows/it-could-happen-here/executive-disorder-everything-breaks-rohingya-genocide-mamdani-disbands-srg"
+        },
+        {
           "id": "a176da1ed58fe060",
           "title": "Repression in Iran ",
           "description": "James is joined by Gordayeen to talk about the Iranian state’s repressive tactics and the failure of the USA and ISrael to diminish the capacity for state violence \nSources:\n https://hengaw.org/ \n https://www.theamargi.com/ \n  \nSee omnystudio.com/listener for privacy information.",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/5a4c0083-8370-4bb7-bff6-b4ff0153f184/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "2194",
           "link": "https://omny.fm/shows/it-could-happen-here/a-tale-of-two-assassinations-with-andrew"
-        },
-        {
-          "id": "44979a46ea83fd1e",
-          "title": "Press Freedom and the Paramount Merger",
-          "description": "Kevin Foster dives into the Paramount-Warner Bros. merger and the consequences for labor, press freedom, and history.\n  \n Sources:\n  \nhttps://www.reuters.com/sustainability/sustainable-finance-reporting/warner-bros-signs-110-billion-deal-with-paramount-its-executive-discloses-2026-02-27/\n https://www.skydance.com/news/press/paramount-completes-acquisition-of-warner-bros-discovery-creating-a-new-global-entertainment-leader-skydance\n https://www.pbs.org/newshour/nation/12-states-challenge-paramounts-takeover-of-warner-say-merger-would-extinguish-competition\n https://www.reuters.com/business/media-telecom/paramount-pledges-release-30-films-year-how-will-that-add-up-2026-09-23/\n https://fortune.com/2026/10/15/skydance-warner-media-consolidation-trust-gallup/\n https://www.politico.com/news/2026/09/18/paramount-bonta-in-talks-to-settle-antitrust-litigation-01085072\n https://variety.com/2026/tv/news/trump-praises-paramount-warner-bros-skydance-merger-terrific-people-1236903643/\n https://www.reuters.com/business/media-telecom/free-press-founder-bari-weiss-named-editor-cbs-news-after-deal-with-paramount-2025-10-06/\n https://www.pbs.org/newshour/show/new-cbs-news-chief-draws-backlash-by-pulling-60-minutes-story-on-el-salvador-prison\n https://www.nilc.org/resources/tracking-the-cecot-disappearances/\n https://www.hollywoodreporter.com/business/business-news/new-cnn-cbs-news-editorial-indepedence-board-who-what-why-1236707168/\n https://www.cnbc.com/2026/03/11/oracle-tiktok-us-stake-outages.html\n https://apnews.com/article/trump-tiktok-china-d5d8a1d56b5185778536874d7fc1ee62\n https://csmapnyu.org/impact/news/was-there-censorship-on-tiktok-after-the-u-s-takeover\n \nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-11-11T05:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/7f3a0de2-6c2b-4a63-9e72-b4ff001367c1/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "2398",
-          "link": "https://omny.fm/shows/it-could-happen-here/the-paramount-merger-and-the-consolidation-of-media"
         }
       ]
     },
@@ -405,10 +405,19 @@
       "id": "savage-lovecast",
       "title": "Savage Lovecast",
       "description": "Dan Savage, America's only advice columnist, answers your sex and relationship questions and yaps about politics. To record a question for Dan to be answered in a later podcast, record your question and send it to Q@Savage.Love, or call 206-302-2064. For a much longer version of the show, with no ads, visit savage.love and get yourself a subscription.",
-      "image": "https://megaphone.imgix.net/podcasts/ac932f68-f095-11eb-b4d8-ab3728b897dc/image/Savage-3000x3000.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image": "https://megaphone-images.spotifycdn.com/podcasts/ac932f68-f095-11eb-b4d8-ab3728b897dc/image/Savage-3000x3000.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "link": "http://www.savagelovecast.com",
       "rss": "https://feeds.megaphone.fm/SLT6250292033",
       "episodes": [
+        {
+          "id": "739b8e6afd76de47",
+          "title": "After Action Report #56",
+          "description": "Richard and his buddies went to Las Vegas for a very special meal with a very special lady.\n\nTypical straight guy hijinks, yes. But when Richard told the wife about it, something amazing and unexpected happened.\n\nYour tales interest us very much.Send a concise description of your story to Q@Savage.Love.\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit VB.Health when you use the code Savage.",
+          "publishedAt": "2026-11-20T12:00:00.000Z",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT4812142603.mp3",
+          "duration": "1211",
+          "link": ""
+        },
         {
           "id": "780437a97ad35460",
           "title": "Savage Lovecast Episode 1045",
@@ -488,15 +497,6 @@
           "publishedAt": "2026-10-20T11:00:00.000Z",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT1476510255.mp3",
           "duration": "3280",
-          "link": ""
-        },
-        {
-          "id": "cca3d4f5b6e27f2c",
-          "title": "After Action Report #51",
-          "description": "What’s it like to be a bearded, 6’4″, 250 pounc fella getting his nails done in preparation for the first crossdressing session with his wife?\n\nDust off your gender studies 101 textbook and find out.\n\nTell us about your…transgressions.Q@Savage.Love\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit VB.Health when you use the code Savage.",
-          "publishedAt": "2026-10-16T11:00:00.000Z",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT4241754601.mp3",
-          "duration": "1087",
           "link": ""
         }
       ]
