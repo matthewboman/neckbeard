@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T22:01:19.210Z",
+  "updatedAt": "2026-11-24T20:38:35.715Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -9,6 +9,15 @@
       "link": "https://www.patreon.com/chapotraphouse",
       "rss": "https://feeds.soundcloud.com/users/soundcloud:users:211911700/sounds.rss",
       "episodes": [
+        {
+          "id": "219f2f0b0c2bf253",
+          "title": "1091 - Number of the Huckabeast feat. Jasper Nathaniel (11/23/26)",
+          "description": "Reporter Jasper Nathaniel returns to provide another dispatch from his time in the West Bank, this time recounting the assault of Heidi Levine and his time in an Israeli jail. He also tells us more about the Palestinians he profiled in his Harper’s piece, how the Israeli elections have (and haven’t) changed the situation on the ground, and how the West continues to provide Israel special privileges it doesn’t grant even to our other allies. For lighter news, we also talk a little bit about Bowen Yang and Jensen Huang.\n\nJasper’s Substack: https://www.infinitejaz.com/\nAnd recent articles: https://harpers.org/archive/2026/12/state-of-exception-jasper-nathaniel-american-abandonment-palestine/\nhttps://www.theparisreview.org/blog/2026/11/16/gatekeepers-israeli-detention-palestine-jasper-nathaniel/ \n\nGo to chapotraphouse.store for merch, 25% off through thanksgiving week!",
+          "publishedAt": "2026-11-24T04:00:25.000Z",
+          "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2443663020-chapo-trap-house-1091-number-of-the-huckabeast.mp3",
+          "duration": "01:19:43",
+          "link": "https://soundcloud.com/chapo-trap-house/1091-number-of-the-huckabeast"
+        },
         {
           "id": "8aeb2f1106875e81",
           "title": "1089 - Airport ‘26 feat. Alex Nichols (11/16/26)",
@@ -89,15 +98,6 @@
           "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2413900962-chapo-trap-house-1077-doormat-mother-feat-alex.mp3",
           "duration": "01:32:58",
           "link": "https://soundcloud.com/chapo-trap-house/1077-doormat-mother-feat-alex"
-        },
-        {
-          "id": "d3c8f169c8fcfe43",
-          "title": "1075 - The Bennington Caliphate feat. Josh Olson (9/28/26)",
-          "description": "This week on Chapo, we review The Daily Wire’s Run Hide Fight: Infidels with screenwriter Josh Olson. We did into this failing company’s newest attempt at recreating the racist 80s action movie, this time with about five minutes of Jonathan Majors thrown in. We dig into this movie’s worldview, pitch ideas for new Run Hide Fight movies, debate what even happened in this one, and wrap up with like a solid twenty minutes of talking about how awesome Reacher is.\n\nCheck out Josh’s The Movies That Made Me podcast with Joe Dante wherever you get pods.\n\nJoin us on Fri, Oct 16 at the ErF Gallery for a live screening of Chunks followed by a live talkback featuring Will, Hesse & Podcast About List, tickets here: https://www.erf.nyc/events/chapo-trap-house-screening",
-          "publishedAt": "2026-09-29T04:08:43.000Z",
-          "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2409679743-chapo-trap-house-1075-the-bennington-caliphate.mp3",
-          "duration": "01:50:55",
-          "link": "https://soundcloud.com/chapo-trap-house/1075-the-bennington-caliphate"
         }
       ]
     },
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "508f06b49c00e769",
+          "title": "Executive Disorder: GTA 6, Lead Bomb, Amazon Union Busting",
+          "description": "Somehow, Jensen Huang has returned. The gang also discuss right-wing reactions to Grand Theft Auto VI, the in-game parody of Nick Fuentes and Alex Jones, the real-life Army detonating a lead bomb in Iowa, and Amazon’s lobbying against the Delivery Protection Act.\n  \n Sources:\n  \nhttps://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director\n\n https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang-reinstatement-cnbc-interview-transcript.html\n\n https://truthsocial.com/@realDonaldTrump/posts/117666141823845971\n\n https://variety.com/2026/tv/news/elon-musk-invested-skydance-david-ellison-dealbook-conference-1236951800/\n\n https://x.com/nypost/status/2123526100710051921?a=RwANibe7vA0soO_RrCk&s=20\n\n https://www.nytimes.com/2026/11/21/business/dealbook/elon-musk-dealbook-summit.html\n\n https://x.com/TheDemocrats/status/2124842932834378058?a=UIsTWNzJoSgSPhhTmF0&s=20\n https://x.com/PatrickSvitek/status/2124840295607287836?a=pDdqhrJ76MfZp3v5DZY&s=20\n\n https://apnews.com/article/el-salvador-haiti-troops-killed-injured-bukelec3192c1276fd235b727666a05062db00\n\n https://www.theguardian.com/environment/2026/nov/20/us-deep-sea-mining-lease-auction-american-samoa \n https://www.courtlistener.com/docket/74662745/62/faasao-amerika-samoa-v-national-marine-fisheries-service/  \n https://www.courtlistener.com/docket/74759444/our-common-wealth-670-v-national-marine-fisheries-service/ \n\n https://icj-cij.org/case/178 \n https://x.com/M_Sawyed/status/2124221295969603610?a=EvRUskLMeL5X0pSXOUE&s=20 \n\n https://podcasts.apple.com/us/podcast/how-the-delivery-protection-act-takes-on-amazon/id1449762156?i=1000793584586 \n\n https://www.aboutamazon.com/news/policy-news-views/amazon-new-york-city-delivery-protection-act-costs \n\n https://www.nyc.gov/mayors-office/news/2026/08/mayor-mamdani-backs--delivery-protection-act--to-rein-in-amazon-  \n\n https://x.com/NYCMayor/status/2123512997335466332?a=KJigZ_0VBbbAijjNO1g&s=20 \n\n https://x.com/SpeakerMenin/status/2123453950821093704?a=95PvV3zs2vpk8G-5wyU&s=20 \n\n https://www.amazonlaborunion.org/pass-the-delivery-protection-act \n https://act.socialists.nyc/dpa-canvass \n\n https://gothamist.com/news/theyre-blowing-this-amazons-push-against-nyc-delivery-worker-bill-may-be-backfiring \n\n https://www.iowapublicradio.org/ipr-news/2026-11-22/southeast-iowa-lead-azide-explosion-wednesday-army\n https://www.pbs.org/newshour/nation/u-s-army-plans-to-invoke-emergency-provisions-to-detonate-bomb-making-chemicals-in-iowa\n https://www.newsweek.com/army-sets-iowa-lead-azide-blast-for-thanksgiving-eve-despite-court-pause-12755210\n https://variety.com/2026/gaming/news/gta-6-fox-news-clavicular-manosphere-lucia-1236953444/\n \nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-11-24T05:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/3bca017d-51ca-44cc-8bba-b50c003f98f5/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "4467",
+          "link": "https://omny.fm/shows/it-could-happen-here/executive-disorder-gta-6-lead-bomb-amazon-union-busting"
+        },
+        {
           "id": "653524c7726178fe",
           "title": "The Interior Department's 5 Year Plan",
           "description": "James is joined by Adam Cramer of Outdoor Alliance to dicuss recenlty released DOI planning documents that set a goal of reducing the size of the federal estate and a proposed change in BLM rule making that would make it harder for the public to weigh in on public land sales.\n Sources:\nhttps://www.doi.gov/media/document/strategic-plan-fiscal-years-2026-2030  https://www.govinfo.gov/content/pkg/COMPS-1719/pdf/COMPS-1719.pdf  \nhttps://www.federalregister.gov/documents/2026/11/10/2026-22860/revision-of-regulations-for-planning-programming-budgeting  \nhttps://www.blm.gov/press-release/interior-proposes-modernize-blms-outdated-public-land-planning-rules  \nhttps://www.cbsnews.com/news/doug-burgum-president-campaign-gift-cards-20-donations-legal-experts/  \nhttps://recreationroundtable.org/wp-content/uploads/2025/01/ORR-Burgum-Nomination-Letter-of-Support-Final.pdf  \nhttps://www.propublica.org/article/burgum-public-land-data-centers-investments  \nhttps://www.bozemandailychronicle.com/news/politics/montana-delegation-breaks-with-trumps-plan-to-sell-public-lands/article_9271399a-d96d-4401-8c6b-29613e75a691.html  \n https://road.cc/content/news/18911-raam-update-end-sight-robic-and-redgrave  \n\nSee omnystudio.com/listener for privacy information.",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f2b95a3b-24fb-446d-bf98-b49f00dc3cc3/96e37607-5f72-4166-80bd-b50200235f47/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "1617",
           "link": "https://omny.fm/shows/natural-causes/why-cant-we-buy-union-made-raincoats"
-        },
-        {
-          "id": "1d8baa6b66556e2d",
-          "title": "The Myth of Red Texas with David Griscom ",
-          "description": "Garrison talks with David Griscom about the forgotten history of populism in Texas, from the Farmers Alliance and radical Christianity to the Socialist Party, and how the Democrats won by embracing this deep-rooted history of economic populism.\nGet David’s book ‘The Myth of Red Texas’ here: https://orbooks.com/catalog/the-myth-of-red-texas/ \nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-11-16T05:59:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/efea41b5-e6b0-4d52-9cda-b5030168fd63/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "2658",
-          "link": "https://omny.fm/shows/it-could-happen-here/the-myth-of-red-texas-with-david-griscom"
         }
       ]
     },
@@ -410,6 +410,15 @@
       "rss": "https://feeds.megaphone.fm/SLT6250292033",
       "episodes": [
         {
+          "id": "4e9c2bcd8c407aab",
+          "title": "Savage Lovecast Episode 1046",
+          "description": "A submissive woman can’t understand why she’s not getting any action at the sex parties. Is it because she’s giving off dom vibes?\n\nA woman just moved in with her wonderful boyfriend. He loves making video of their hot sessions. He sent one of these videos to a potential threeway partner without getting consent of the caller. Hmm, maybe he’s not so wonderful?\n\nOn the Magnum, Dan chats with his buddy Sarah Hepola, author of Blackout. Her new book: The Only Thing There Is to Want: A Memoir of Three Loves offers the single woman’s perspective on relationships, dating younger men, and aging out of childbearing. They take a call from a woman who is miffed that her new boyfriend didn’t get her a birthday present for her party.\n\nFinally, meet Uncle Randy! She is the bartender at a gay bar and offers counsel to all the young, gay lads slutting around the scene. What advice should she give them so they can have fun, but stay safe?\n\n\n\nThis episode is brought to you by the Toler Financial Group. For money advice that thinks outside the closet, schedule a judgement free consultation with the team at Toler Financial Group today at ⁠tolerfinancialgroup.com/savage⁠\n\nThis episode of the Savage Lovecast is sponsored by OMGyes.com: a website dedicated to getting scientific truths out about women’s sexual pleasure. Savage Lovecast listeners get 55% off  when they go to OMGYES.com/Savage.\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit ⁠VB.Health⁠ when you use the code Savage.",
+          "publishedAt": "2026-11-24T12:00:00.000Z",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT3397331626.mp3",
+          "duration": "3173",
+          "link": ""
+        },
+        {
           "id": "739b8e6afd76de47",
           "title": "After Action Report #56",
           "description": "Richard and his buddies went to Las Vegas for a very special meal with a very special lady.\n\nTypical straight guy hijinks, yes. But when Richard told the wife about it, something amazing and unexpected happened.\n\nYour tales interest us very much.Send a concise description of your story to Q@Savage.Love.\n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit VB.Health when you use the code Savage.",
@@ -488,15 +497,6 @@
           "publishedAt": "2026-10-23T11:00:00.000Z",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT2796653008.mp3",
           "duration": "1173",
-          "link": ""
-        },
-        {
-          "id": "aec50fa18154efc7",
-          "title": "Savage Love Episode 1041",
-          "description": "A 25 year-old queer, plus-size woman has never been in a relationship or had sex. Both her size and virginity make it hard to connect with people through the apps. How can she break through these barriers and get some lovin' already? \n\n\n\nA married woman for 18 years with kids is sick to death of her life. She wants to chuck the family, move to another town and have a ton of new sex. But she loves her family! How can she scratch this dangerous itch?\n\n\n\nOn the Magnum, meet the Executive Director of the Kinsey Institute! Dan and Dr. Justin Garcia have a wide-ranging conversation about what the Kinsey Institute is, evolutionary biology, the cause of the sex recession and more. When asked what's the most expensive service one can buy at a legal brothel in Las Vegas, Dr. Garcia's answer may ...shock you. \n\n\n\nA cuckquean wants to figure out a way to get evidence of the hook-ups her boyfriend is enjoying while traveling. Can she ask for video without intruding too much? \n\n\n\nRecord and email your question: Q@Savage.Love\n\nCall or text: 206-302-2064\n\nClick this here handy LINK.\n\nThis episode is brought to you by Squarespace. They make it easy to build a website or blog. Give it a whirl at Squarespace.com/Savage and if you want to buy it, use the code Savage for a 10% off your first purchase.\n\n This episode is brought to you by Helix Sleep. Right now, Helix is offering 20% off site wide exclusively for Lovecast listeners. Go to HelixSleep.com/Savage. With Helix, better sleep starts now. \n\nThis episode is brought to you by VB Health, Doctor-formulated supplements that work . To learn more about Load Boost, Drive Boost and Soaking Wet and to get 10% off, visit VB.Health when you use the code Savage.\n\n\n\nDan Savage is a sex-advice columnist, podcaster, author, and creator of the It Gets Better Project. From cuckqueans to compersion, gay rights to sexual health and with a dose of progressive politics, Dan Savage has been cultural force for sex positivity since the 1800s.",
-          "publishedAt": "2026-10-20T11:00:00.000Z",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/prfx.byspotify.com/e/mgln.ai/e/818/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SLT1476510255.mp3",
-          "duration": "3280",
           "link": ""
         }
       ]
