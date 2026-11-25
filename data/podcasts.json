@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T20:38:35.715Z",
+  "updatedAt": "2026-11-25T19:54:33.037Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -9,6 +9,15 @@
       "link": "https://www.patreon.com/chapotraphouse",
       "rss": "https://feeds.soundcloud.com/users/soundcloud:users:211911700/sounds.rss",
       "episodes": [
+        {
+          "id": "b84aaeebbfcf598f",
+          "title": "BONUS - WTO/99 feat. Ian Bell & Alex Megaro",
+          "description": "We talk to director/editor Ian Bell & producer/editor Alex Megaro about their new documentary WTO/99. Through wildly impressive use of found footage, WTO/99 chronicles moment-by-moment the 4 days of street protest and police crackdown surrounding the World Trade Organization gathering in Seattle in November & December, 1999. We discuss how Ian & Alex created the film, the “Battle of Seattle” as an origin point for so much of our current politics (and political repression), and ongoing lessons from the fight against free trade at the dawn of the new millennium.\n\nWTO/99 will be screening at 19 theaters around the country this coming Monday, Nov. 30th. Find tickets at: https://www.wto99doc.com/",
+          "publishedAt": "2026-11-24T21:18:41.000Z",
+          "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2444172600-chapo-trap-house-bonus-wto-99-feat-ian-bell.mp3",
+          "duration": "00:55:38",
+          "link": "https://soundcloud.com/chapo-trap-house/bonus-wto-99-feat-ian-bell"
+        },
         {
           "id": "219f2f0b0c2bf253",
           "title": "1091 - Number of the Huckabeast feat. Jasper Nathaniel (11/23/26)",
@@ -89,15 +98,6 @@
           "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2418045549-chapo-trap-house-1079-the-smiley-face-killers.mp3",
           "duration": "01:37:30",
           "link": "https://soundcloud.com/chapo-trap-house/1079-the-smiley-face-killers"
-        },
-        {
-          "id": "5a77470e996ce91b",
-          "title": "1077 - doormat mother! feat. Alex Nichols (10/5/26)",
-          "description": "Chapo All-Star Alex Nichols is back for a quick news roundup. We eulogize Dennis Hastert, speculate on another Epstein associate’s suicide, and explore Kyrsten Sinema’s ex-boyfriend’s recent house-destroying rampage. We then take a deep dive into a new conservative moral panic: parents being cut off by their adult children. What’s behind the widespread media coverage of this, from The Free Press to the Wall Street Journal? And who is “Doormat Mom,” one of the movement’s viral stars? All shall be revealed.\nFollow Alex on Twitter: x.com/@Lowenaffchen\nCheck out his show Fortune Kit: https://www.patreon.com/fortunekit\nAnd watch ChapoFYM: https://www.twitch.tv/chapotraphouse \n\nJoin us on Fri, Oct 16 at the ErF Gallery for a live screening of Chunks followed by a live talkback featuring Will, Hesse & Podcast About List, tickets here: https://www.erf.nyc/events/chapo-trap-house-screening",
-          "publishedAt": "2026-10-06T04:03:01.000Z",
-          "audio": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2413900962-chapo-trap-house-1077-doormat-mother-feat-alex.mp3",
-          "duration": "01:32:58",
-          "link": "https://soundcloud.com/chapo-trap-house/1077-doormat-mother-feat-alex"
         }
       ]
     },
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "9a7c770a6055e304",
+          "title": "CZM Rewind: How Congress Could Bring ICE to a Store Near You",
+          "description": "Investigative journalist, Kevin Foster discusses the Combating Organized Retail Crime Act and how it could widen ICE’s surveillance dragnet. \n Part 2 of 2\n Original air date: 08.05.26\n Sources:\n  \nhttps://truckingresearch.org/wp-content/uploads/2026/01/ATRI-The-Fight-Against-Cargo-Theft-Exec-Summ-12-2025.pdf\n https://www.cargonet.com/news-and-events/cargonet-in-the-media/2025-theft-trends/\n https://www.freightwaves.com/news/is-cargo-theft-costing-60-billion-annually-what-that-number-actually-represents\n https://www.levernews.com/the-real-story-behind-the-highway-robbery-panic/\n https://www.congress.gov/bill/119th-congress/house-bill/2853/text\n https://www.newstore.com/articles/unified-customer-profile/\n https://law.vanderbilt.edu/eyes-everywhere-ices-expanded-use-of-surveillance-technologies/\n https://www.aclu-wi.org/news/mobile-fortify-ices-dystopic-facial-recognition-app/\n https://www.opb.org/article/2026/05/06/oregon-state-police-violated-sanctuary-law-sharing-data-ice-lawsuit-claims/\n https://www.aclu.org/news/privacy-technology/retailers-secretively-using-face-recognition\n https://vera-action.s3.us-east-2.amazonaws.com/Oppose+CORCA+Organizational+Sign-on.pdf\n https://davisvanguard.org/2026/07/orgs-oppose-retail-crime-act/\n https://www.judiciary.senate.gov/press/rep/releases/grassley-durbin-advance-bipartisan-packages-in-national-defense-authorization-act-to-crack-down-on-crime-and-protect-kids-online\n https://www.opb.org/article/2025/12/24/underground-mutual-aid-hillsboro-immigrant-families-ice/\n https://www.congress.gov/bill/119th-congress/senate-bill/5\n https://www.tucsonspotlight.org/ice-detention-bars-tucson-mom-from-her-own-trial/\n https://news.azpm.org/p/azpmnews/2026/6/11/230128-a-tucson-resident-was-arrested-for-shoplifting-now-shes-in-ice-custody/\n https://docs.house.gov/meetings/JU/JU01/20250122/117827/HHRG-119-JU01-20250122-SD004.pdf\n https://revealnews.org/article/how-a-us-citizen-was-scanned-with-ices-facial-recognition-tech/\n https://innovationlawlab.org/news-and-analysis/video-evidence-surveillance-tech-used-op-black-rose\n https://www.404media.co/ices-facial-recognition-app-misidentified-a-woman-twice/\n \nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-11-25T05:00:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/1e94f62a-063f-4245-822b-b50c0130aba5/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "1601",
+          "link": "https://omny.fm/shows/it-could-happen-here/czm-rewind-how-congress-could-bring-ice-to-a-store-near-you"
+        },
+        {
           "id": "508f06b49c00e769",
           "title": "Executive Disorder: GTA 6, Lead Bomb, Amazon Union Busting",
           "description": "Somehow, Jensen Huang has returned. The gang also discuss right-wing reactions to Grand Theft Auto VI, the in-game parody of Nick Fuentes and Alex Jones, the real-life Army detonating a lead bomb in Iowa, and Amazon’s lobbying against the Delivery Protection Act.\n  \n Sources:\n  \nhttps://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director\n\n https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang-reinstatement-cnbc-interview-transcript.html\n\n https://truthsocial.com/@realDonaldTrump/posts/117666141823845971\n\n https://variety.com/2026/tv/news/elon-musk-invested-skydance-david-ellison-dealbook-conference-1236951800/\n\n https://x.com/nypost/status/2123526100710051921?a=RwANibe7vA0soO_RrCk&s=20\n\n https://www.nytimes.com/2026/11/21/business/dealbook/elon-musk-dealbook-summit.html\n\n https://x.com/TheDemocrats/status/2124842932834378058?a=UIsTWNzJoSgSPhhTmF0&s=20\n https://x.com/PatrickSvitek/status/2124840295607287836?a=pDdqhrJ76MfZp3v5DZY&s=20\n\n https://apnews.com/article/el-salvador-haiti-troops-killed-injured-bukelec3192c1276fd235b727666a05062db00\n\n https://www.theguardian.com/environment/2026/nov/20/us-deep-sea-mining-lease-auction-american-samoa \n https://www.courtlistener.com/docket/74662745/62/faasao-amerika-samoa-v-national-marine-fisheries-service/  \n https://www.courtlistener.com/docket/74759444/our-common-wealth-670-v-national-marine-fisheries-service/ \n\n https://icj-cij.org/case/178 \n https://x.com/M_Sawyed/status/2124221295969603610?a=EvRUskLMeL5X0pSXOUE&s=20 \n\n https://podcasts.apple.com/us/podcast/how-the-delivery-protection-act-takes-on-amazon/id1449762156?i=1000793584586 \n\n https://www.aboutamazon.com/news/policy-news-views/amazon-new-york-city-delivery-protection-act-costs \n\n https://www.nyc.gov/mayors-office/news/2026/08/mayor-mamdani-backs--delivery-protection-act--to-rein-in-amazon-  \n\n https://x.com/NYCMayor/status/2123512997335466332?a=KJigZ_0VBbbAijjNO1g&s=20 \n\n https://x.com/SpeakerMenin/status/2123453950821093704?a=95PvV3zs2vpk8G-5wyU&s=20 \n\n https://www.amazonlaborunion.org/pass-the-delivery-protection-act \n https://act.socialists.nyc/dpa-canvass \n\n https://gothamist.com/news/theyre-blowing-this-amazons-push-against-nyc-delivery-worker-bill-may-be-backfiring \n\n https://www.iowapublicradio.org/ipr-news/2026-11-22/southeast-iowa-lead-azide-explosion-wednesday-army\n https://www.pbs.org/newshour/nation/u-s-army-plans-to-invoke-emergency-provisions-to-detonate-bomb-making-chemicals-in-iowa\n https://www.newsweek.com/army-sets-iowa-lead-azide-blast-for-thanksgiving-eve-despite-court-pause-12755210\n https://variety.com/2026/gaming/news/gta-6-fox-news-clavicular-manosphere-lucia-1236953444/\n \nSee omnystudio.com/listener for privacy information.",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/57fb9d3f-9ec9-4473-8b02-b50401147473/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "1821",
           "link": "https://omny.fm/shows/it-could-happen-here/biden-and-the-war-on-gaza"
-        },
-        {
-          "id": "d526b177b6e4ca1f",
-          "title": "Why Can't We Buy Union Made Raincoats?",
-          "description": "James talks about the ethics of outdoor gear manufacturing and hears from Forgeline Fieldwear about the barriers to US made technical clothing.\n www.forgelinefieldwear.com\n https://www.fgwm-solidarity.org/news/\n https://www.goreclassaction.com/documents  \nhttps://apparelproductionny.com/services/full-production-packages/  \nhttps://www.themarshallproject.org/2026/07/09/prison-labor-america-photos  \nhttps://davidgraeber.org/articles/on-the-phenomenon-of-bullshit-jobs-a-work-rant/  \nhttps://sea.theanarchistlibrary.org/library/icl-cit-icl-delegation-meet-myanmar-comrades-in-thailand-id  \nhttps://www.iclcit.org/iii-icl-congress-from-italy-to-palestine-myanmar-or-brazil/  \nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-11-16T13:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f2b95a3b-24fb-446d-bf98-b49f00dc3cc3/96e37607-5f72-4166-80bd-b50200235f47/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "1617",
-          "link": "https://omny.fm/shows/natural-causes/why-cant-we-buy-union-made-raincoats"
         }
       ]
     },
