@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T19:54:33.037Z",
+  "updatedAt": "2026-11-26T19:35:26.401Z",
   "podcasts": [
     {
       "id": "chapo-trap-house",
@@ -210,6 +210,15 @@
       "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss",
       "episodes": [
         {
+          "id": "f6ec023e566062c1",
+          "title": "Making Your Own Gear",
+          "description": "James talks about how to spend your Black Friday making stuff, not buying stuff.\nSee omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-11-25T22:15:00.000Z",
+          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f2b95a3b-24fb-446d-bf98-b49f00dc3cc3/c8aead48-0a04-4333-9e7c-b50d0154643f/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
+          "duration": "735",
+          "link": "https://omny.fm/shows/natural-causes/making-your-own-gear"
+        },
+        {
           "id": "9a7c770a6055e304",
           "title": "CZM Rewind: How Congress Could Bring ICE to a Store Near You",
           "description": "Investigative journalist, Kevin Foster discusses the Combating Organized Retail Crime Act and how it could widen ICE’s surveillance dragnet. \n Part 2 of 2\n Original air date: 08.05.26\n Sources:\n  \nhttps://truckingresearch.org/wp-content/uploads/2026/01/ATRI-The-Fight-Against-Cargo-Theft-Exec-Summ-12-2025.pdf\n https://www.cargonet.com/news-and-events/cargonet-in-the-media/2025-theft-trends/\n https://www.freightwaves.com/news/is-cargo-theft-costing-60-billion-annually-what-that-number-actually-represents\n https://www.levernews.com/the-real-story-behind-the-highway-robbery-panic/\n https://www.congress.gov/bill/119th-congress/house-bill/2853/text\n https://www.newstore.com/articles/unified-customer-profile/\n https://law.vanderbilt.edu/eyes-everywhere-ices-expanded-use-of-surveillance-technologies/\n https://www.aclu-wi.org/news/mobile-fortify-ices-dystopic-facial-recognition-app/\n https://www.opb.org/article/2026/05/06/oregon-state-police-violated-sanctuary-law-sharing-data-ice-lawsuit-claims/\n https://www.aclu.org/news/privacy-technology/retailers-secretively-using-face-recognition\n https://vera-action.s3.us-east-2.amazonaws.com/Oppose+CORCA+Organizational+Sign-on.pdf\n https://davisvanguard.org/2026/07/orgs-oppose-retail-crime-act/\n https://www.judiciary.senate.gov/press/rep/releases/grassley-durbin-advance-bipartisan-packages-in-national-defense-authorization-act-to-crack-down-on-crime-and-protect-kids-online\n https://www.opb.org/article/2025/12/24/underground-mutual-aid-hillsboro-immigrant-families-ice/\n https://www.congress.gov/bill/119th-congress/senate-bill/5\n https://www.tucsonspotlight.org/ice-detention-bars-tucson-mom-from-her-own-trial/\n https://news.azpm.org/p/azpmnews/2026/6/11/230128-a-tucson-resident-was-arrested-for-shoplifting-now-shes-in-ice-custody/\n https://docs.house.gov/meetings/JU/JU01/20250122/117827/HHRG-119-JU01-20250122-SD004.pdf\n https://revealnews.org/article/how-a-us-citizen-was-scanned-with-ices-facial-recognition-tech/\n https://innovationlawlab.org/news-and-analysis/video-evidence-surveillance-tech-used-op-black-rose\n https://www.404media.co/ices-facial-recognition-app-misidentified-a-woman-twice/\n \nSee omnystudio.com/listener for privacy information.",
@@ -289,15 +298,6 @@
           "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/07e6ab7b-8a52-4cc3-af81-b5060135a60f/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
           "duration": "2662",
           "link": "https://omny.fm/shows/it-could-happen-here/organizing-agricultural-workers"
-        },
-        {
-          "id": "f7b3e8e898430a5e",
-          "title": "Biden and the War on Gaza",
-          "description": "In this episode Dana El Kurd talks with Akbar Shahid Ahmed, journalist and author of the new book “Crossing the Red Line: Biden, His Advisors, and Israel’s War on Gaza.” Akbar talks about the interviews he conducted for his new book, and how they show the Biden administration empowered the Israeli war on Gaza.\n Sources:\n https://wwnorton.com/books/9781324118190\nSee omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-11-17T05:00:00.000Z",
-          "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/57fb9d3f-9ec9-4473-8b02-b50401147473/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
-          "duration": "1821",
-          "link": "https://omny.fm/shows/it-could-happen-here/biden-and-the-war-on-gaza"
         }
       ]
     },
@@ -309,6 +309,15 @@
       "link": "http://maintenancephase.com",
       "rss": "https://rss.buzzsprout.com/1411126.rss",
       "episodes": [
+        {
+          "id": "355985c49ce24de1",
+          "title": "Thanksgiving Bonus: Estranged Parents And The Newspapers That Love Them",
+          "description": "For all of our listeners dealing with difficult families today, here is our latest Patreon episode: The story of some that are even worse than yours. \n\n\nSupport us:\n\nHear bonus episodes on Patreon\nWatch Aubrey's documentary\nBuy Aubrey's book\nListen to Mike's other podcast\nGet Maintenance Phase T-shirts, stickers and more\n\nThanks to Doctor Dreamchip for our lovely theme song!\nSupport the show",
+          "publishedAt": "2026-11-26T10:00:00.000Z",
+          "audio": "https://www.buzzsprout.com/1411126/episodes/20183019-thanksgiving-bonus-estranged-parents-and-the-newspapers-that-love-them.mp3",
+          "duration": "6042",
+          "link": ""
+        },
         {
           "id": "8ca844e8c890e01e",
           "title": "Suzanne Somers Part 2",
@@ -388,15 +397,6 @@
           "publishedAt": "2026-02-12T10:00:00.000Z",
           "audio": "https://www.buzzsprout.com/1411126/episodes/18666557-the-diet-crimes-of-metabolife.mp3",
           "duration": "3428",
-          "link": ""
-        },
-        {
-          "id": "77d648ad5d346dad",
-          "title": "Raw Milk",
-          "description": "Once widely banned, raw milk consumption is on the rise and states are repealing their bans. No one’s happier about that than the far right. How did we get here?\nNOTE: In the retelling of Pasteur’s early pasteurization, Aubrey misspoke! The culprit wasn’t lactic yeast, it was lactic acid bacteria. Sorry for the slip up!\nSupport us:\n\nHear bonus episodes on Patreon\nWatch Aubrey's documentary\nBuy Aubrey's book\nListen to Mike's other podcast\nGet Maintenance Phase T-shirts, stickers and more\n\nLinks!\n\nMilk!: A 10,000 Year Food Fracas\nU.S. Consumer survey\nThe Effects of Pasteurization on Vitamins\nLingering Heat over Pasteurized Milk\nHow pasteurization improves safety\nSwill-Milk and Infant Mortality\nAlta Dena (Court case 1, Court case 2, Alta Dena's raw milk history)\nA Raw Milk Magnate Has Spent Years Fighting Public Health Agencies\nShould This Milk Be Legal?\nThe Amish farmer who ignited outrage over raw milk\nWhy Are People Promoting Raw Milk? \nThe Quest for Raw Milk\nSome Raw Truths About Raw Milk\nRight Wing Commentators Are Pushing Misinformation\nHow Raw Milk Went From Hippie to MAGA \nHere's why raw milk drinkers need to be concerned about bird flu\nInfluencers promote raw milk \n\nThanks to Doctor Dreamchip for our lovely theme song!\nSupport the show",
-          "publishedAt": "2025-11-13T10:00:00.000Z",
-          "audio": "https://www.buzzsprout.com/1411126/episodes/18180572-raw-milk.mp3",
-          "duration": "3943",
           "link": ""
         }
       ]
@@ -510,6 +510,15 @@
       "rss": "https://feeds.simplecast.com/Fa0PP4fl",
       "episodes": [
         {
+          "id": "03752afd9d99ecc9",
+          "title": "Bonus #208 - Kushgiving w/ George Civeris and Liza Treyger [PATREON PREVIEW]",
+          "description": "Patreon preview. Unlock full episode at https://www.patreon.com/stavvysworld\nAfter Thanksgiving dinner, comes Kushgiving loud. George Civeris and Liza Treyger join the pod to chop it up with Stav like they're cousins in the basement hanging out after the family dinner, discussing topics like Ben Affleck's extremely divorced tattoos, the weight of immigrant upbringings, getting too old for drugs, and oh, so much poignantly-ass more. George, Liza and Stav help callers including a woman who's wondering if she should adopt her nephew to teach his deadbeat mom a lesson, and a man who's not sure if he's bi or just gay.\nFollow George Civeris on social media:\nhttps://www.georgeciveris.com/\nhttps://www.instagram.com/georgeciveris/\nhttps://x.com/georgeciveris\nFollow Liza Treyger on social media:\nhttps://www.instagram.com/glittercheese\nhttps://youtube.com/@LizaTreygerStandup\nhttps://tiktok.com/@lizatreyger\n😏 Buy the Stavvy Baby 2027 calendar! https://shop.stavvy.biz/\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n🎟️ See Stavvy live!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+          "publishedAt": "2026-11-26T11:00:00.000Z",
+          "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/ad27bdd7-1a77-4429-a586-3adfee68b3f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=ad27bdd7-1a77-4429-a586-3adfee68b3f7&feed=Fa0PP4fl",
+          "duration": "00:06:30",
+          "link": "https://siriusxm.com"
+        },
+        {
           "id": "4dcf9022077b1e22",
           "title": "#208 - Carl Tart and Mandal",
           "description": "Carl Tart and Mandal return for a special Thanksgiving edition of the pod to discuss the diversity of the fat coalition, whether turkey sucks or not, tradition existing to prevent pure overindulgence, the audacity of US Polo Assn, the downfall of Big Dogs, general plus size shopping options, callous humor as a defense mechanism in youth, harboring grudges against enemies, eating delicious cupcakes with a cup of milk during the pod, and much more. Carl, Mandal and Stav help callers including a fat who's on a consistently healthy track for the first time in his life who wants tips on how to stick to his diet throughout the holidays, a woman who wants to prevent Thanksgiving from turning into a fat-shaming family pile-on of her obese brother, and a woman wondering if she should hook up with her adult virgin suitor on an upcoming trip.\nWatch Mandal's debut half hour $$$$$$: A STAND UP COMEDY PROGRAM: https://www.youtube.com/watch?v=C0ugeg7cysw\nFollow Mandal on social media:\nhttps://www.instagram.com/themandalman\nhttps://www.tiktok.com/@mansandalman    \nSee Doughboys with special guests Carl Tart and Zach Cherry live at The Wilbur in Boston on 11/25 (Thanksgiving Eve!): https://thewilbur.com/event/doughboys/\nFollow Carl Tart on social media:\nhttps://www.instagram.com/dammitcarl\nThanks to our sponsors!!\nVisible - https://www.visible.com/ SWITCH NOW!\nTwisted Tea - https://www.twistedtea.com/locations Keep It Twisted!!\nRidge - https://www.Ridge.com/STAVVY\n😏 Buy the Stavvy Baby 2027 calendar! https://shop.stavvy.biz/\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n🎟️ See Stavvy live!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
@@ -588,15 +597,6 @@
           "publishedAt": "2026-10-26T10:00:00.000Z",
           "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/331db881-d74c-4344-8bd8-43511664f42d/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=331db881-d74c-4344-8bd8-43511664f42d&feed=Fa0PP4fl",
           "duration": "01:47:00",
-          "link": "https://siriusxm.com"
-        },
-        {
-          "id": "3c14f0823b0c956b",
-          "title": "Bonus #203 - Brandon Wardell [PATREON PREVIEW]",
-          "description": "Patreon preview. Unlock full episode at https://www.patreon.com/stavvysworld\nBrandon Wardell returns to the pod to discuss his induction into the elite 5 Timers Club of Stavvy's World guests, trying to insert himself into the Wasian discourse, attending a pal's wedding with Stav, and much more. Brandon and Stav help callers including a woman whose ex-boyfriend is stuck in cuck purgatory after they broke up but still live together, and a woman who normally only dates women but is considering making a move on the male personal trainer that she's developed feelings for.\nFollow Brandon Wardell on social media:\nhttps://linktr.ee/brandonwardell\nhttps://www.instagram.com/bswardell\nhttps://x.com/BRANDONWARDELL\n☎️ Want to be a part of the show? Call 904-800-STAV and leave a voicemail to get advice!\n🎤 Watch Uncle Stav on Netflix: https://www.netflix.com/title/82055929\n‼️ Bonus episodes every week! Unlock exclusive, Patreon-only episodes at https://www.patreon.com/stavvysworld\n🎟️ See Stavvy live!! https://stavvy.biz/ for tickets\n \nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-          "publishedAt": "2026-10-22T10:00:00.000Z",
-          "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/bfecb511-1747-40b9-9f28-3fbd462c3a77/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=bfecb511-1747-40b9-9f28-3fbd462c3a77&feed=Fa0PP4fl",
-          "duration": "00:13:59",
           "link": "https://siriusxm.com"
         }
       ]
